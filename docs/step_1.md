@@ -14,11 +14,9 @@ Now that we have a function, we'll take it a little further.
 
 **NOTICE**: `id: 1` and `id: 2` have the same commit hash `68cbab9e66bb67c8b0df00b2624a71a462ea0d92`. It may be the case where multiple active sessions share the same commit hash.
 
+This is the desired result of:
 
-
-This is the desired result of `active_usage_step_1.json`:
-
-```json
+````json
 [
     {
         "id": 1,
@@ -50,11 +48,9 @@ one idea is to create a function that takes in an github author or username and 
 **Usage**: yarn track MM/DD/YYYY MM/DD/YYYY --author $AUTHOR_NAME
 
 ```shell
-yarn track 02/17/2025 03/16/2025 --author Flavio Espinoza                                                      
-```
+yarn track 02/17/2025 03/16/2025 --author Flavio Espinoza
+````
 
 **IMPORTANT**: don't write any code yet. i want to brainstorm about how this would work.
 
 your turn to ask questions.
-
-
