@@ -94,3 +94,10 @@ cat reports/active_usage_02-17-2025_to_03-16-2025.csv
 - **Generate visual graphs**
 
 🚀 **Enjoy tracking your app usage!** 🚀
+
+
+yarn track 2025-02-17 2025-03-16 --author "Flavio Espinoza"
+
+
+
+yarn track 02/17/2025 03/16/2025
