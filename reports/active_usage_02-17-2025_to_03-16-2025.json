@@ -1,1033 +1,1033 @@
 [
   {
     "id": 1,
-    "commit": "N/A",
+    "commit": "9c7fc2b45e7348a0cc6da962b381f1876f513f3d",
     "sessionStart": "2025-03-14T01:46:55.522Z",
     "sessionEnd": "2025-03-14T01:50:31.667Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "removed_unused",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 2,
-    "commit": "N/A",
+    "commit": "06df58584c728d616fa2a4e5f5040b051a127571",
     "sessionStart": "2025-03-14T01:50:31.667Z",
     "sessionEnd": "2025-03-14T01:53:13.334Z",
     "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "enter otp and goodbye components refactored.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 3,
-    "commit": "N/A",
+    "commit": "b5e02c0d8dc78ae1957a52f32f312be917c3583c",
     "sessionStart": "2025-03-14T01:53:13.334Z",
     "sessionEnd": "2025-03-14T01:54:42.464Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "dark_light_mode",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 4,
-    "commit": "N/A",
+    "commit": "4060bd2610cbad39958dd98a46889eb3b95c0785",
     "sessionStart": "2025-03-14T01:54:42.464Z",
     "sessionEnd": "2025-03-14T01:57:30.879Z",
     "durationHours": "0.05",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "title",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 5,
-    "commit": "N/A",
+    "commit": "680f1064eac6d5c16e8e21f3d3979d4dc48cd179",
     "sessionStart": "2025-03-14T01:57:30.879Z",
     "sessionEnd": "2025-03-14T01:58:07.630Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "removed_unused",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 6,
-    "commit": "N/A",
+    "commit": "4dc69a3dade2ed3af921f81697c47c2860d5f45f",
     "sessionStart": "2025-03-14T01:58:07.630Z",
     "sessionEnd": "2025-03-14T02:01:39.773Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "formatting",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 7,
-    "commit": "N/A",
+    "commit": "0c2b6e87ff80609c7a630cbc0ab7aa66d5667d38",
     "sessionStart": "2025-03-14T02:01:39.773Z",
     "sessionEnd": "2025-03-14T02:02:28.447Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-auth",
+    "task": "Refactored the UI to match bless.network/dashboard/login. Added social login buttions.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 8,
-    "commit": "N/A",
+    "commit": "5e761699ff32c966362e2dfb3a39631923b76afc",
     "sessionStart": "2025-03-14T02:02:28.447Z",
     "sessionEnd": "2025-03-14T02:02:52.229Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "doc: getting-started.md update",
+    "author": "flavioespinoza"
   },
   {
     "id": 9,
-    "commit": "N/A",
+    "commit": "2613dee80ca85f449fcc7ad599aa8b62778828d9",
     "sessionStart": "2025-03-14T02:02:52.229Z",
     "sessionEnd": "2025-03-14T02:05:56.052Z",
     "durationHours": "0.05",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Add getting-started.md documentation",
+    "author": "flavioespinoza"
   },
   {
     "id": 10,
-    "commit": "N/A",
+    "commit": "a06e9ac99d583ce3c89dc9b102b9a96dd88c7bde",
     "sessionStart": "2025-03-14T02:05:56.052Z",
     "sessionEnd": "2025-03-14T02:06:05.368Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Fix build process and add 'use client' directive handling",
+    "author": "flavioespinoza"
   },
   {
     "id": 11,
-    "commit": "N/A",
+    "commit": "030991402d3948c923e40651f773438c03efc095",
     "sessionStart": "2025-03-14T02:06:05.368Z",
     "sessionEnd": "2025-03-14T02:06:37.180Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "formatting",
+    "author": "flavioespinoza"
   },
   {
     "id": 12,
-    "commit": "N/A",
+    "commit": "919a4f0370b6ec450c92cb6d81aaeb8d186baa85",
     "sessionStart": "2025-03-14T02:06:37.180Z",
     "sessionEnd": "2025-03-14T02:07:12.127Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Configure project for NPM package publication",
+    "author": "flavioespinoza"
   },
   {
     "id": 13,
-    "commit": "N/A",
+    "commit": "889886f168587437358fb4c175669b733fae720b",
     "sessionStart": "2025-03-14T02:07:12.127Z",
     "sessionEnd": "2025-03-14T02:07:56.956Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "## docs(`card.md`): enhance documentation for `CardSection` component",
+    "author": "flavioespinoza"
   },
   {
     "id": 14,
-    "commit": "N/A",
+    "commit": "5518726a7dace6e6cea6d676940f3db2cb660aec",
     "sessionStart": "2025-03-14T02:07:56.956Z",
     "sessionEnd": "2025-03-14T02:09:52.023Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "docs: enhance Card and CardSection documentation with detailed exports and props",
+    "author": "flavioespinoza"
   },
   {
     "id": 15,
-    "commit": "N/A",
+    "commit": "d3d0989ae34eb9a54bc9cd6596d34168a9e64adb",
     "sessionStart": "2025-03-14T02:09:52.023Z",
     "sessionEnd": "2025-03-14T02:11:01.549Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "updated docs",
+    "author": "flavioespinoza"
   },
   {
     "id": 16,
-    "commit": "N/A",
+    "commit": "432610c07d57975ddd229e1115508f79ae82e092",
     "sessionStart": "2025-03-14T02:11:01.549Z",
     "sessionEnd": "2025-03-14T02:13:02.476Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Enhance Card and CardSection components with dynamic card type support",
+    "author": "flavioespinoza"
   },
   {
     "id": 17,
-    "commit": "N/A",
+    "commit": "ea6cb73f6f198ffcfae408cd9b094ea73713341b",
     "sessionStart": "2025-03-14T02:13:02.476Z",
     "sessionEnd": "2025-03-14T02:14:31.294Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Removed temp folder",
+    "author": "flavioespinoza"
   },
   {
     "id": 18,
-    "commit": "N/A",
+    "commit": "0ae93a162cf96cfa30690b672248061d5c5d1bbf",
     "sessionStart": "2025-03-14T02:14:31.294Z",
     "sessionEnd": "2025-03-14T02:14:59.139Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "docs",
+    "author": "flavioespinoza"
   },
   {
     "id": 19,
-    "commit": "N/A",
+    "commit": "8918496122e6c84d56c984b2ed4ef45b330dbb0f",
     "sessionStart": "2025-03-14T02:14:59.139Z",
     "sessionEnd": "2025-03-14T02:15:25.237Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "docs",
+    "author": "flavioespinoza"
   },
   {
     "id": 20,
-    "commit": "N/A",
+    "commit": "6ea9be7fba136fbf4cb87bb681c3ce82ea60fbbb",
     "sessionStart": "2025-03-14T02:15:25.237Z",
     "sessionEnd": "2025-03-14T02:15:34.447Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Added docs for Card and CardSection components.",
+    "author": "flavioespinoza"
   },
   {
     "id": 21,
-    "commit": "N/A",
+    "commit": "26fdfc397f30de9ac02aaa80f7d70ab185523534",
     "sessionStart": "2025-03-14T02:15:34.447Z",
     "sessionEnd": "2025-03-14T02:16:11.424Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Refactor HomePage with CardSection component",
+    "author": "flavioespinoza"
   },
   {
     "id": 22,
-    "commit": "N/A",
+    "commit": "1671e2582f8b33c5c54b3e9e6e79ffb71bb57de9",
     "sessionStart": "2025-03-14T02:16:11.424Z",
     "sessionEnd": "2025-03-14T02:16:31.619Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "chore: reduced gap between cards",
+    "author": "flavioespinoza"
   },
   {
     "id": 23,
-    "commit": "N/A",
+    "commit": "806d0becc751c4f212e70e84519dd3c92f5670c5",
     "sessionStart": "2025-03-14T02:16:31.619Z",
     "sessionEnd": "2025-03-14T02:18:02.402Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "feat(homepage): Replace existing cards with new Card component",
+    "author": "flavioespinoza"
   },
   {
     "id": 24,
-    "commit": "N/A",
+    "commit": "16b8c865a590a6ab02170ed52d1371fcce11e9b7",
     "sessionStart": "2025-03-14T02:18:02.402Z",
     "sessionEnd": "2025-03-14T02:19:57.495Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Stop tracking todo.md",
+    "author": "flavioespinoza"
   },
   {
     "id": 25,
-    "commit": "N/A",
+    "commit": "30efd2154ff92bad3ed337399626520053a902c2",
     "sessionStart": "2025-03-14T02:19:57.495Z",
     "sessionEnd": "2025-03-14T02:20:20.172Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fix: stop tracking notes.md",
+    "author": "flavioespinoza"
   },
   {
     "id": 26,
-    "commit": "N/A",
+    "commit": "17dd7c90aac20b70dfa0eb61f13e5db3e7743f09",
     "sessionStart": "2025-03-14T02:20:20.172Z",
     "sessionEnd": "2025-03-14T02:20:48.698Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fix: fluid-tailwind extract error.",
+    "author": "flavioespinoza"
   },
   {
     "id": 27,
-    "commit": "N/A",
+    "commit": "872ecfe1fa5ee3933e2ffc55275b927a0fc9954f",
     "sessionStart": "2025-03-14T02:20:48.698Z",
     "sessionEnd": "2025-03-14T02:21:37.583Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "# Optimization and Refactoring Tasks",
+    "author": "flavioespinoza"
   },
   {
     "id": 28,
-    "commit": "N/A",
+    "commit": "4044bf4d9ad7dbee344f8194c2a7645da00d375f",
     "sessionStart": "2025-03-14T02:21:37.583Z",
     "sessionEnd": "2025-03-14T02:22:06.453Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merged main",
+    "author": "flavioespinoza"
   },
   {
     "id": 29,
-    "commit": "N/A",
+    "commit": "54e6ca68724841f7b1c61b05331218b3c25d2193",
     "sessionStart": "2025-03-14T02:22:06.453Z",
     "sessionEnd": "2025-03-14T02:23:30.497Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge pull request #5 from blessnetwork/dependabot/npm_and_yarn/prismjs-1.30.0",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 30,
-    "commit": "N/A",
+    "commit": "07649350ba0883ebe87d710860235a44a8cb6587",
     "sessionStart": "2025-03-14T02:23:30.497Z",
     "sessionEnd": "2025-03-14T02:25:37.379Z",
     "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Removed unused components.",
+    "author": "flavioespinoza"
   },
   {
     "id": 31,
-    "commit": "N/A",
+    "commit": "e01eb30bfbaf93db3aba6fa6809db3139507096d",
     "sessionStart": "2025-03-14T02:25:37.379Z",
     "sessionEnd": "2025-03-14T02:29:02.932Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Removed unused components.",
+    "author": "flavioespinoza"
   },
   {
     "id": 32,
-    "commit": "N/A",
+    "commit": "0cab190f504e8aeb5436f2cc2cbde93653264b54",
     "sessionStart": "2025-03-14T02:29:02.932Z",
     "sessionEnd": "2025-03-14T02:31:22.284Z",
     "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Removed unused components.",
+    "author": "flavioespinoza"
   },
   {
     "id": 33,
-    "commit": "N/A",
+    "commit": "52801621f9a9dd581a2d2d6f7b3a2f9de29388ad",
     "sessionStart": "2025-03-14T02:31:22.284Z",
     "sessionEnd": "2025-03-14T02:32:12.144Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "feat: integrate Zustand for sidenav state management, restructure layout, and add new pages",
+    "author": "flavioespinoza"
   },
   {
     "id": 34,
-    "commit": "N/A",
+    "commit": "c42553ae0788c6686d0d9b7c68dbd4764bcc386b",
     "sessionStart": "2025-03-14T02:32:12.144Z",
     "sessionEnd": "2025-03-14T02:32:44.052Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "added zustand for state management.",
+    "author": "flavioespinoza"
   },
   {
     "id": 35,
-    "commit": "N/A",
+    "commit": "1f263713d5beabcb0c9c105996970e536f4be3c0",
     "sessionStart": "2025-03-14T02:32:44.052Z",
     "sessionEnd": "2025-03-14T02:33:06.099Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Fixed path name for active route.",
+    "author": "flavioespinoza"
   },
   {
     "id": 36,
-    "commit": "N/A",
+    "commit": "a1e549326e2dd4ed8fd62dd78787d338cbebd0e6",
     "sessionStart": "2025-03-14T02:33:06.099Z",
     "sessionEnd": "2025-03-14T02:33:24.924Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Proper icons and menu items added",
+    "author": "flavioespinoza"
   },
   {
     "id": 37,
-    "commit": "N/A",
+    "commit": "25af27148347f43f14f240c0251323e9ce8c056a",
     "sessionStart": "2025-03-14T02:33:24.924Z",
     "sessionEnd": "2025-03-14T02:33:52.845Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Collapsible header refactored and icons added.",
+    "author": "flavioespinoza"
   },
   {
     "id": 38,
-    "commit": "N/A",
+    "commit": "0cb41a9579619486b63d4749e9ed6886021a661a",
     "sessionStart": "2025-03-14T02:33:52.845Z",
     "sessionEnd": "2025-03-14T02:34:34.024Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Refactored toggle for side-nav.",
+    "author": "flavioespinoza"
   },
   {
     "id": 39,
-    "commit": "N/A",
+    "commit": "f7edf490016a821897b3595fef9a3cea0656a243",
     "sessionStart": "2025-03-14T02:34:34.024Z",
     "sessionEnd": "2025-03-14T02:36:59.376Z",
     "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Responsive layout first phase solved.",
+    "author": "flavioespinoza"
   },
   {
     "id": 40,
-    "commit": "N/A",
+    "commit": "e1a093d9fff0b2e1da79d3ed89d772e3b43e17bd",
     "sessionStart": "2025-03-14T02:36:59.376Z",
     "sessionEnd": "2025-03-14T02:37:18.668Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Responsive layout first phase solved.",
+    "author": "flavioespinoza"
   },
   {
     "id": 41,
-    "commit": "N/A",
+    "commit": "5347c52a472bafa89a591beeae145483404cdfcd",
     "sessionStart": "2025-03-14T02:37:18.668Z",
     "sessionEnd": "2025-03-14T02:39:01.791Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Added husky pre-commit for prettier",
+    "author": "flavioespinoza"
   },
   {
     "id": 42,
-    "commit": "N/A",
+    "commit": "5605047a7cde015cc63f85141b6db4d1140e1157",
     "sessionStart": "2025-03-14T02:39:01.791Z",
     "sessionEnd": "2025-03-14T02:39:39.975Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Added husky pre-commit for prettier",
+    "author": "flavioespinoza"
   },
   {
     "id": 43,
-    "commit": "N/A",
+    "commit": "2502f041633c76183142508d3def540d18727dc9",
     "sessionStart": "2025-03-14T02:39:39.975Z",
     "sessionEnd": "2025-03-14T02:41:27.148Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "test: husky pre-commit",
+    "author": "flavioespinoza"
   },
   {
     "id": 44,
-    "commit": "N/A",
+    "commit": "cd7152e517bcd9af8f405f2d29ba038823228381",
     "sessionStart": "2025-03-14T02:41:27.148Z",
     "sessionEnd": "2025-03-14T02:41:54.415Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fix: side-nav active state and menu items default and hover states.",
+    "author": "flavioespinoza"
   },
   {
     "id": 45,
-    "commit": "N/A",
+    "commit": "a300fe5e0609f41b2801e75744fe64d2312dd7d8",
     "sessionStart": "2025-03-14T02:41:54.415Z",
     "sessionEnd": "2025-03-14T02:45:22.883Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Fixed side-nav toggle on desktop.",
+    "author": "flavioespinoza"
   },
   {
     "id": 46,
-    "commit": "N/A",
+    "commit": "7c429dfa10cc6862882e48067d1fd231b1124441",
     "sessionStart": "2025-03-14T02:45:22.883Z",
     "sessionEnd": "2025-03-14T02:45:36.109Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "parentWrapper",
+    "author": "flavioespinoza"
   },
   {
     "id": 47,
-    "commit": "N/A",
+    "commit": "1f0c5c5ca54c43ee3172ef6c6b456b31aad0e9de",
     "sessionStart": "2025-03-14T02:45:36.109Z",
     "sessionEnd": "2025-03-14T02:45:54.771Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "parentWrapper",
+    "author": "flavioespinoza"
   },
   {
     "id": 48,
-    "commit": "N/A",
+    "commit": "f0c24a6af9ce340e80c25f30665e6f61c7fa2e29",
     "sessionStart": "2025-03-14T02:45:54.771Z",
     "sessionEnd": "2025-03-14T02:46:10.509Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Removed side-nav route.",
+    "author": "flavioespinoza"
   },
   {
     "id": 49,
-    "commit": "N/A",
+    "commit": "d5fa4ece16ae2f462d65c648828a6b37e49e70f8",
     "sessionStart": "2025-03-14T02:46:10.509Z",
     "sessionEnd": "2025-03-14T02:47:01.670Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fix: working on header responsiveness.",
+    "author": "flavioespinoza"
   },
   {
     "id": 50,
-    "commit": "N/A",
+    "commit": "287be3ce6294d13254009f9ca5101aba76b3bdcb",
     "sessionStart": "2025-03-14T02:47:01.670Z",
     "sessionEnd": "2025-03-14T02:48:06.174Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav responsiveness.",
+    "author": "flavioespinoza"
   },
   {
     "id": 51,
-    "commit": "N/A",
+    "commit": "28d1476f0357362ed1fd85beee4fbf3eefa11716",
     "sessionStart": "2025-03-14T02:48:06.174Z",
     "sessionEnd": "2025-03-14T02:48:31.970Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fix: Sidenav not collapsing on desktop.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 52,
-    "commit": "N/A",
+    "commit": "ef40ac98c97fb1af295f91b5bec8243f31a41bfe",
     "sessionStart": "2025-03-14T02:48:31.970Z",
     "sessionEnd": "2025-03-14T02:50:22.692Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "header_in_progress",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 53,
-    "commit": "N/A",
+    "commit": "7984164c73314ae5aefa14ecbaf51f7f29c5ea34",
     "sessionStart": "2025-03-14T02:50:22.692Z",
     "sessionEnd": "2025-03-14T02:51:40.537Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Fixed collapse error.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 54,
-    "commit": "N/A",
+    "commit": "207e01cce0383a55fe25bc924dc885b38b1bb932",
     "sessionStart": "2025-03-14T02:51:40.537Z",
     "sessionEnd": "2025-03-14T02:52:04.733Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Fixed collapse error.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 55,
-    "commit": "N/A",
+    "commit": "1ac2c83f07afd6196874c676932aeee46cfea94f",
     "sessionStart": "2025-03-14T02:52:04.733Z",
     "sessionEnd": "2025-03-14T02:52:42.712Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge branch 'main' of https://github.com/blocklessnetwork/bless-ui into main",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 56,
-    "commit": "N/A",
+    "commit": "63d6f41d2986c42c0cce01a7992dc5fafc452ebd",
     "sessionStart": "2025-03-14T02:52:42.712Z",
     "sessionEnd": "2025-03-14T02:54:07.519Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "main",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 57,
-    "commit": "N/A",
+    "commit": "06e649e727497a660041aeffa8e22d2d2fed331c",
     "sessionStart": "2025-03-14T02:54:07.519Z",
     "sessionEnd": "2025-03-14T02:55:19.921Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Create nextjs.yml",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 58,
-    "commit": "N/A",
+    "commit": "f51869281a2a543fdc1f503ebd19596d52a3b989",
     "sessionStart": "2025-03-14T02:55:19.921Z",
     "sessionEnd": "2025-03-14T02:58:51.580Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Update docs.yml",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 59,
-    "commit": "N/A",
+    "commit": "3b5558e8fe743ef99b0bd6be0283465b003d1874",
     "sessionStart": "2025-03-14T02:58:51.580Z",
     "sessionEnd": "2025-03-14T02:59:53.849Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge pull request #4 from blessnetwork/highlight",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 60,
-    "commit": "N/A",
+    "commit": "52b775b11b00e315316a0c1f0e5834e4228d3c16",
     "sessionStart": "2025-03-14T02:59:53.849Z",
     "sessionEnd": "2025-03-14T03:01:50.160Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "fresh_yarn_lock",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 61,
-    "commit": "N/A",
+    "commit": "a9fdd8783e4e94bb8989970d32da655070117478",
     "sessionStart": "2025-03-14T03:01:50.160Z",
     "sessionEnd": "2025-03-14T03:02:52.760Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "resolved_conflicts",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 62,
-    "commit": "N/A",
+    "commit": "ca771145577823b778a045dc24b41035ea7849ad",
     "sessionStart": "2025-03-14T03:02:52.760Z",
     "sessionEnd": "2025-03-14T03:03:05.475Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "removed_yarn_lock",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 63,
-    "commit": "N/A",
+    "commit": "f3123467c53b73aa0dda64f58f892518dfec151d",
     "sessionStart": "2025-03-14T12:07:31.174Z",
     "sessionEnd": "2025-03-14T12:07:43.745Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "formatting",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 64,
-    "commit": "N/A",
+    "commit": "51fe6fe4bf5af38c368929c456106b3c4d9fe4e3",
     "sessionStart": "2025-03-14T12:07:43.745Z",
     "sessionEnd": "2025-03-14T12:08:38.375Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "feat: update side-nav and page components to resize <main> when menu collapses or opens",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 65,
-    "commit": "N/A",
+    "commit": "7819d3b1ebca43a12826fa975efe381d8bd00dbf",
     "sessionStart": "2025-03-14T12:08:38.375Z",
     "sessionEnd": "2025-03-14T12:09:56.496Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "feat: update side-nav, popover, and page components for improved navigation and popovers",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 66,
-    "commit": "N/A",
+    "commit": "f51888376e6a17663e71780c74d437b8cbeec2e0",
     "sessionStart": "2025-03-14T12:09:56.496Z",
     "sessionEnd": "2025-03-14T12:10:33.080Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge pull request #3 from blessnetwork/dependabot/npm_and_yarn/next-14.2.21",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 67,
-    "commit": "N/A",
+    "commit": "b60fe8f37a68500c4c3e2dea7d971d0142e978cd",
     "sessionStart": "2025-03-14T12:10:33.080Z",
     "sessionEnd": "2025-03-14T12:10:39.218Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge branch 'main' into dependabot/npm_and_yarn/next-14.2.21",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 68,
-    "commit": "N/A",
+    "commit": "5f1371e0334401714931b1dec087092913cfa8b6",
     "sessionStart": "2025-03-14T12:10:39.218Z",
     "sessionEnd": "2025-03-14T12:11:42.143Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge pull request #2 from blessnetwork/dependabot/npm_and_yarn/nanoid-3.3.8",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 69,
-    "commit": "N/A",
+    "commit": "41ee107c3f4518c272a8d6f8dc076db724768764",
     "sessionStart": "2025-03-14T12:11:42.143Z",
     "sessionEnd": "2025-03-14T12:12:57.834Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Merge pull request #1 from blessnetwork/dependabot/npm_and_yarn/marked-4.0.10",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 70,
-    "commit": "N/A",
+    "commit": "0e00e2c0413928e4f477fa0e1428b958c141b869",
     "sessionStart": "2025-03-14T12:12:57.834Z",
     "sessionEnd": "2025-03-14T12:13:50.254Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "notes",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 71,
-    "commit": "N/A",
+    "commit": "0da3181c71087b6ea2174dd083b03464a2990f73",
     "sessionStart": "2025-03-14T12:13:50.254Z",
     "sessionEnd": "2025-03-14T12:14:17.956Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Added mobile header with side-nav toggle.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 72,
-    "commit": "N/A",
+    "commit": "b11dc17aef53beb9bbcaaac02d98c564eb7b3007",
     "sessionStart": "2025-03-14T12:14:17.956Z",
     "sessionEnd": "2025-03-14T12:15:15.508Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Mobile header added.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 73,
-    "commit": "N/A",
+    "commit": "deb2f9b3a8c5f152ba526047b6b43ee6d6bd25eb",
     "sessionStart": "2025-03-14T12:15:15.508Z",
     "sessionEnd": "2025-03-14T12:19:09.322Z",
     "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Created fluid button with smooth transitions between large and small screens.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 74,
-    "commit": "N/A",
+    "commit": "96c0c6768267dfddf45207dd5d3aaf08953a2087",
     "sessionStart": "2025-03-14T12:19:09.322Z",
     "sessionEnd": "2025-03-14T12:26:59.037Z",
     "durationHours": "0.13",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Moved npm mods to devDependencies.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 75,
-    "commit": "N/A",
+    "commit": "0ecaee86cca393a0690650c22f5a02918d03e9fb",
     "sessionStart": "2025-03-14T12:26:59.037Z",
     "sessionEnd": "2025-03-14T12:28:19.217Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Added prettier-tailwind-plugin which sorts classNames logically.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 76,
-    "commit": "N/A",
+    "commit": "118a49c073bac2e404b193387da117010b9864af",
     "sessionStart": "2025-03-14T12:28:19.217Z",
     "sessionEnd": "2025-03-14T12:29:13.832Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "formatting",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 77,
-    "commit": "N/A",
+    "commit": "3a4707f73eabe43168619878b3cdca1cfcde9934",
     "sessionStart": "2025-03-14T12:29:13.832Z",
     "sessionEnd": "2025-03-14T12:31:49.685Z",
     "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav combined icon classes to function.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 78,
-    "commit": "N/A",
+    "commit": "0155c7d0db4a939e82e32175630e5bf350bf214a",
     "sessionStart": "2025-03-14T12:31:49.685Z",
     "sessionEnd": "2025-03-14T12:32:50.696Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav combined icon classes to function.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 79,
-    "commit": "N/A",
+    "commit": "ae197062c5b556792fca397865d19a4c34e24b18",
     "sessionStart": "2025-03-14T12:32:50.696Z",
     "sessionEnd": "2025-03-14T12:33:42.645Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav icon max size constrained to 40px",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 80,
-    "commit": "N/A",
+    "commit": "4cd6e075c6cfab9a006f2719b8d341e76fb55e1d",
     "sessionStart": "2025-03-14T12:33:42.645Z",
     "sessionEnd": "2025-03-14T12:34:19.879Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Popover component added for collapsed side-nav icons.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 81,
-    "commit": "N/A",
+    "commit": "2584d3f6c1595fc208be77404c5ae09cc070b050",
     "sessionStart": "2025-03-14T12:34:19.879Z",
     "sessionEnd": "2025-03-14T12:35:28.150Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav icon max size constrained to 40px",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 82,
-    "commit": "N/A",
+    "commit": "d23901fa6408386a13d0b02a10721854aa599546",
     "sessionStart": "2025-03-14T12:35:28.150Z",
     "sessionEnd": "2025-03-14T12:35:34.032Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav icon and text size.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 83,
-    "commit": "N/A",
+    "commit": "64bdb4d6de9aea299b34d5d21517f81688bc6e6a",
     "sessionStart": "2025-03-14T12:35:34.032Z",
     "sessionEnd": "2025-03-14T12:35:41.021Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Sidenav Icons and logo complete.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 84,
-    "commit": "N/A",
+    "commit": "15fb963858e5e80f7636ff3a31af29979ffe54dd",
     "sessionStart": "2025-03-14T12:35:41.021Z",
     "sessionEnd": "2025-03-14T12:36:00.370Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "Inter font implemented.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 85,
-    "commit": "N/A",
+    "commit": "e58e74643a1c26c190bebc82d1e39d81462e2c69",
     "sessionStart": "2025-03-14T12:36:00.370Z",
     "sessionEnd": "2025-03-14T12:36:29.941Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "bless-ui",
+    "task": "New side-nav component with new colors.",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 86,
-    "commit": "N/A",
+    "commit": "1ae9a6c5896d4abdbbfebbfbe252939ead85bfc7",
     "sessionStart": "2025-03-14T12:36:29.941Z",
     "sessionEnd": "2025-03-14T12:36:51.470Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "extension-aux",
+    "task": "Changed getUserAchievementQuiz to use the User model. (#5)",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 87,
-    "commit": "N/A",
+    "commit": "45b7da8fed6e87595580c109f5c78711e846aa8e",
     "sessionStart": "2025-03-14T12:36:51.470Z",
     "sessionEnd": "2025-03-14T12:38:04.519Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "extension-aux",
+    "task": "Merge pull request #4 from blocklessnetwork/feature/include-quiz-passed-flag",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 88,
-    "commit": "N/A",
+    "commit": "c3f302a397e1d106ca44ab27cc5ade0f0003ac88",
     "sessionStart": "2025-03-14T12:38:04.519Z",
     "sessionEnd": "2025-03-14T12:38:08.469Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "extension-aux",
+    "task": "Feature/quiz verification (#1)",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 89,
-    "commit": "N/A",
+    "commit": "e332b7842062c2ba12309bc1e9e9b07364170033",
     "sessionStart": "2025-03-14T12:38:08.469Z",
     "sessionEnd": "2025-03-14T12:54:25.291Z",
     "durationHours": "0.27",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "pull",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 90,
-    "commit": "N/A",
+    "commit": "5444d0ca3dd7e9a86cdd6a177c08e72d6e775a6f",
     "sessionStart": "2025-03-14T12:54:25.291Z",
     "sessionEnd": "2025-03-14T13:27:35.482Z",
     "durationHours": "0.55",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "setSubmitted false if there is no captchaToken",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 91,
-    "commit": "N/A",
+    "commit": "9269ce7eaa2130a5fe31d33f6d75b6343b4b7817",
     "sessionStart": "2025-03-14T13:27:35.482Z",
     "sessionEnd": "2025-03-14T13:28:21.963Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "Update quizData.ts",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 92,
-    "commit": "N/A",
+    "commit": "c3121a85ce2520e27bad72f1900b2f4bbff4a95f",
     "sessionStart": "2025-03-14T13:28:21.963Z",
     "sessionEnd": "2025-03-14T13:30:07.973Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "Changed  isPassed to isAchievementQuizCompleted",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 93,
-    "commit": "N/A",
+    "commit": "dedc6ea64e75f7fef3a2ffbd9309dbde5e5dc6da",
     "sessionStart": "2025-03-14T13:30:07.973Z",
     "sessionEnd": "2025-03-14T13:31:17.050Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "merged_main",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 94,
-    "commit": "N/A",
+    "commit": "2eed924ac7927cab299f4775fa00b29d8d61a12d",
     "sessionStart": "2025-03-14T13:31:17.050Z",
     "sessionEnd": "2025-03-14T13:32:11.781Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "log",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 95,
-    "commit": "N/A",
+    "commit": "82a79ea6a8b1ad5e682d869bf1e75298bf2e269b",
     "sessionStart": "2025-03-14T13:32:11.781Z",
     "sessionEnd": "2025-03-14T14:42:54.721Z",
     "durationHours": "1.18",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "removed_logs",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 96,
-    "commit": "N/A",
+    "commit": "33ac7d7e10ee8c214ca46ae9f44054acb590a01c",
     "sessionStart": "2025-03-14T14:42:54.721Z",
     "sessionEnd": "2025-03-14T14:43:19.983Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "fixed_checkbox",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 97,
-    "commit": "N/A",
+    "commit": "c81aad1d2981a4a263cf09f54cd78635acbbb2b8",
     "sessionStart": "2025-03-14T14:43:19.983Z",
     "sessionEnd": "2025-03-14T14:43:25.471Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "fixed_theme_on_modal",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 98,
-    "commit": "N/A",
+    "commit": "808d4dab3d277831d25d66564b1a4d705c1e0c7f",
     "sessionStart": "2025-03-14T14:43:25.471Z",
     "sessionEnd": "2025-03-14T14:44:53.814Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "fixed_theme_on_modal",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 99,
-    "commit": "N/A",
+    "commit": "6cbbb1d6c8c3474cbf48a3895ac6c18f97a0f450",
     "sessionStart": "2025-03-14T14:44:53.814Z",
     "sessionEnd": "2025-03-14T14:45:48.044Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "ready_for_review",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 100,
-    "commit": "N/A",
+    "commit": "28170062cd83ff993bc67b5368ce343880a19a6b",
     "sessionStart": "2025-03-14T14:45:48.044Z",
     "sessionEnd": "2025-03-14T14:46:03.632Z",
     "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "changes_per_butain",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 101,
-    "commit": "N/A",
+    "commit": "499f10a24f2718697fe28ba840649c8e99c44033",
     "sessionStart": "2025-03-14T14:46:03.632Z",
     "sessionEnd": "2025-03-14T14:46:49.261Z",
     "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "ready_for_review",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 102,
-    "commit": "N/A",
+    "commit": "734bd54d7cbbb617db6e90becb48bb7113f7b0f6",
     "sessionStart": "2025-03-14T14:46:49.261Z",
     "sessionEnd": "2025-03-14T14:48:36.333Z",
     "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "run-dashboard",
+    "task": "recaptcha_token",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 103,
-    "commit": "N/A",
+    "commit": "79cf107087b667d8040ec4fa0e829a4cbadfa3ab",
     "sessionStart": "2025-03-14T14:48:36.333Z",
     "sessionEnd": "2025-03-14T14:50:01.425Z",
     "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
+    "repo": "web-console",
+    "task": "Merge pull request #493 from blocklessnetwork/snyk-fix-b90b0c329b7e719a892705901e8ed64e",
+    "author": "Flavio Espinoza"
   },
   {
     "id": 104,
@@ -2202,246 +2202,6 @@
   {
     "id": 221,
     "commit": "N/A",
-    "sessionStart": "2025-03-15T15:20:13.234Z",
-    "sessionEnd": "2025-03-15T15:20:57.152Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 222,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:20:57.152Z",
-    "sessionEnd": "2025-03-15T15:23:18.142Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 223,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:23:18.142Z",
-    "sessionEnd": "2025-03-15T15:23:38.243Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 224,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:23:38.243Z",
-    "sessionEnd": "2025-03-15T15:23:46.097Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 225,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:23:46.097Z",
-    "sessionEnd": "2025-03-15T15:24:01.006Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 226,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:24:01.006Z",
-    "sessionEnd": "2025-03-15T15:26:57.185Z",
-    "durationHours": "0.05",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 227,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:26:57.185Z",
-    "sessionEnd": "2025-03-15T15:27:19.819Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 228,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:27:19.819Z",
-    "sessionEnd": "2025-03-15T15:46:01.309Z",
-    "durationHours": "0.31",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 229,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:46:01.309Z",
-    "sessionEnd": "2025-03-15T15:46:07.705Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 230,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:46:07.705Z",
-    "sessionEnd": "2025-03-15T15:46:25.929Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 231,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:46:25.929Z",
-    "sessionEnd": "2025-03-15T15:46:41.455Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 232,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:46:41.455Z",
-    "sessionEnd": "2025-03-15T15:49:01.523Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 233,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:49:01.523Z",
-    "sessionEnd": "2025-03-15T15:50:02.805Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 234,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:50:02.805Z",
-    "sessionEnd": "2025-03-15T15:50:29.951Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 235,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:50:29.951Z",
-    "sessionEnd": "2025-03-15T15:50:41.947Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 236,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:50:41.947Z",
-    "sessionEnd": "2025-03-15T15:53:20.887Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 237,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:53:20.887Z",
-    "sessionEnd": "2025-03-15T15:53:52.479Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 238,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:53:52.479Z",
-    "sessionEnd": "2025-03-15T15:54:24.872Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 239,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:54:24.872Z",
-    "sessionEnd": "2025-03-15T15:55:27.246Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 240,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:55:27.246Z",
-    "sessionEnd": "2025-03-15T15:58:17.069Z",
-    "durationHours": "0.05",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 241,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:58:17.069Z",
-    "sessionEnd": "2025-03-15T15:58:47.335Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 242,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T15:58:47.335Z",
-    "sessionEnd": "2025-03-15T16:01:53.487Z",
-    "durationHours": "0.05",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 243,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T16:01:53.487Z",
-    "sessionEnd": "2025-03-15T16:03:49.452Z",
-    "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 244,
-    "commit": "N/A",
-    "sessionStart": "2025-03-15T16:03:49.452Z",
-    "sessionEnd": "2025-03-15T16:09:09.553Z",
-    "durationHours": "0.09",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 245,
-    "commit": "N/A",
     "sessionStart": "2025-03-15T16:09:09.553Z",
     "sessionEnd": "2025-03-15T16:14:02.209Z",
     "durationHours": "0.08",
@@ -2450,7 +2210,7 @@
     "author": "N/A"
   },
   {
-    "id": 246,
+    "id": 222,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:14:02.209Z",
     "sessionEnd": "2025-03-15T16:18:08.151Z",
@@ -2460,7 +2220,7 @@
     "author": "N/A"
   },
   {
-    "id": 247,
+    "id": 223,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:18:08.151Z",
     "sessionEnd": "2025-03-15T16:18:25.644Z",
@@ -2470,7 +2230,7 @@
     "author": "N/A"
   },
   {
-    "id": 248,
+    "id": 224,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:18:25.644Z",
     "sessionEnd": "2025-03-15T16:18:36.885Z",
@@ -2480,7 +2240,7 @@
     "author": "N/A"
   },
   {
-    "id": 249,
+    "id": 225,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:18:36.885Z",
     "sessionEnd": "2025-03-15T16:37:00.907Z",
@@ -2490,7 +2250,7 @@
     "author": "N/A"
   },
   {
-    "id": 250,
+    "id": 226,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:37:00.907Z",
     "sessionEnd": "2025-03-15T16:37:08.786Z",
@@ -2500,7 +2260,7 @@
     "author": "N/A"
   },
   {
-    "id": 251,
+    "id": 227,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:37:08.786Z",
     "sessionEnd": "2025-03-15T16:37:11.979Z",
@@ -2510,7 +2270,7 @@
     "author": "N/A"
   },
   {
-    "id": 252,
+    "id": 228,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:37:11.979Z",
     "sessionEnd": "2025-03-15T16:43:34.137Z",
@@ -2520,7 +2280,7 @@
     "author": "N/A"
   },
   {
-    "id": 253,
+    "id": 229,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:43:34.137Z",
     "sessionEnd": "2025-03-15T16:46:00.213Z",
@@ -2530,7 +2290,7 @@
     "author": "N/A"
   },
   {
-    "id": 254,
+    "id": 230,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:46:00.213Z",
     "sessionEnd": "2025-03-15T16:55:13.216Z",
@@ -2540,7 +2300,7 @@
     "author": "N/A"
   },
   {
-    "id": 255,
+    "id": 231,
     "commit": "N/A",
     "sessionStart": "2025-03-15T16:55:13.216Z",
     "sessionEnd": "2025-03-15T17:01:21.069Z",
@@ -2550,7 +2310,7 @@
     "author": "N/A"
   },
   {
-    "id": 256,
+    "id": 232,
     "commit": "N/A",
     "sessionStart": "2025-03-15T17:01:21.069Z",
     "sessionEnd": "2025-03-15T17:01:23.102Z",
@@ -2560,7 +2320,7 @@
     "author": "N/A"
   },
   {
-    "id": 257,
+    "id": 233,
     "commit": "N/A",
     "sessionStart": "2025-03-15T17:01:23.102Z",
     "sessionEnd": "2025-03-15T17:08:05.170Z",
@@ -2570,7 +2330,7 @@
     "author": "N/A"
   },
   {
-    "id": 258,
+    "id": 234,
     "commit": "N/A",
     "sessionStart": "2025-03-15T17:08:05.170Z",
     "sessionEnd": "2025-03-15T17:24:49.635Z",
@@ -2580,7 +2340,7 @@
     "author": "N/A"
   },
   {
-    "id": 259,
+    "id": 235,
     "commit": "N/A",
     "sessionStart": "2025-03-15T17:24:49.635Z",
     "sessionEnd": "2025-03-15T17:25:31.704Z",
@@ -2590,7 +2350,7 @@
     "author": "N/A"
   },
   {
-    "id": 260,
+    "id": 236,
     "commit": "N/A",
     "sessionStart": "2025-03-15T17:25:31.704Z",
     "sessionEnd": "2025-03-15T18:00:17.193Z",
@@ -2600,7 +2360,7 @@
     "author": "N/A"
   },
   {
-    "id": 261,
+    "id": 237,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:00:17.193Z",
     "sessionEnd": "2025-03-15T18:00:44.840Z",
@@ -2610,7 +2370,7 @@
     "author": "N/A"
   },
   {
-    "id": 262,
+    "id": 238,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:00:44.840Z",
     "sessionEnd": "2025-03-15T18:06:04.630Z",
@@ -2620,7 +2380,7 @@
     "author": "N/A"
   },
   {
-    "id": 263,
+    "id": 239,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:06:04.630Z",
     "sessionEnd": "2025-03-15T18:07:25.276Z",
@@ -2630,7 +2390,7 @@
     "author": "N/A"
   },
   {
-    "id": 264,
+    "id": 240,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:07:25.276Z",
     "sessionEnd": "2025-03-15T18:09:23.815Z",
@@ -2640,7 +2400,7 @@
     "author": "N/A"
   },
   {
-    "id": 265,
+    "id": 241,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:09:23.815Z",
     "sessionEnd": "2025-03-15T18:09:54.364Z",
@@ -2650,7 +2410,7 @@
     "author": "N/A"
   },
   {
-    "id": 266,
+    "id": 242,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:09:54.364Z",
     "sessionEnd": "2025-03-15T18:10:20.366Z",
@@ -2660,7 +2420,7 @@
     "author": "N/A"
   },
   {
-    "id": 267,
+    "id": 243,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:10:20.366Z",
     "sessionEnd": "2025-03-15T18:10:51.334Z",
@@ -2670,7 +2430,7 @@
     "author": "N/A"
   },
   {
-    "id": 268,
+    "id": 244,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:10:51.334Z",
     "sessionEnd": "2025-03-15T18:11:54.431Z",
@@ -2680,7 +2440,7 @@
     "author": "N/A"
   },
   {
-    "id": 269,
+    "id": 245,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:11:54.431Z",
     "sessionEnd": "2025-03-15T18:14:27.791Z",
@@ -2690,7 +2450,7 @@
     "author": "N/A"
   },
   {
-    "id": 270,
+    "id": 246,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:14:27.791Z",
     "sessionEnd": "2025-03-15T18:14:53.621Z",
@@ -2700,7 +2460,7 @@
     "author": "N/A"
   },
   {
-    "id": 271,
+    "id": 247,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:14:53.621Z",
     "sessionEnd": "2025-03-15T18:15:19.851Z",
@@ -2710,7 +2470,7 @@
     "author": "N/A"
   },
   {
-    "id": 272,
+    "id": 248,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:15:19.851Z",
     "sessionEnd": "2025-03-15T18:16:33.426Z",
@@ -2720,7 +2480,7 @@
     "author": "N/A"
   },
   {
-    "id": 273,
+    "id": 249,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:16:33.426Z",
     "sessionEnd": "2025-03-15T18:17:16.679Z",
@@ -2730,7 +2490,7 @@
     "author": "N/A"
   },
   {
-    "id": 274,
+    "id": 250,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:17:16.679Z",
     "sessionEnd": "2025-03-15T18:17:48.262Z",
@@ -2740,7 +2500,7 @@
     "author": "N/A"
   },
   {
-    "id": 275,
+    "id": 251,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:17:48.262Z",
     "sessionEnd": "2025-03-15T18:18:36.113Z",
@@ -2750,7 +2510,7 @@
     "author": "N/A"
   },
   {
-    "id": 276,
+    "id": 252,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:18:36.113Z",
     "sessionEnd": "2025-03-15T18:18:56.265Z",
@@ -2760,7 +2520,7 @@
     "author": "N/A"
   },
   {
-    "id": 277,
+    "id": 253,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:18:56.265Z",
     "sessionEnd": "2025-03-15T18:19:05.330Z",
@@ -2770,7 +2530,7 @@
     "author": "N/A"
   },
   {
-    "id": 278,
+    "id": 254,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:19:05.330Z",
     "sessionEnd": "2025-03-15T18:19:25.665Z",
@@ -2780,7 +2540,7 @@
     "author": "N/A"
   },
   {
-    "id": 279,
+    "id": 255,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:19:25.665Z",
     "sessionEnd": "2025-03-15T18:19:46.592Z",
@@ -2790,7 +2550,7 @@
     "author": "N/A"
   },
   {
-    "id": 280,
+    "id": 256,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:19:46.592Z",
     "sessionEnd": "2025-03-15T18:20:58.250Z",
@@ -2800,7 +2560,7 @@
     "author": "N/A"
   },
   {
-    "id": 281,
+    "id": 257,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:20:58.250Z",
     "sessionEnd": "2025-03-15T18:21:54.594Z",
@@ -2810,7 +2570,7 @@
     "author": "N/A"
   },
   {
-    "id": 282,
+    "id": 258,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:21:54.594Z",
     "sessionEnd": "2025-03-15T18:22:58.787Z",
@@ -2820,7 +2580,7 @@
     "author": "N/A"
   },
   {
-    "id": 283,
+    "id": 259,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:22:58.787Z",
     "sessionEnd": "2025-03-15T18:25:09.745Z",
@@ -2830,7 +2590,7 @@
     "author": "N/A"
   },
   {
-    "id": 284,
+    "id": 260,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:25:09.745Z",
     "sessionEnd": "2025-03-15T18:25:29.283Z",
@@ -2840,7 +2600,7 @@
     "author": "N/A"
   },
   {
-    "id": 285,
+    "id": 261,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:25:29.283Z",
     "sessionEnd": "2025-03-15T18:28:32.207Z",
@@ -2850,7 +2610,7 @@
     "author": "N/A"
   },
   {
-    "id": 286,
+    "id": 262,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:28:32.207Z",
     "sessionEnd": "2025-03-15T18:28:37.460Z",
@@ -2860,7 +2620,7 @@
     "author": "N/A"
   },
   {
-    "id": 287,
+    "id": 263,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:28:37.460Z",
     "sessionEnd": "2025-03-15T18:29:14.112Z",
@@ -2870,7 +2630,7 @@
     "author": "N/A"
   },
   {
-    "id": 288,
+    "id": 264,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:29:14.112Z",
     "sessionEnd": "2025-03-15T18:29:50.143Z",
@@ -2880,7 +2640,7 @@
     "author": "N/A"
   },
   {
-    "id": 289,
+    "id": 265,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:29:50.143Z",
     "sessionEnd": "2025-03-15T18:33:27.017Z",
@@ -2890,7 +2650,7 @@
     "author": "N/A"
   },
   {
-    "id": 290,
+    "id": 266,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:33:27.017Z",
     "sessionEnd": "2025-03-15T18:33:52.624Z",
@@ -2900,7 +2660,7 @@
     "author": "N/A"
   },
   {
-    "id": 291,
+    "id": 267,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:33:52.624Z",
     "sessionEnd": "2025-03-15T18:35:14.263Z",
@@ -2910,7 +2670,7 @@
     "author": "N/A"
   },
   {
-    "id": 292,
+    "id": 268,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:35:14.263Z",
     "sessionEnd": "2025-03-15T18:37:06.563Z",
@@ -2920,7 +2680,7 @@
     "author": "N/A"
   },
   {
-    "id": 293,
+    "id": 269,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:37:06.563Z",
     "sessionEnd": "2025-03-15T18:38:06.220Z",
@@ -2930,7 +2690,7 @@
     "author": "N/A"
   },
   {
-    "id": 294,
+    "id": 270,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:38:06.220Z",
     "sessionEnd": "2025-03-15T18:54:43.608Z",
@@ -2940,7 +2700,7 @@
     "author": "N/A"
   },
   {
-    "id": 295,
+    "id": 271,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:54:43.608Z",
     "sessionEnd": "2025-03-15T18:55:27.206Z",
@@ -2950,7 +2710,7 @@
     "author": "N/A"
   },
   {
-    "id": 296,
+    "id": 272,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:55:27.206Z",
     "sessionEnd": "2025-03-15T18:57:50.276Z",
@@ -2960,7 +2720,7 @@
     "author": "N/A"
   },
   {
-    "id": 297,
+    "id": 273,
     "commit": "N/A",
     "sessionStart": "2025-03-15T18:57:50.276Z",
     "sessionEnd": "2025-03-15T19:01:13.607Z",
@@ -2970,7 +2730,7 @@
     "author": "N/A"
   },
   {
-    "id": 298,
+    "id": 274,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:01:13.607Z",
     "sessionEnd": "2025-03-15T19:01:19.496Z",
@@ -2980,7 +2740,7 @@
     "author": "N/A"
   },
   {
-    "id": 299,
+    "id": 275,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:01:19.496Z",
     "sessionEnd": "2025-03-15T19:05:21.709Z",
@@ -2990,7 +2750,7 @@
     "author": "N/A"
   },
   {
-    "id": 300,
+    "id": 276,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:05:21.709Z",
     "sessionEnd": "2025-03-15T19:08:09.690Z",
@@ -3000,7 +2760,7 @@
     "author": "N/A"
   },
   {
-    "id": 301,
+    "id": 277,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:08:09.690Z",
     "sessionEnd": "2025-03-15T19:08:17.552Z",
@@ -3010,7 +2770,7 @@
     "author": "N/A"
   },
   {
-    "id": 302,
+    "id": 278,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:08:17.552Z",
     "sessionEnd": "2025-03-15T19:08:19.456Z",
@@ -3020,7 +2780,7 @@
     "author": "N/A"
   },
   {
-    "id": 303,
+    "id": 279,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:08:19.456Z",
     "sessionEnd": "2025-03-15T19:10:28.417Z",
@@ -3030,7 +2790,7 @@
     "author": "N/A"
   },
   {
-    "id": 304,
+    "id": 280,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:10:28.417Z",
     "sessionEnd": "2025-03-15T19:10:44.580Z",
@@ -3040,7 +2800,7 @@
     "author": "N/A"
   },
   {
-    "id": 305,
+    "id": 281,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:10:44.580Z",
     "sessionEnd": "2025-03-15T19:12:21.094Z",
@@ -3050,7 +2810,7 @@
     "author": "N/A"
   },
   {
-    "id": 306,
+    "id": 282,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:12:21.094Z",
     "sessionEnd": "2025-03-15T19:13:39.869Z",
@@ -3060,7 +2820,7 @@
     "author": "N/A"
   },
   {
-    "id": 307,
+    "id": 283,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:13:39.869Z",
     "sessionEnd": "2025-03-15T19:17:22.018Z",
@@ -3070,7 +2830,7 @@
     "author": "N/A"
   },
   {
-    "id": 308,
+    "id": 284,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:17:22.018Z",
     "sessionEnd": "2025-03-15T19:19:33.810Z",
@@ -3080,7 +2840,7 @@
     "author": "N/A"
   },
   {
-    "id": 309,
+    "id": 285,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:19:33.810Z",
     "sessionEnd": "2025-03-15T19:22:24.906Z",
@@ -3090,7 +2850,7 @@
     "author": "N/A"
   },
   {
-    "id": 310,
+    "id": 286,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:22:24.906Z",
     "sessionEnd": "2025-03-15T19:23:41.191Z",
@@ -3100,7 +2860,7 @@
     "author": "N/A"
   },
   {
-    "id": 311,
+    "id": 287,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:23:41.191Z",
     "sessionEnd": "2025-03-15T19:27:10.635Z",
@@ -3110,7 +2870,7 @@
     "author": "N/A"
   },
   {
-    "id": 312,
+    "id": 288,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:27:10.635Z",
     "sessionEnd": "2025-03-15T19:27:23.460Z",
@@ -3120,7 +2880,7 @@
     "author": "N/A"
   },
   {
-    "id": 313,
+    "id": 289,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:27:23.460Z",
     "sessionEnd": "2025-03-15T19:29:11.675Z",
@@ -3130,7 +2890,7 @@
     "author": "N/A"
   },
   {
-    "id": 314,
+    "id": 290,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:29:11.675Z",
     "sessionEnd": "2025-03-15T19:29:31.993Z",
@@ -3140,7 +2900,7 @@
     "author": "N/A"
   },
   {
-    "id": 315,
+    "id": 291,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:29:31.993Z",
     "sessionEnd": "2025-03-15T19:30:33.130Z",
@@ -3150,7 +2910,7 @@
     "author": "N/A"
   },
   {
-    "id": 316,
+    "id": 292,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:30:33.130Z",
     "sessionEnd": "2025-03-15T19:37:14.403Z",
@@ -3160,7 +2920,7 @@
     "author": "N/A"
   },
   {
-    "id": 317,
+    "id": 293,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:37:14.403Z",
     "sessionEnd": "2025-03-15T19:37:47.700Z",
@@ -3170,7 +2930,7 @@
     "author": "N/A"
   },
   {
-    "id": 318,
+    "id": 294,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:37:47.700Z",
     "sessionEnd": "2025-03-15T19:38:18.285Z",
@@ -3180,7 +2940,7 @@
     "author": "N/A"
   },
   {
-    "id": 319,
+    "id": 295,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:38:18.285Z",
     "sessionEnd": "2025-03-15T19:39:38.250Z",
@@ -3190,7 +2950,7 @@
     "author": "N/A"
   },
   {
-    "id": 320,
+    "id": 296,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:39:38.250Z",
     "sessionEnd": "2025-03-15T19:42:57.682Z",
@@ -3200,7 +2960,7 @@
     "author": "N/A"
   },
   {
-    "id": 321,
+    "id": 297,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:42:57.682Z",
     "sessionEnd": "2025-03-15T19:44:12.578Z",
@@ -3210,7 +2970,7 @@
     "author": "N/A"
   },
   {
-    "id": 322,
+    "id": 298,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:44:12.578Z",
     "sessionEnd": "2025-03-15T19:44:19.694Z",
@@ -3220,7 +2980,7 @@
     "author": "N/A"
   },
   {
-    "id": 323,
+    "id": 299,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:44:19.694Z",
     "sessionEnd": "2025-03-15T19:44:58.768Z",
@@ -3230,7 +2990,7 @@
     "author": "N/A"
   },
   {
-    "id": 324,
+    "id": 300,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:44:58.768Z",
     "sessionEnd": "2025-03-15T19:45:53.254Z",
@@ -3240,7 +3000,7 @@
     "author": "N/A"
   },
   {
-    "id": 325,
+    "id": 301,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:45:53.254Z",
     "sessionEnd": "2025-03-15T19:46:04.829Z",
@@ -3250,7 +3010,7 @@
     "author": "N/A"
   },
   {
-    "id": 326,
+    "id": 302,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:46:04.829Z",
     "sessionEnd": "2025-03-15T19:47:18.782Z",
@@ -3260,7 +3020,7 @@
     "author": "N/A"
   },
   {
-    "id": 327,
+    "id": 303,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:47:18.782Z",
     "sessionEnd": "2025-03-15T19:47:43.998Z",
@@ -3270,7 +3030,7 @@
     "author": "N/A"
   },
   {
-    "id": 328,
+    "id": 304,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:47:43.998Z",
     "sessionEnd": "2025-03-15T19:48:09.733Z",
@@ -3280,7 +3040,7 @@
     "author": "N/A"
   },
   {
-    "id": 329,
+    "id": 305,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:48:09.733Z",
     "sessionEnd": "2025-03-15T19:48:13.326Z",
@@ -3290,7 +3050,7 @@
     "author": "N/A"
   },
   {
-    "id": 330,
+    "id": 306,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:48:13.326Z",
     "sessionEnd": "2025-03-15T19:50:37.319Z",
@@ -3300,7 +3060,7 @@
     "author": "N/A"
   },
   {
-    "id": 331,
+    "id": 307,
     "commit": "N/A",
     "sessionStart": "2025-03-15T19:50:37.319Z",
     "sessionEnd": "2025-03-15T20:01:14.723Z",
@@ -3310,7 +3070,7 @@
     "author": "N/A"
   },
   {
-    "id": 332,
+    "id": 308,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:01:14.723Z",
     "sessionEnd": "2025-03-15T20:02:12.612Z",
@@ -3320,7 +3080,7 @@
     "author": "N/A"
   },
   {
-    "id": 333,
+    "id": 309,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:02:12.612Z",
     "sessionEnd": "2025-03-15T20:04:03.995Z",
@@ -3330,7 +3090,7 @@
     "author": "N/A"
   },
   {
-    "id": 334,
+    "id": 310,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:04:03.995Z",
     "sessionEnd": "2025-03-15T20:05:20.301Z",
@@ -3340,7 +3100,7 @@
     "author": "N/A"
   },
   {
-    "id": 335,
+    "id": 311,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:05:20.301Z",
     "sessionEnd": "2025-03-15T20:05:23.407Z",
@@ -3350,7 +3110,7 @@
     "author": "N/A"
   },
   {
-    "id": 336,
+    "id": 312,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:05:23.407Z",
     "sessionEnd": "2025-03-15T20:11:01.805Z",
@@ -3360,7 +3120,7 @@
     "author": "N/A"
   },
   {
-    "id": 337,
+    "id": 313,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:11:01.805Z",
     "sessionEnd": "2025-03-15T20:15:54.745Z",
@@ -3370,7 +3130,7 @@
     "author": "N/A"
   },
   {
-    "id": 338,
+    "id": 314,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:15:54.745Z",
     "sessionEnd": "2025-03-15T20:16:45.971Z",
@@ -3380,7 +3140,7 @@
     "author": "N/A"
   },
   {
-    "id": 339,
+    "id": 315,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:16:45.971Z",
     "sessionEnd": "2025-03-15T20:17:28.778Z",
@@ -3390,7 +3150,7 @@
     "author": "N/A"
   },
   {
-    "id": 340,
+    "id": 316,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:17:28.778Z",
     "sessionEnd": "2025-03-15T20:17:31.377Z",
@@ -3400,7 +3160,7 @@
     "author": "N/A"
   },
   {
-    "id": 341,
+    "id": 317,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:17:31.377Z",
     "sessionEnd": "2025-03-15T20:19:04.376Z",
@@ -3410,7 +3170,7 @@
     "author": "N/A"
   },
   {
-    "id": 342,
+    "id": 318,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:19:04.376Z",
     "sessionEnd": "2025-03-15T20:21:18.804Z",
@@ -3420,7 +3180,7 @@
     "author": "N/A"
   },
   {
-    "id": 343,
+    "id": 319,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:21:18.804Z",
     "sessionEnd": "2025-03-15T20:48:13.946Z",
@@ -3430,7 +3190,7 @@
     "author": "N/A"
   },
   {
-    "id": 344,
+    "id": 320,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:48:13.946Z",
     "sessionEnd": "2025-03-15T20:48:27.918Z",
@@ -3440,7 +3200,7 @@
     "author": "N/A"
   },
   {
-    "id": 345,
+    "id": 321,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:48:27.918Z",
     "sessionEnd": "2025-03-15T20:57:43.059Z",
@@ -3450,7 +3210,7 @@
     "author": "N/A"
   },
   {
-    "id": 346,
+    "id": 322,
     "commit": "N/A",
     "sessionStart": "2025-03-15T20:57:43.059Z",
     "sessionEnd": "2025-03-16T00:25:34.023Z",
@@ -3460,7 +3220,7 @@
     "author": "N/A"
   },
   {
-    "id": 347,
+    "id": 323,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:25:34.023Z",
     "sessionEnd": "2025-03-16T00:38:16.639Z",
@@ -3470,7 +3230,7 @@
     "author": "N/A"
   },
   {
-    "id": 348,
+    "id": 324,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:38:16.639Z",
     "sessionEnd": "2025-03-16T00:38:19.852Z",
@@ -3480,7 +3240,7 @@
     "author": "N/A"
   },
   {
-    "id": 349,
+    "id": 325,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:38:19.852Z",
     "sessionEnd": "2025-03-16T00:38:58.853Z",
@@ -3490,7 +3250,7 @@
     "author": "N/A"
   },
   {
-    "id": 350,
+    "id": 326,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:38:58.853Z",
     "sessionEnd": "2025-03-16T00:42:15.590Z",
@@ -3500,7 +3260,7 @@
     "author": "N/A"
   },
   {
-    "id": 351,
+    "id": 327,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:42:15.590Z",
     "sessionEnd": "2025-03-16T00:43:48.029Z",
@@ -3510,7 +3270,7 @@
     "author": "N/A"
   },
   {
-    "id": 352,
+    "id": 328,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:43:48.029Z",
     "sessionEnd": "2025-03-16T00:43:52.889Z",
@@ -3520,7 +3280,7 @@
     "author": "N/A"
   },
   {
-    "id": 353,
+    "id": 329,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:43:52.889Z",
     "sessionEnd": "2025-03-16T00:44:15.817Z",
@@ -3530,7 +3290,7 @@
     "author": "N/A"
   },
   {
-    "id": 354,
+    "id": 330,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:44:15.817Z",
     "sessionEnd": "2025-03-16T00:56:05.678Z",
@@ -3540,7 +3300,7 @@
     "author": "N/A"
   },
   {
-    "id": 355,
+    "id": 331,
     "commit": "N/A",
     "sessionStart": "2025-03-16T00:56:05.678Z",
     "sessionEnd": "2025-03-16T01:02:06.142Z",
@@ -3550,7 +3310,7 @@
     "author": "N/A"
   },
   {
-    "id": 356,
+    "id": 332,
     "commit": "N/A",
     "sessionStart": "2025-03-16T01:02:06.142Z",
     "sessionEnd": "2025-03-16T01:05:48.299Z",
@@ -3560,227 +3320,17 @@
     "author": "N/A"
   },
   {
-    "id": 357,
+    "id": 333,
     "commit": "N/A",
     "sessionStart": "2025-03-16T01:05:48.299Z",
-    "sessionEnd": "2025-03-16T01:17:49.407Z",
-    "durationHours": "0.20",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 358,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:17:49.407Z",
-    "sessionEnd": "2025-03-16T01:18:16.280Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 359,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:18:16.280Z",
-    "sessionEnd": "2025-03-16T01:19:34.983Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 360,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:19:34.983Z",
-    "sessionEnd": "2025-03-16T01:28:52.683Z",
-    "durationHours": "0.15",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 361,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:28:52.683Z",
-    "sessionEnd": "2025-03-16T01:30:38.909Z",
-    "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 362,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:30:38.909Z",
-    "sessionEnd": "2025-03-16T01:32:57.653Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 363,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:32:57.653Z",
-    "sessionEnd": "2025-03-16T01:35:36.209Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 364,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:35:36.209Z",
-    "sessionEnd": "2025-03-16T01:37:30.175Z",
-    "durationHours": "0.03",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 365,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:37:30.175Z",
-    "sessionEnd": "2025-03-16T01:38:03.863Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 366,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:38:03.863Z",
-    "sessionEnd": "2025-03-16T01:46:20.772Z",
-    "durationHours": "0.14",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 367,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:46:20.772Z",
-    "sessionEnd": "2025-03-16T01:48:43.208Z",
-    "durationHours": "0.04",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 368,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:48:43.208Z",
-    "sessionEnd": "2025-03-16T01:49:51.274Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 369,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:49:51.274Z",
-    "sessionEnd": "2025-03-16T01:50:33.599Z",
-    "durationHours": "0.01",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 370,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:50:33.599Z",
-    "sessionEnd": "2025-03-16T01:51:43.048Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 371,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T01:51:43.048Z",
-    "sessionEnd": "2025-03-16T02:04:34.029Z",
-    "durationHours": "0.21",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 372,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:04:34.029Z",
-    "sessionEnd": "2025-03-16T02:08:48.248Z",
-    "durationHours": "0.07",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 373,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:08:48.248Z",
-    "sessionEnd": "2025-03-16T02:15:38.242Z",
-    "durationHours": "0.11",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 374,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:15:38.242Z",
-    "sessionEnd": "2025-03-16T02:16:55.499Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 375,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:16:55.499Z",
-    "sessionEnd": "2025-03-16T02:20:30.132Z",
-    "durationHours": "0.06",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 376,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:20:30.132Z",
-    "sessionEnd": "2025-03-16T02:20:41.474Z",
-    "durationHours": "0.00",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 377,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:20:41.474Z",
-    "sessionEnd": "2025-03-16T02:21:37.315Z",
-    "durationHours": "0.02",
-    "repo": "N/A",
-    "task": "No task description",
-    "author": "N/A"
-  },
-  {
-    "id": 378,
-    "commit": "N/A",
-    "sessionStart": "2025-03-16T02:21:37.315Z",
     "sessionEnd": "2025-03-16T02:28:45.674Z",
-    "durationHours": "0.12",
+    "durationHours": "1.38",
     "repo": "N/A",
     "task": "No task description",
     "author": "N/A"
   },
   {
-    "id": 379,
+    "id": 334,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:28:45.674Z",
     "sessionEnd": "2025-03-16T02:30:29.126Z",
@@ -3790,7 +3340,7 @@
     "author": "N/A"
   },
   {
-    "id": 380,
+    "id": 335,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:30:29.126Z",
     "sessionEnd": "2025-03-16T02:30:52.299Z",
@@ -3800,7 +3350,7 @@
     "author": "N/A"
   },
   {
-    "id": 381,
+    "id": 336,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:30:52.299Z",
     "sessionEnd": "2025-03-16T02:31:12.391Z",
@@ -3810,7 +3360,7 @@
     "author": "N/A"
   },
   {
-    "id": 382,
+    "id": 337,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:31:12.391Z",
     "sessionEnd": "2025-03-16T02:32:12.751Z",
@@ -3820,7 +3370,7 @@
     "author": "N/A"
   },
   {
-    "id": 383,
+    "id": 338,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:32:12.751Z",
     "sessionEnd": "2025-03-16T02:33:26.852Z",
@@ -3830,7 +3380,7 @@
     "author": "N/A"
   },
   {
-    "id": 384,
+    "id": 339,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:33:26.852Z",
     "sessionEnd": "2025-03-16T02:34:16.358Z",
@@ -3840,7 +3390,7 @@
     "author": "N/A"
   },
   {
-    "id": 385,
+    "id": 340,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:34:16.358Z",
     "sessionEnd": "2025-03-16T02:34:45.081Z",
@@ -3850,7 +3400,7 @@
     "author": "N/A"
   },
   {
-    "id": 386,
+    "id": 341,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:34:45.081Z",
     "sessionEnd": "2025-03-16T02:35:26.920Z",
@@ -3860,7 +3410,7 @@
     "author": "N/A"
   },
   {
-    "id": 387,
+    "id": 342,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:35:26.920Z",
     "sessionEnd": "2025-03-16T02:35:58.310Z",
@@ -3870,7 +3420,7 @@
     "author": "N/A"
   },
   {
-    "id": 388,
+    "id": 343,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:35:58.310Z",
     "sessionEnd": "2025-03-16T02:37:21.600Z",
@@ -3880,7 +3430,7 @@
     "author": "N/A"
   },
   {
-    "id": 389,
+    "id": 344,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:37:21.600Z",
     "sessionEnd": "2025-03-16T02:37:25.329Z",
@@ -3890,7 +3440,7 @@
     "author": "N/A"
   },
   {
-    "id": 390,
+    "id": 345,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:37:25.329Z",
     "sessionEnd": "2025-03-16T02:38:08.763Z",
@@ -3900,7 +3450,7 @@
     "author": "N/A"
   },
   {
-    "id": 391,
+    "id": 346,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:38:08.763Z",
     "sessionEnd": "2025-03-16T02:55:46.909Z",
@@ -3910,7 +3460,7 @@
     "author": "N/A"
   },
   {
-    "id": 392,
+    "id": 347,
     "commit": "N/A",
     "sessionStart": "2025-03-16T02:55:46.909Z",
     "sessionEnd": "2025-03-16T03:03:00.817Z",
@@ -3920,7 +3470,7 @@
     "author": "N/A"
   },
   {
-    "id": 393,
+    "id": 348,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:03:00.817Z",
     "sessionEnd": "2025-03-16T03:03:25.935Z",
@@ -3930,7 +3480,7 @@
     "author": "N/A"
   },
   {
-    "id": 394,
+    "id": 349,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:03:25.935Z",
     "sessionEnd": "2025-03-16T03:06:57.512Z",
@@ -3940,7 +3490,7 @@
     "author": "N/A"
   },
   {
-    "id": 395,
+    "id": 350,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:06:57.512Z",
     "sessionEnd": "2025-03-16T03:11:55.680Z",
@@ -3950,7 +3500,7 @@
     "author": "N/A"
   },
   {
-    "id": 396,
+    "id": 351,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:11:55.680Z",
     "sessionEnd": "2025-03-16T03:15:28.316Z",
@@ -3960,7 +3510,7 @@
     "author": "N/A"
   },
   {
-    "id": 397,
+    "id": 352,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:15:28.316Z",
     "sessionEnd": "2025-03-16T03:16:36.780Z",
@@ -3970,7 +3520,7 @@
     "author": "N/A"
   },
   {
-    "id": 398,
+    "id": 353,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:16:36.780Z",
     "sessionEnd": "2025-03-16T03:18:12.259Z",
@@ -3980,7 +3530,7 @@
     "author": "N/A"
   },
   {
-    "id": 399,
+    "id": 354,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:18:12.259Z",
     "sessionEnd": "2025-03-16T03:21:15.160Z",
@@ -3990,7 +3540,7 @@
     "author": "N/A"
   },
   {
-    "id": 400,
+    "id": 355,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:21:15.160Z",
     "sessionEnd": "2025-03-16T03:25:05.244Z",
@@ -4000,7 +3550,7 @@
     "author": "N/A"
   },
   {
-    "id": 401,
+    "id": 356,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:25:05.244Z",
     "sessionEnd": "2025-03-16T03:25:42.127Z",
@@ -4010,7 +3560,7 @@
     "author": "N/A"
   },
   {
-    "id": 402,
+    "id": 357,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:25:42.127Z",
     "sessionEnd": "2025-03-16T03:31:49.187Z",
@@ -4020,7 +3570,7 @@
     "author": "N/A"
   },
   {
-    "id": 403,
+    "id": 358,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:31:49.187Z",
     "sessionEnd": "2025-03-16T03:48:01.873Z",
@@ -4030,7 +3580,7 @@
     "author": "N/A"
   },
   {
-    "id": 404,
+    "id": 359,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:48:01.873Z",
     "sessionEnd": "2025-03-16T03:48:07.465Z",
@@ -4040,7 +3590,7 @@
     "author": "N/A"
   },
   {
-    "id": 405,
+    "id": 360,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:48:07.465Z",
     "sessionEnd": "2025-03-16T03:56:01.322Z",
@@ -4050,7 +3600,7 @@
     "author": "N/A"
   },
   {
-    "id": 406,
+    "id": 361,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:56:01.322Z",
     "sessionEnd": "2025-03-16T03:56:16.613Z",
@@ -4060,7 +3610,7 @@
     "author": "N/A"
   },
   {
-    "id": 407,
+    "id": 362,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:56:16.613Z",
     "sessionEnd": "2025-03-16T03:58:30.252Z",
@@ -4070,7 +3620,7 @@
     "author": "N/A"
   },
   {
-    "id": 408,
+    "id": 363,
     "commit": "N/A",
     "sessionStart": "2025-03-16T03:58:30.252Z",
     "sessionEnd": "2025-03-16T04:00:26.858Z",
@@ -4080,7 +3630,7 @@
     "author": "N/A"
   },
   {
-    "id": 409,
+    "id": 364,
     "commit": "N/A",
     "sessionStart": "2025-03-16T04:00:26.858Z",
     "sessionEnd": "2025-03-16T04:36:34.112Z",
@@ -4090,7 +3640,7 @@
     "author": "N/A"
   },
   {
-    "id": 410,
+    "id": 365,
     "commit": "N/A",
     "sessionStart": "2025-03-16T04:36:34.112Z",
     "sessionEnd": "2025-03-16T05:12:20.950Z",
@@ -4100,7 +3650,7 @@
     "author": "N/A"
   },
   {
-    "id": 411,
+    "id": 366,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:12:20.950Z",
     "sessionEnd": "2025-03-16T05:13:59.948Z",
@@ -4110,7 +3660,7 @@
     "author": "N/A"
   },
   {
-    "id": 412,
+    "id": 367,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:13:59.948Z",
     "sessionEnd": "2025-03-16T05:15:46.644Z",
@@ -4120,7 +3670,7 @@
     "author": "N/A"
   },
   {
-    "id": 413,
+    "id": 368,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:15:46.644Z",
     "sessionEnd": "2025-03-16T05:16:33.853Z",
@@ -4130,7 +3680,7 @@
     "author": "N/A"
   },
   {
-    "id": 414,
+    "id": 369,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:16:33.853Z",
     "sessionEnd": "2025-03-16T05:22:39.465Z",
@@ -4140,7 +3690,7 @@
     "author": "N/A"
   },
   {
-    "id": 415,
+    "id": 370,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:22:39.465Z",
     "sessionEnd": "2025-03-16T05:25:37.917Z",
@@ -4150,7 +3700,7 @@
     "author": "N/A"
   },
   {
-    "id": 416,
+    "id": 371,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:25:37.917Z",
     "sessionEnd": "2025-03-16T05:27:40.343Z",
@@ -4160,7 +3710,7 @@
     "author": "N/A"
   },
   {
-    "id": 417,
+    "id": 372,
     "commit": "N/A",
     "sessionStart": "2025-03-16T05:27:40.343Z",
     "sessionEnd": "2025-03-16T05:33:39.069Z",
@@ -4170,7 +3720,7 @@
     "author": "N/A"
   },
   {
-    "id": 418,
+    "id": 373,
     "commit": "N/A",
     "sessionStart": "2025-03-16T16:54:55.973Z",
     "sessionEnd": "2025-03-16T16:57:26.039Z",
@@ -4180,7 +3730,7 @@
     "author": "N/A"
   },
   {
-    "id": 419,
+    "id": 374,
     "commit": "N/A",
     "sessionStart": "2025-03-16T16:57:26.039Z",
     "sessionEnd": "2025-03-16T16:58:19.228Z",
@@ -4190,7 +3740,7 @@
     "author": "N/A"
   },
   {
-    "id": 420,
+    "id": 375,
     "commit": "N/A",
     "sessionStart": "2025-03-16T16:58:19.228Z",
     "sessionEnd": "2025-03-16T16:59:25.997Z",
@@ -4200,7 +3750,7 @@
     "author": "N/A"
   },
   {
-    "id": 421,
+    "id": 376,
     "commit": "N/A",
     "sessionStart": "2025-03-16T16:59:25.997Z",
     "sessionEnd": "2025-03-16T16:59:52.425Z",
@@ -4210,7 +3760,7 @@
     "author": "N/A"
   },
   {
-    "id": 422,
+    "id": 377,
     "commit": "N/A",
     "sessionStart": "2025-03-16T16:59:52.425Z",
     "sessionEnd": "2025-03-16T17:01:31.529Z",
@@ -4220,7 +3770,7 @@
     "author": "N/A"
   },
   {
-    "id": 423,
+    "id": 378,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:01:31.529Z",
     "sessionEnd": "2025-03-16T17:04:05.648Z",
@@ -4230,7 +3780,7 @@
     "author": "N/A"
   },
   {
-    "id": 424,
+    "id": 379,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:04:05.648Z",
     "sessionEnd": "2025-03-16T17:04:07.451Z",
@@ -4240,7 +3790,7 @@
     "author": "N/A"
   },
   {
-    "id": 425,
+    "id": 380,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:04:07.451Z",
     "sessionEnd": "2025-03-16T17:04:45.992Z",
@@ -4250,7 +3800,7 @@
     "author": "N/A"
   },
   {
-    "id": 426,
+    "id": 381,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:04:45.992Z",
     "sessionEnd": "2025-03-16T17:07:03.903Z",
@@ -4260,7 +3810,7 @@
     "author": "N/A"
   },
   {
-    "id": 427,
+    "id": 382,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:07:03.903Z",
     "sessionEnd": "2025-03-16T17:09:35.390Z",
@@ -4270,7 +3820,7 @@
     "author": "N/A"
   },
   {
-    "id": 428,
+    "id": 383,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:09:35.390Z",
     "sessionEnd": "2025-03-16T17:09:49.170Z",
@@ -4280,7 +3830,7 @@
     "author": "N/A"
   },
   {
-    "id": 429,
+    "id": 384,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:09:49.170Z",
     "sessionEnd": "2025-03-16T17:10:11.201Z",
@@ -4290,7 +3840,7 @@
     "author": "N/A"
   },
   {
-    "id": 430,
+    "id": 385,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:10:11.201Z",
     "sessionEnd": "2025-03-16T17:11:06.358Z",
@@ -4300,7 +3850,7 @@
     "author": "N/A"
   },
   {
-    "id": 431,
+    "id": 386,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:11:06.358Z",
     "sessionEnd": "2025-03-16T17:12:07.593Z",
@@ -4310,7 +3860,7 @@
     "author": "N/A"
   },
   {
-    "id": 432,
+    "id": 387,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:12:07.593Z",
     "sessionEnd": "2025-03-16T17:14:32.439Z",
@@ -4320,7 +3870,7 @@
     "author": "N/A"
   },
   {
-    "id": 433,
+    "id": 388,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:14:32.439Z",
     "sessionEnd": "2025-03-16T17:15:44.693Z",
@@ -4330,7 +3880,7 @@
     "author": "N/A"
   },
   {
-    "id": 434,
+    "id": 389,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:15:44.693Z",
     "sessionEnd": "2025-03-16T17:16:21.478Z",
@@ -4340,7 +3890,7 @@
     "author": "N/A"
   },
   {
-    "id": 435,
+    "id": 390,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:16:21.478Z",
     "sessionEnd": "2025-03-16T17:18:09.437Z",
@@ -4350,7 +3900,7 @@
     "author": "N/A"
   },
   {
-    "id": 436,
+    "id": 391,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:18:09.437Z",
     "sessionEnd": "2025-03-16T17:19:03.896Z",
@@ -4360,7 +3910,7 @@
     "author": "N/A"
   },
   {
-    "id": 437,
+    "id": 392,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:19:03.896Z",
     "sessionEnd": "2025-03-16T17:19:35.930Z",
@@ -4370,7 +3920,7 @@
     "author": "N/A"
   },
   {
-    "id": 438,
+    "id": 393,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:19:35.930Z",
     "sessionEnd": "2025-03-16T17:21:40.521Z",
@@ -4380,7 +3930,7 @@
     "author": "N/A"
   },
   {
-    "id": 439,
+    "id": 394,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:21:40.521Z",
     "sessionEnd": "2025-03-16T17:23:35.911Z",
@@ -4390,7 +3940,7 @@
     "author": "N/A"
   },
   {
-    "id": 440,
+    "id": 395,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:23:35.911Z",
     "sessionEnd": "2025-03-16T17:25:30.150Z",
@@ -4400,7 +3950,7 @@
     "author": "N/A"
   },
   {
-    "id": 441,
+    "id": 396,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:25:30.150Z",
     "sessionEnd": "2025-03-16T17:26:39.038Z",
@@ -4410,7 +3960,7 @@
     "author": "N/A"
   },
   {
-    "id": 442,
+    "id": 397,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:26:39.038Z",
     "sessionEnd": "2025-03-16T17:27:11.939Z",
@@ -4420,7 +3970,7 @@
     "author": "N/A"
   },
   {
-    "id": 443,
+    "id": 398,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:27:11.939Z",
     "sessionEnd": "2025-03-16T17:29:33.255Z",
@@ -4430,7 +3980,7 @@
     "author": "N/A"
   },
   {
-    "id": 444,
+    "id": 399,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:29:33.255Z",
     "sessionEnd": "2025-03-16T17:30:09.039Z",
@@ -4440,7 +3990,7 @@
     "author": "N/A"
   },
   {
-    "id": 445,
+    "id": 400,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:30:09.039Z",
     "sessionEnd": "2025-03-16T17:30:28.118Z",
@@ -4450,7 +4000,7 @@
     "author": "N/A"
   },
   {
-    "id": 446,
+    "id": 401,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:30:28.118Z",
     "sessionEnd": "2025-03-16T17:30:40.350Z",
@@ -4460,7 +4010,7 @@
     "author": "N/A"
   },
   {
-    "id": 447,
+    "id": 402,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:30:40.350Z",
     "sessionEnd": "2025-03-16T17:31:40.013Z",
@@ -4470,7 +4020,7 @@
     "author": "N/A"
   },
   {
-    "id": 448,
+    "id": 403,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:31:40.013Z",
     "sessionEnd": "2025-03-16T17:33:53.970Z",
@@ -4480,7 +4030,7 @@
     "author": "N/A"
   },
   {
-    "id": 449,
+    "id": 404,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:33:53.970Z",
     "sessionEnd": "2025-03-16T17:35:24.819Z",
@@ -4490,7 +4040,7 @@
     "author": "N/A"
   },
   {
-    "id": 450,
+    "id": 405,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:35:24.819Z",
     "sessionEnd": "2025-03-16T17:36:00.562Z",
@@ -4500,7 +4050,7 @@
     "author": "N/A"
   },
   {
-    "id": 451,
+    "id": 406,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:36:00.562Z",
     "sessionEnd": "2025-03-16T17:36:07.286Z",
@@ -4510,7 +4060,7 @@
     "author": "N/A"
   },
   {
-    "id": 452,
+    "id": 407,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:36:07.286Z",
     "sessionEnd": "2025-03-16T17:56:56.755Z",
@@ -4520,7 +4070,7 @@
     "author": "N/A"
   },
   {
-    "id": 453,
+    "id": 408,
     "commit": "N/A",
     "sessionStart": "2025-03-16T17:56:56.755Z",
     "sessionEnd": "2025-03-16T20:58:47.439Z",
@@ -4530,7 +4080,7 @@
     "author": "N/A"
   },
   {
-    "id": 454,
+    "id": 409,
     "commit": "N/A",
     "sessionStart": "2025-03-16T20:58:47.439Z",
     "sessionEnd": "2025-03-16T21:02:33.539Z",
@@ -4540,7 +4090,7 @@
     "author": "N/A"
   },
   {
-    "id": 455,
+    "id": 410,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:02:33.539Z",
     "sessionEnd": "2025-03-16T21:23:49.703Z",
@@ -4550,7 +4100,7 @@
     "author": "N/A"
   },
   {
-    "id": 456,
+    "id": 411,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:23:49.703Z",
     "sessionEnd": "2025-03-16T21:25:50.489Z",
@@ -4560,7 +4110,7 @@
     "author": "N/A"
   },
   {
-    "id": 457,
+    "id": 412,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:25:50.489Z",
     "sessionEnd": "2025-03-16T21:25:59.369Z",
@@ -4570,7 +4120,7 @@
     "author": "N/A"
   },
   {
-    "id": 458,
+    "id": 413,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:25:59.369Z",
     "sessionEnd": "2025-03-16T21:26:19.362Z",
@@ -4580,7 +4130,7 @@
     "author": "N/A"
   },
   {
-    "id": 459,
+    "id": 414,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:26:19.362Z",
     "sessionEnd": "2025-03-16T21:26:27.566Z",
@@ -4590,7 +4140,7 @@
     "author": "N/A"
   },
   {
-    "id": 460,
+    "id": 415,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:26:27.566Z",
     "sessionEnd": "2025-03-16T21:27:07.685Z",
@@ -4600,7 +4150,7 @@
     "author": "N/A"
   },
   {
-    "id": 461,
+    "id": 416,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:27:07.685Z",
     "sessionEnd": "2025-03-16T21:27:26.926Z",
@@ -4610,7 +4160,7 @@
     "author": "N/A"
   },
   {
-    "id": 462,
+    "id": 417,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:27:26.926Z",
     "sessionEnd": "2025-03-16T21:27:35.677Z",
@@ -4620,7 +4170,7 @@
     "author": "N/A"
   },
   {
-    "id": 463,
+    "id": 418,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:27:35.677Z",
     "sessionEnd": "2025-03-16T21:29:18.316Z",
@@ -4630,7 +4180,7 @@
     "author": "N/A"
   },
   {
-    "id": 464,
+    "id": 419,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:29:18.316Z",
     "sessionEnd": "2025-03-16T21:30:05.710Z",
@@ -4640,7 +4190,7 @@
     "author": "N/A"
   },
   {
-    "id": 465,
+    "id": 420,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:30:05.710Z",
     "sessionEnd": "2025-03-16T21:31:02.390Z",
@@ -4650,7 +4200,7 @@
     "author": "N/A"
   },
   {
-    "id": 466,
+    "id": 421,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:31:02.390Z",
     "sessionEnd": "2025-03-16T21:31:55.675Z",
@@ -4660,7 +4210,7 @@
     "author": "N/A"
   },
   {
-    "id": 467,
+    "id": 422,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:31:55.675Z",
     "sessionEnd": "2025-03-16T21:32:01.699Z",
@@ -4670,7 +4220,7 @@
     "author": "N/A"
   },
   {
-    "id": 468,
+    "id": 423,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:32:01.699Z",
     "sessionEnd": "2025-03-16T21:34:39.490Z",
@@ -4680,7 +4230,7 @@
     "author": "N/A"
   },
   {
-    "id": 469,
+    "id": 424,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:34:39.490Z",
     "sessionEnd": "2025-03-16T21:37:12.564Z",
@@ -4690,7 +4240,7 @@
     "author": "N/A"
   },
   {
-    "id": 470,
+    "id": 425,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:37:12.564Z",
     "sessionEnd": "2025-03-16T21:37:19.805Z",
@@ -4700,7 +4250,7 @@
     "author": "N/A"
   },
   {
-    "id": 471,
+    "id": 426,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:37:19.805Z",
     "sessionEnd": "2025-03-16T21:37:36.766Z",
@@ -4710,7 +4260,7 @@
     "author": "N/A"
   },
   {
-    "id": 472,
+    "id": 427,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:37:36.766Z",
     "sessionEnd": "2025-03-16T21:38:01.566Z",
@@ -4720,7 +4270,7 @@
     "author": "N/A"
   },
   {
-    "id": 473,
+    "id": 428,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:38:01.566Z",
     "sessionEnd": "2025-03-16T21:38:43.294Z",
@@ -4730,7 +4280,7 @@
     "author": "N/A"
   },
   {
-    "id": 474,
+    "id": 429,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:38:43.294Z",
     "sessionEnd": "2025-03-16T21:39:09.050Z",
@@ -4740,7 +4290,7 @@
     "author": "N/A"
   },
   {
-    "id": 475,
+    "id": 430,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:39:09.050Z",
     "sessionEnd": "2025-03-16T21:39:17.950Z",
@@ -4750,7 +4300,7 @@
     "author": "N/A"
   },
   {
-    "id": 476,
+    "id": 431,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:39:17.950Z",
     "sessionEnd": "2025-03-16T21:39:43.959Z",
@@ -4760,7 +4310,7 @@
     "author": "N/A"
   },
   {
-    "id": 477,
+    "id": 432,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:39:43.959Z",
     "sessionEnd": "2025-03-16T21:40:04.611Z",
@@ -4770,7 +4320,7 @@
     "author": "N/A"
   },
   {
-    "id": 478,
+    "id": 433,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:40:04.611Z",
     "sessionEnd": "2025-03-16T21:40:15.434Z",
@@ -4780,7 +4330,7 @@
     "author": "N/A"
   },
   {
-    "id": 479,
+    "id": 434,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:40:15.434Z",
     "sessionEnd": "2025-03-16T21:40:22.746Z",
@@ -4790,7 +4340,7 @@
     "author": "N/A"
   },
   {
-    "id": 480,
+    "id": 435,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:40:22.746Z",
     "sessionEnd": "2025-03-16T21:40:43.046Z",
@@ -4800,7 +4350,7 @@
     "author": "N/A"
   },
   {
-    "id": 481,
+    "id": 436,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:40:43.046Z",
     "sessionEnd": "2025-03-16T21:40:53.777Z",
@@ -4810,7 +4360,7 @@
     "author": "N/A"
   },
   {
-    "id": 482,
+    "id": 437,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:40:53.777Z",
     "sessionEnd": "2025-03-16T21:41:05.472Z",
@@ -4820,7 +4370,7 @@
     "author": "N/A"
   },
   {
-    "id": 483,
+    "id": 438,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:41:05.472Z",
     "sessionEnd": "2025-03-16T21:41:28.584Z",
@@ -4830,7 +4380,7 @@
     "author": "N/A"
   },
   {
-    "id": 484,
+    "id": 439,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:41:28.584Z",
     "sessionEnd": "2025-03-16T21:41:51.014Z",
@@ -4840,7 +4390,7 @@
     "author": "N/A"
   },
   {
-    "id": 485,
+    "id": 440,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:41:51.014Z",
     "sessionEnd": "2025-03-16T21:43:01.914Z",
@@ -4850,7 +4400,7 @@
     "author": "N/A"
   },
   {
-    "id": 486,
+    "id": 441,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:43:01.914Z",
     "sessionEnd": "2025-03-16T21:43:47.519Z",
@@ -4860,7 +4410,7 @@
     "author": "N/A"
   },
   {
-    "id": 487,
+    "id": 442,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:43:47.519Z",
     "sessionEnd": "2025-03-16T21:44:13.388Z",
@@ -4870,7 +4420,7 @@
     "author": "N/A"
   },
   {
-    "id": 488,
+    "id": 443,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:44:13.388Z",
     "sessionEnd": "2025-03-16T21:44:41.130Z",
@@ -4880,7 +4430,7 @@
     "author": "N/A"
   },
   {
-    "id": 489,
+    "id": 444,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:44:41.130Z",
     "sessionEnd": "2025-03-16T21:45:09.568Z",
@@ -4890,7 +4440,7 @@
     "author": "N/A"
   },
   {
-    "id": 490,
+    "id": 445,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:45:09.568Z",
     "sessionEnd": "2025-03-16T21:45:47.481Z",
@@ -4900,7 +4450,7 @@
     "author": "N/A"
   },
   {
-    "id": 491,
+    "id": 446,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:45:47.481Z",
     "sessionEnd": "2025-03-16T21:45:50.391Z",
@@ -4910,7 +4460,7 @@
     "author": "N/A"
   },
   {
-    "id": 492,
+    "id": 447,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:45:50.391Z",
     "sessionEnd": "2025-03-16T21:46:14.974Z",
@@ -4920,7 +4470,7 @@
     "author": "N/A"
   },
   {
-    "id": 493,
+    "id": 448,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:46:14.974Z",
     "sessionEnd": "2025-03-16T21:46:54.225Z",
@@ -4930,7 +4480,7 @@
     "author": "N/A"
   },
   {
-    "id": 494,
+    "id": 449,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:46:54.225Z",
     "sessionEnd": "2025-03-16T21:47:55.220Z",
@@ -4940,7 +4490,7 @@
     "author": "N/A"
   },
   {
-    "id": 495,
+    "id": 450,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:47:55.220Z",
     "sessionEnd": "2025-03-16T21:53:12.190Z",
@@ -4950,7 +4500,7 @@
     "author": "N/A"
   },
   {
-    "id": 496,
+    "id": 451,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:53:12.190Z",
     "sessionEnd": "2025-03-16T21:53:32.540Z",
@@ -4960,7 +4510,7 @@
     "author": "N/A"
   },
   {
-    "id": 497,
+    "id": 452,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:53:32.540Z",
     "sessionEnd": "2025-03-16T21:56:31.384Z",
@@ -4970,7 +4520,7 @@
     "author": "N/A"
   },
   {
-    "id": 498,
+    "id": 453,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:56:31.384Z",
     "sessionEnd": "2025-03-16T21:56:56.982Z",
@@ -4980,7 +4530,7 @@
     "author": "N/A"
   },
   {
-    "id": 499,
+    "id": 454,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:56:56.982Z",
     "sessionEnd": "2025-03-16T21:57:27.497Z",
@@ -4990,7 +4540,7 @@
     "author": "N/A"
   },
   {
-    "id": 500,
+    "id": 455,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:57:27.497Z",
     "sessionEnd": "2025-03-16T21:57:51.174Z",
@@ -5000,7 +4550,7 @@
     "author": "N/A"
   },
   {
-    "id": 501,
+    "id": 456,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:57:51.174Z",
     "sessionEnd": "2025-03-16T21:57:57.740Z",
@@ -5010,7 +4560,7 @@
     "author": "N/A"
   },
   {
-    "id": 502,
+    "id": 457,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:57:57.740Z",
     "sessionEnd": "2025-03-16T21:58:51.836Z",
@@ -5020,7 +4570,7 @@
     "author": "N/A"
   },
   {
-    "id": 503,
+    "id": 458,
     "commit": "N/A",
     "sessionStart": "2025-03-16T21:58:51.836Z",
     "sessionEnd": "2025-03-16T22:01:36.059Z",
@@ -5030,7 +4580,7 @@
     "author": "N/A"
   },
   {
-    "id": 504,
+    "id": 459,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:01:36.059Z",
     "sessionEnd": "2025-03-16T22:01:46.752Z",
@@ -5040,7 +4590,7 @@
     "author": "N/A"
   },
   {
-    "id": 505,
+    "id": 460,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:01:46.752Z",
     "sessionEnd": "2025-03-16T22:05:44.368Z",
@@ -5050,7 +4600,7 @@
     "author": "N/A"
   },
   {
-    "id": 506,
+    "id": 461,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:05:44.368Z",
     "sessionEnd": "2025-03-16T22:06:05.936Z",
@@ -5060,7 +4610,7 @@
     "author": "N/A"
   },
   {
-    "id": 507,
+    "id": 462,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:06:05.936Z",
     "sessionEnd": "2025-03-16T22:07:10.066Z",
@@ -5070,7 +4620,7 @@
     "author": "N/A"
   },
   {
-    "id": 508,
+    "id": 463,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:07:10.066Z",
     "sessionEnd": "2025-03-16T22:07:37.244Z",
@@ -5080,7 +4630,7 @@
     "author": "N/A"
   },
   {
-    "id": 509,
+    "id": 464,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:07:37.244Z",
     "sessionEnd": "2025-03-16T22:08:33.197Z",
@@ -5090,7 +4640,7 @@
     "author": "N/A"
   },
   {
-    "id": 510,
+    "id": 465,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:08:33.197Z",
     "sessionEnd": "2025-03-16T22:09:11.883Z",
@@ -5100,7 +4650,7 @@
     "author": "N/A"
   },
   {
-    "id": 511,
+    "id": 466,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:09:11.883Z",
     "sessionEnd": "2025-03-16T22:09:13.597Z",
@@ -5110,7 +4660,7 @@
     "author": "N/A"
   },
   {
-    "id": 512,
+    "id": 467,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:09:13.597Z",
     "sessionEnd": "2025-03-16T22:10:29.726Z",
@@ -5120,7 +4670,7 @@
     "author": "N/A"
   },
   {
-    "id": 513,
+    "id": 468,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:10:29.726Z",
     "sessionEnd": "2025-03-16T22:13:21.320Z",
@@ -5130,7 +4680,7 @@
     "author": "N/A"
   },
   {
-    "id": 514,
+    "id": 469,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:13:21.320Z",
     "sessionEnd": "2025-03-16T22:13:55.571Z",
@@ -5140,7 +4690,7 @@
     "author": "N/A"
   },
   {
-    "id": 515,
+    "id": 470,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:13:55.571Z",
     "sessionEnd": "2025-03-16T22:15:23.763Z",
@@ -5150,7 +4700,7 @@
     "author": "N/A"
   },
   {
-    "id": 516,
+    "id": 471,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:15:23.763Z",
     "sessionEnd": "2025-03-16T22:18:26.777Z",
@@ -5160,7 +4710,7 @@
     "author": "N/A"
   },
   {
-    "id": 517,
+    "id": 472,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:18:26.777Z",
     "sessionEnd": "2025-03-16T22:19:27.027Z",
@@ -5170,7 +4720,7 @@
     "author": "N/A"
   },
   {
-    "id": 518,
+    "id": 473,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:19:27.027Z",
     "sessionEnd": "2025-03-16T22:20:37.308Z",
@@ -5180,7 +4730,7 @@
     "author": "N/A"
   },
   {
-    "id": 519,
+    "id": 474,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:20:37.308Z",
     "sessionEnd": "2025-03-16T22:25:08.154Z",
@@ -5190,7 +4740,7 @@
     "author": "N/A"
   },
   {
-    "id": 520,
+    "id": 475,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:25:08.154Z",
     "sessionEnd": "2025-03-16T22:25:25.824Z",
@@ -5200,7 +4750,7 @@
     "author": "N/A"
   },
   {
-    "id": 521,
+    "id": 476,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:25:25.824Z",
     "sessionEnd": "2025-03-16T22:27:05.597Z",
@@ -5210,7 +4760,7 @@
     "author": "N/A"
   },
   {
-    "id": 522,
+    "id": 477,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:27:05.597Z",
     "sessionEnd": "2025-03-16T22:28:32.818Z",
@@ -5220,7 +4770,7 @@
     "author": "N/A"
   },
   {
-    "id": 523,
+    "id": 478,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:28:32.818Z",
     "sessionEnd": "2025-03-16T22:28:53.276Z",
@@ -5230,7 +4780,7 @@
     "author": "N/A"
   },
   {
-    "id": 524,
+    "id": 479,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:28:53.276Z",
     "sessionEnd": "2025-03-16T22:29:09.569Z",
@@ -5240,7 +4790,7 @@
     "author": "N/A"
   },
   {
-    "id": 525,
+    "id": 480,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:29:09.569Z",
     "sessionEnd": "2025-03-16T22:30:50.816Z",
@@ -5250,7 +4800,7 @@
     "author": "N/A"
   },
   {
-    "id": 526,
+    "id": 481,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:30:50.816Z",
     "sessionEnd": "2025-03-16T22:35:37.876Z",
@@ -5260,7 +4810,7 @@
     "author": "N/A"
   },
   {
-    "id": 527,
+    "id": 482,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:35:37.876Z",
     "sessionEnd": "2025-03-16T22:40:38.584Z",
@@ -5270,7 +4820,7 @@
     "author": "N/A"
   },
   {
-    "id": 528,
+    "id": 483,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:40:38.584Z",
     "sessionEnd": "2025-03-16T22:44:53.117Z",
@@ -5280,7 +4830,7 @@
     "author": "N/A"
   },
   {
-    "id": 529,
+    "id": 484,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:44:53.117Z",
     "sessionEnd": "2025-03-16T22:45:19.225Z",
@@ -5290,7 +4840,7 @@
     "author": "N/A"
   },
   {
-    "id": 530,
+    "id": 485,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:45:19.225Z",
     "sessionEnd": "2025-03-16T22:46:40.882Z",
@@ -5300,7 +4850,7 @@
     "author": "N/A"
   },
   {
-    "id": 531,
+    "id": 486,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:46:40.882Z",
     "sessionEnd": "2025-03-16T22:48:31.093Z",
@@ -5310,7 +4860,7 @@
     "author": "N/A"
   },
   {
-    "id": 532,
+    "id": 487,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:48:31.093Z",
     "sessionEnd": "2025-03-16T22:49:30.221Z",
@@ -5320,7 +4870,7 @@
     "author": "N/A"
   },
   {
-    "id": 533,
+    "id": 488,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:49:30.221Z",
     "sessionEnd": "2025-03-16T22:50:05.359Z",
@@ -5330,7 +4880,7 @@
     "author": "N/A"
   },
   {
-    "id": 534,
+    "id": 489,
     "commit": "N/A",
     "sessionStart": "2025-03-16T22:50:05.359Z",
     "sessionEnd": "2025-03-16T23:01:25.543Z",
@@ -5340,7 +4890,7 @@
     "author": "N/A"
   },
   {
-    "id": 535,
+    "id": 490,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:01:25.543Z",
     "sessionEnd": "2025-03-16T23:03:08.081Z",
@@ -5350,7 +4900,7 @@
     "author": "N/A"
   },
   {
-    "id": 536,
+    "id": 491,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:03:08.081Z",
     "sessionEnd": "2025-03-16T23:07:02.751Z",
@@ -5360,7 +4910,7 @@
     "author": "N/A"
   },
   {
-    "id": 537,
+    "id": 492,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:07:02.751Z",
     "sessionEnd": "2025-03-16T23:08:38.520Z",
@@ -5370,7 +4920,7 @@
     "author": "N/A"
   },
   {
-    "id": 538,
+    "id": 493,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:08:38.520Z",
     "sessionEnd": "2025-03-16T23:20:36.822Z",
@@ -5380,7 +4930,7 @@
     "author": "N/A"
   },
   {
-    "id": 539,
+    "id": 494,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:20:36.822Z",
     "sessionEnd": "2025-03-16T23:27:33.763Z",
@@ -5390,7 +4940,7 @@
     "author": "N/A"
   },
   {
-    "id": 540,
+    "id": 495,
     "commit": "N/A",
     "sessionStart": "2025-03-16T23:27:33.763Z",
     "sessionEnd": "2025-03-16T23:28:49.287Z",

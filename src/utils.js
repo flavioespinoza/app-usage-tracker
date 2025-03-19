@@ -2,7 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const { execSync } = require('child_process')
 
-const BLESS_DIR = path.resolve(__dirname, '../bless')
+const BLESS_DIR = '/Users/flavio/bless'
+console.log(`BLESS_DIR resolved to: ${BLESS_DIR}`)
 
 const getGitCommits = (startDate, endDate, authors) => {
 	try {
