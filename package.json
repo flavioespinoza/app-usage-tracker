@@ -6,7 +6,7 @@
 	"scripts": {
 		"track": "node src/index.js",
 		"format": "prettier --write .",
-		"tree": "tree_me"
+		"tree": "zsh -i -c tree_me"
 	},
 	"dependencies": {
 		"date-fns": "^4.1.0"
