@@ -60,8 +60,6 @@ const formatCommitMessageForGitHub = (sessions, startDate, endDate) => {
 	return mdContent
 }
 
-module.exports = { formatCommitMessageForGitHub }
-
 const { execSync } = require('child_process')
 const path = require('path')
 const fs = require('fs')
@@ -96,5 +94,7 @@ const getCommitInfo = (startDate, endDate, author) => {
 	}
 }
 
-module.exports = { getCommitInfo }
-
+module.exports = {
+	formatCommitMessageForGitHub,
+	getCommitInfo
+}
