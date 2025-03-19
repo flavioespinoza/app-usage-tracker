@@ -35,7 +35,7 @@ function getAppUsageLog(startDate, endDate) {
 	}
 }
 
-function calculateActiveUsage(startDate, endDate, author) {
+function calculateActiveUsage(startDate, endDate, authors) {
 	const logOutput = getAppUsageLog(startDate, endDate)
 	if (!logOutput) {
 		console.log('No log data found.')
@@ -76,7 +76,7 @@ function calculateActiveUsage(startDate, endDate, author) {
 	console.log(`Total Active Time: ${activeSessions.length} sessions`)
 
 	// Fetch Git commits
-	const commits = getGitCommits(startDate, endDate, author)
+	const commits = getGitCommits(startDate, endDate, authors)
 
 	// Merge VS Code sessions with commit history
 	const mergedSessions = mergeSessionsWithCommits(activeSessions, commits)

@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const { execSync } = require('child_process')
 
-const BLESS_DIR = '/path/to/bless_dir' // Update this to your actual path
+const BLESS_DIR = path.resolve(__dirname, '../bless')
 
 const getGitCommits = (startDate, endDate, authors) => {
 	try {
@@ -14,11 +14,11 @@ const getGitCommits = (startDate, endDate, authors) => {
 
 		repos.forEach((repo) => {
 			const repoPath = path.join(BLESS_DIR, repo)
-
+			
 			// Build OR condition for multiple authors
 			const authorConditions = authors.map((a) => `--author="${a}"`).join(' ')
 			const logCommand = `git -C ${repoPath} log ${authorConditions} --since="${startDate}" --until="${endDate}" --pretty=format:"%H|%s|%ad|%an|${repo}" --date=iso`
-
+			
 			const output = execSync(logCommand).toString().trim()
 			if (output) {
 				output.split('\n').forEach((line) => {
@@ -35,8 +35,16 @@ const getGitCommits = (startDate, endDate, authors) => {
 	}
 }
 
-const formatCommitMessageForGitHub = (commit) => {
-	return `- [${commit.message}](https://github.com/your-repo/commit/${commit.commit}) by ${commit.commitAuthor} on ${commit.commitDate}`
+const formatCommitMessageForGitHub = (sessions, startDate, endDate) => {
+	let mdContent = `# GitHub Activity Report (${startDate} - ${endDate})\n\n`
+	mdContent += '| ID | Commit | Session Start | Session End | Hours | Repo | Task | Author |\n'
+	mdContent += '|----|--------|--------------|------------|-------|------|------|--------|\n'
+
+	sessions.forEach(({ id, commit, sessionStart, sessionEnd, durationHours, repo, task, author }) => {
+		mdContent += `| ${id} | ${commit} | ${sessionStart} | ${sessionEnd} | ${durationHours} | ${repo} | ${task} | ${author} |\n`
+	})
+
+	return mdContent
 }
 
 module.exports = { getGitCommits, formatCommitMessageForGitHub }
