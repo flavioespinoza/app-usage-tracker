@@ -1,2702 +1,2702 @@
 [
-  {
-    "sessionStart": "2025-03-14T01:46:55.522Z",
-    "sessionEnd": "2025-03-14T01:50:31.667Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T01:50:31.667Z",
-    "sessionEnd": "2025-03-14T01:53:13.334Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T01:53:13.334Z",
-    "sessionEnd": "2025-03-14T01:54:42.464Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T01:54:42.464Z",
-    "sessionEnd": "2025-03-14T01:57:30.879Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T01:57:30.879Z",
-    "sessionEnd": "2025-03-14T01:58:07.630Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T01:58:07.630Z",
-    "sessionEnd": "2025-03-14T02:01:39.773Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T02:01:39.773Z",
-    "sessionEnd": "2025-03-14T02:02:28.447Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:02:28.447Z",
-    "sessionEnd": "2025-03-14T02:02:52.229Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:02:52.229Z",
-    "sessionEnd": "2025-03-14T02:05:56.052Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T02:05:56.052Z",
-    "sessionEnd": "2025-03-14T02:06:05.368Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T02:06:05.368Z",
-    "sessionEnd": "2025-03-14T02:06:37.180Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:06:37.180Z",
-    "sessionEnd": "2025-03-14T02:07:12.127Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:07:12.127Z",
-    "sessionEnd": "2025-03-14T02:07:56.956Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:07:56.956Z",
-    "sessionEnd": "2025-03-14T02:09:52.023Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:09:52.023Z",
-    "sessionEnd": "2025-03-14T02:11:01.549Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:11:01.549Z",
-    "sessionEnd": "2025-03-14T02:13:02.476Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:13:02.476Z",
-    "sessionEnd": "2025-03-14T02:14:31.294Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:14:31.294Z",
-    "sessionEnd": "2025-03-14T02:14:59.139Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:14:59.139Z",
-    "sessionEnd": "2025-03-14T02:15:25.237Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:15:25.237Z",
-    "sessionEnd": "2025-03-14T02:15:34.447Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T02:15:34.447Z",
-    "sessionEnd": "2025-03-14T02:16:11.424Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:16:11.424Z",
-    "sessionEnd": "2025-03-14T02:16:31.619Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:16:31.619Z",
-    "sessionEnd": "2025-03-14T02:18:02.402Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:18:02.402Z",
-    "sessionEnd": "2025-03-14T02:19:57.495Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:19:57.495Z",
-    "sessionEnd": "2025-03-14T02:20:20.172Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:20:20.172Z",
-    "sessionEnd": "2025-03-14T02:20:48.698Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:20:48.698Z",
-    "sessionEnd": "2025-03-14T02:21:37.583Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:21:37.583Z",
-    "sessionEnd": "2025-03-14T02:22:06.453Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:22:06.453Z",
-    "sessionEnd": "2025-03-14T02:23:30.497Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:23:30.497Z",
-    "sessionEnd": "2025-03-14T02:25:37.379Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T02:25:37.379Z",
-    "sessionEnd": "2025-03-14T02:29:02.932Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T02:29:02.932Z",
-    "sessionEnd": "2025-03-14T02:31:22.284Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T02:31:22.284Z",
-    "sessionEnd": "2025-03-14T02:32:12.144Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:32:12.144Z",
-    "sessionEnd": "2025-03-14T02:32:44.052Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:32:44.052Z",
-    "sessionEnd": "2025-03-14T02:33:06.099Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:33:06.099Z",
-    "sessionEnd": "2025-03-14T02:33:24.924Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:33:24.924Z",
-    "sessionEnd": "2025-03-14T02:33:52.845Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:33:52.845Z",
-    "sessionEnd": "2025-03-14T02:34:34.024Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:34:34.024Z",
-    "sessionEnd": "2025-03-14T02:36:59.376Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T02:36:59.376Z",
-    "sessionEnd": "2025-03-14T02:37:18.668Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:37:18.668Z",
-    "sessionEnd": "2025-03-14T02:39:01.791Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:39:01.791Z",
-    "sessionEnd": "2025-03-14T02:39:39.975Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:39:39.975Z",
-    "sessionEnd": "2025-03-14T02:41:27.148Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:41:27.148Z",
-    "sessionEnd": "2025-03-14T02:41:54.415Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:41:54.415Z",
-    "sessionEnd": "2025-03-14T02:45:22.883Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T02:45:22.883Z",
-    "sessionEnd": "2025-03-14T02:45:36.109Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T02:45:36.109Z",
-    "sessionEnd": "2025-03-14T02:45:54.771Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:45:54.771Z",
-    "sessionEnd": "2025-03-14T02:46:10.509Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T02:46:10.509Z",
-    "sessionEnd": "2025-03-14T02:47:01.670Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:47:01.670Z",
-    "sessionEnd": "2025-03-14T02:48:06.174Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:48:06.174Z",
-    "sessionEnd": "2025-03-14T02:48:31.970Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:48:31.970Z",
-    "sessionEnd": "2025-03-14T02:50:22.692Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T02:50:22.692Z",
-    "sessionEnd": "2025-03-14T02:51:40.537Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:51:40.537Z",
-    "sessionEnd": "2025-03-14T02:52:04.733Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:52:04.733Z",
-    "sessionEnd": "2025-03-14T02:52:42.712Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T02:52:42.712Z",
-    "sessionEnd": "2025-03-14T02:54:07.519Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:54:07.519Z",
-    "sessionEnd": "2025-03-14T02:55:19.921Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:55:19.921Z",
-    "sessionEnd": "2025-03-14T02:58:51.580Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T02:58:51.580Z",
-    "sessionEnd": "2025-03-14T02:59:53.849Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T02:59:53.849Z",
-    "sessionEnd": "2025-03-14T03:01:50.160Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T03:01:50.160Z",
-    "sessionEnd": "2025-03-14T03:02:52.760Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T03:02:52.760Z",
-    "sessionEnd": "2025-03-14T03:03:05.475Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:07:31.174Z",
-    "sessionEnd": "2025-03-14T12:07:43.745Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:07:43.745Z",
-    "sessionEnd": "2025-03-14T12:08:38.375Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:08:38.375Z",
-    "sessionEnd": "2025-03-14T12:09:56.496Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:09:56.496Z",
-    "sessionEnd": "2025-03-14T12:10:33.080Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:10:33.080Z",
-    "sessionEnd": "2025-03-14T12:10:39.218Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:10:39.218Z",
-    "sessionEnd": "2025-03-14T12:11:42.143Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:11:42.143Z",
-    "sessionEnd": "2025-03-14T12:12:57.834Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:12:57.834Z",
-    "sessionEnd": "2025-03-14T12:13:50.254Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:13:50.254Z",
-    "sessionEnd": "2025-03-14T12:14:17.956Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:14:17.956Z",
-    "sessionEnd": "2025-03-14T12:15:15.508Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:15:15.508Z",
-    "sessionEnd": "2025-03-14T12:19:09.322Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T12:19:09.322Z",
-    "sessionEnd": "2025-03-14T12:26:59.037Z",
-    "durationHours": "0.13"
-  },
-  {
-    "sessionStart": "2025-03-14T12:26:59.037Z",
-    "sessionEnd": "2025-03-14T12:28:19.217Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:28:19.217Z",
-    "sessionEnd": "2025-03-14T12:29:13.832Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:29:13.832Z",
-    "sessionEnd": "2025-03-14T12:31:49.685Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T12:31:49.685Z",
-    "sessionEnd": "2025-03-14T12:32:50.696Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:32:50.696Z",
-    "sessionEnd": "2025-03-14T12:33:42.645Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:33:42.645Z",
-    "sessionEnd": "2025-03-14T12:34:19.879Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:34:19.879Z",
-    "sessionEnd": "2025-03-14T12:35:28.150Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:35:28.150Z",
-    "sessionEnd": "2025-03-14T12:35:34.032Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:35:34.032Z",
-    "sessionEnd": "2025-03-14T12:35:41.021Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:35:41.021Z",
-    "sessionEnd": "2025-03-14T12:36:00.370Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:36:00.370Z",
-    "sessionEnd": "2025-03-14T12:36:29.941Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:36:29.941Z",
-    "sessionEnd": "2025-03-14T12:36:51.470Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T12:36:51.470Z",
-    "sessionEnd": "2025-03-14T12:38:04.519Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T12:38:04.519Z",
-    "sessionEnd": "2025-03-14T12:38:08.469Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T12:38:08.469Z",
-    "sessionEnd": "2025-03-14T12:54:25.291Z",
-    "durationHours": "0.27"
-  },
-  {
-    "sessionStart": "2025-03-14T12:54:25.291Z",
-    "sessionEnd": "2025-03-14T13:27:35.482Z",
-    "durationHours": "0.55"
-  },
-  {
-    "sessionStart": "2025-03-14T13:27:35.482Z",
-    "sessionEnd": "2025-03-14T13:28:21.963Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T13:28:21.963Z",
-    "sessionEnd": "2025-03-14T13:30:07.973Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T13:30:07.973Z",
-    "sessionEnd": "2025-03-14T13:31:17.050Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T13:31:17.050Z",
-    "sessionEnd": "2025-03-14T13:32:11.781Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T13:32:11.781Z",
-    "sessionEnd": "2025-03-14T14:42:54.721Z",
-    "durationHours": "1.18"
-  },
-  {
-    "sessionStart": "2025-03-14T14:42:54.721Z",
-    "sessionEnd": "2025-03-14T14:43:19.983Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T14:43:19.983Z",
-    "sessionEnd": "2025-03-14T14:43:25.471Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T14:43:25.471Z",
-    "sessionEnd": "2025-03-14T14:44:53.814Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T14:44:53.814Z",
-    "sessionEnd": "2025-03-14T14:45:48.044Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T14:45:48.044Z",
-    "sessionEnd": "2025-03-14T14:46:03.632Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T14:46:03.632Z",
-    "sessionEnd": "2025-03-14T14:46:49.261Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T14:46:49.261Z",
-    "sessionEnd": "2025-03-14T14:48:36.333Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T14:48:36.333Z",
-    "sessionEnd": "2025-03-14T14:50:01.425Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T14:50:01.425Z",
-    "sessionEnd": "2025-03-14T14:50:42.388Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T14:50:42.388Z",
-    "sessionEnd": "2025-03-14T14:53:11.510Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T14:53:11.510Z",
-    "sessionEnd": "2025-03-14T14:53:18.962Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T14:53:18.962Z",
-    "sessionEnd": "2025-03-14T14:55:04.966Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T14:55:04.966Z",
-    "sessionEnd": "2025-03-14T14:55:23.282Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T14:55:23.282Z",
-    "sessionEnd": "2025-03-14T14:56:33.231Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T14:56:33.231Z",
-    "sessionEnd": "2025-03-14T14:56:47.732Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T14:56:47.732Z",
-    "sessionEnd": "2025-03-14T14:57:31.441Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T14:57:31.441Z",
-    "sessionEnd": "2025-03-14T15:01:58.340Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-14T15:01:58.340Z",
-    "sessionEnd": "2025-03-14T15:04:27.195Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T15:04:27.195Z",
-    "sessionEnd": "2025-03-14T15:05:21.351Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T15:05:21.351Z",
-    "sessionEnd": "2025-03-14T15:05:48.050Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T15:05:48.050Z",
-    "sessionEnd": "2025-03-14T17:58:40.187Z",
-    "durationHours": "2.88"
-  },
-  {
-    "sessionStart": "2025-03-14T17:58:40.187Z",
-    "sessionEnd": "2025-03-14T18:00:00.424Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T18:00:00.424Z",
-    "sessionEnd": "2025-03-14T18:00:52.666Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:00:52.666Z",
-    "sessionEnd": "2025-03-14T18:03:33.855Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T18:03:33.855Z",
-    "sessionEnd": "2025-03-14T18:07:36.135Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-14T18:07:36.135Z",
-    "sessionEnd": "2025-03-14T18:08:01.403Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:08:01.403Z",
-    "sessionEnd": "2025-03-14T18:08:44.697Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:08:44.697Z",
-    "sessionEnd": "2025-03-14T18:08:54.036Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:08:54.036Z",
-    "sessionEnd": "2025-03-14T18:09:16.430Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:09:16.430Z",
-    "sessionEnd": "2025-03-14T18:09:26.099Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:09:26.099Z",
-    "sessionEnd": "2025-03-14T18:09:34.065Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:09:34.065Z",
-    "sessionEnd": "2025-03-14T18:09:43.265Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:09:43.265Z",
-    "sessionEnd": "2025-03-14T18:10:17.817Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:10:17.817Z",
-    "sessionEnd": "2025-03-14T18:10:40.134Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:10:40.134Z",
-    "sessionEnd": "2025-03-14T18:10:48.119Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:10:48.119Z",
-    "sessionEnd": "2025-03-14T18:10:58.987Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:10:58.987Z",
-    "sessionEnd": "2025-03-14T18:11:45.619Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:11:45.619Z",
-    "sessionEnd": "2025-03-14T18:12:31.872Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:12:31.872Z",
-    "sessionEnd": "2025-03-14T18:12:43.688Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T18:12:43.688Z",
-    "sessionEnd": "2025-03-14T18:15:21.375Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T18:15:21.375Z",
-    "sessionEnd": "2025-03-14T18:17:26.091Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T18:17:26.091Z",
-    "sessionEnd": "2025-03-14T18:19:01.946Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T18:19:01.946Z",
-    "sessionEnd": "2025-03-14T18:20:37.538Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T18:20:37.538Z",
-    "sessionEnd": "2025-03-14T18:31:11.878Z",
-    "durationHours": "0.18"
-  },
-  {
-    "sessionStart": "2025-03-14T18:31:11.878Z",
-    "sessionEnd": "2025-03-14T18:32:58.639Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T18:32:58.639Z",
-    "sessionEnd": "2025-03-14T18:37:15.523Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-14T18:37:15.523Z",
-    "sessionEnd": "2025-03-14T18:38:40.942Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T18:38:40.942Z",
-    "sessionEnd": "2025-03-14T18:39:13.366Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T18:39:13.366Z",
-    "sessionEnd": "2025-03-14T20:03:24.340Z",
-    "durationHours": "1.40"
-  },
-  {
-    "sessionStart": "2025-03-14T20:03:24.340Z",
-    "sessionEnd": "2025-03-14T20:03:58.214Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:03:58.214Z",
-    "sessionEnd": "2025-03-14T20:04:03.553Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:04:03.553Z",
-    "sessionEnd": "2025-03-14T20:04:48.346Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:04:48.346Z",
-    "sessionEnd": "2025-03-14T20:04:54.068Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:04:54.068Z",
-    "sessionEnd": "2025-03-14T20:05:20.204Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:05:20.204Z",
-    "sessionEnd": "2025-03-14T20:06:51.147Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:06:51.147Z",
-    "sessionEnd": "2025-03-14T20:10:14.600Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T20:10:14.600Z",
-    "sessionEnd": "2025-03-14T20:11:15.827Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:11:15.827Z",
-    "sessionEnd": "2025-03-14T20:11:36.046Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:11:36.046Z",
-    "sessionEnd": "2025-03-14T20:12:17.848Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:12:17.848Z",
-    "sessionEnd": "2025-03-14T20:12:27.624Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:12:27.624Z",
-    "sessionEnd": "2025-03-14T20:13:37.932Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:13:37.932Z",
-    "sessionEnd": "2025-03-14T20:14:13.787Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:14:13.787Z",
-    "sessionEnd": "2025-03-14T20:17:26.568Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T20:17:26.568Z",
-    "sessionEnd": "2025-03-14T20:17:38.522Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:17:38.522Z",
-    "sessionEnd": "2025-03-14T20:18:07.342Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:18:07.342Z",
-    "sessionEnd": "2025-03-14T20:18:26.163Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:18:26.163Z",
-    "sessionEnd": "2025-03-14T20:18:41.939Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:18:41.939Z",
-    "sessionEnd": "2025-03-14T20:19:14.826Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:19:14.826Z",
-    "sessionEnd": "2025-03-14T20:19:59.369Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:19:59.369Z",
-    "sessionEnd": "2025-03-14T20:20:28.670Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:20:28.670Z",
-    "sessionEnd": "2025-03-14T20:20:52.050Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:20:52.050Z",
-    "sessionEnd": "2025-03-14T20:22:49.066Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:22:49.066Z",
-    "sessionEnd": "2025-03-14T20:25:08.854Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T20:25:08.854Z",
-    "sessionEnd": "2025-03-14T20:26:01.733Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:26:01.733Z",
-    "sessionEnd": "2025-03-14T20:27:04.365Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:27:04.365Z",
-    "sessionEnd": "2025-03-14T20:27:26.375Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:27:26.375Z",
-    "sessionEnd": "2025-03-14T20:28:19.256Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:28:19.256Z",
-    "sessionEnd": "2025-03-14T20:28:33.364Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:28:33.364Z",
-    "sessionEnd": "2025-03-14T20:28:44.368Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:28:44.368Z",
-    "sessionEnd": "2025-03-14T20:29:32.569Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:29:32.569Z",
-    "sessionEnd": "2025-03-14T20:29:43.807Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:29:43.807Z",
-    "sessionEnd": "2025-03-14T20:30:13.320Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:30:13.320Z",
-    "sessionEnd": "2025-03-14T20:30:25.203Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:30:25.203Z",
-    "sessionEnd": "2025-03-14T20:31:58.197Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:31:58.197Z",
-    "sessionEnd": "2025-03-14T20:33:54.797Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:33:54.797Z",
-    "sessionEnd": "2025-03-14T20:34:04.441Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:34:04.441Z",
-    "sessionEnd": "2025-03-14T20:35:10.423Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:35:10.423Z",
-    "sessionEnd": "2025-03-14T20:37:00.123Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:37:00.123Z",
-    "sessionEnd": "2025-03-14T20:38:18.229Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:38:18.229Z",
-    "sessionEnd": "2025-03-14T20:38:59.545Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:38:59.545Z",
-    "sessionEnd": "2025-03-14T20:39:41.709Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:39:41.709Z",
-    "sessionEnd": "2025-03-14T20:41:15.170Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:41:15.170Z",
-    "sessionEnd": "2025-03-14T20:41:39.576Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:41:39.576Z",
-    "sessionEnd": "2025-03-14T20:44:29.863Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T20:44:29.863Z",
-    "sessionEnd": "2025-03-14T20:44:46.041Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:44:46.041Z",
-    "sessionEnd": "2025-03-14T20:45:20.326Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:45:20.326Z",
-    "sessionEnd": "2025-03-14T20:45:49.035Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:45:49.035Z",
-    "sessionEnd": "2025-03-14T20:49:22.807Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T20:49:22.807Z",
-    "sessionEnd": "2025-03-14T20:49:31.360Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:49:31.360Z",
-    "sessionEnd": "2025-03-14T20:51:18.133Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T20:51:18.133Z",
-    "sessionEnd": "2025-03-14T20:51:19.936Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T20:51:19.936Z",
-    "sessionEnd": "2025-03-14T20:52:23.772Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T20:52:23.772Z",
-    "sessionEnd": "2025-03-14T20:52:48.167Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:52:48.167Z",
-    "sessionEnd": "2025-03-14T20:55:34.523Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T20:55:34.523Z",
-    "sessionEnd": "2025-03-14T20:55:55.729Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:55:55.729Z",
-    "sessionEnd": "2025-03-14T20:56:37.075Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T20:56:37.075Z",
-    "sessionEnd": "2025-03-14T23:24:06.340Z",
-    "durationHours": "2.46"
-  },
-  {
-    "sessionStart": "2025-03-14T23:24:06.340Z",
-    "sessionEnd": "2025-03-14T23:24:39.489Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T23:24:39.489Z",
-    "sessionEnd": "2025-03-14T23:25:38.843Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T23:25:38.843Z",
-    "sessionEnd": "2025-03-14T23:26:27.460Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T23:26:27.460Z",
-    "sessionEnd": "2025-03-14T23:27:41.058Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T23:27:41.058Z",
-    "sessionEnd": "2025-03-14T23:28:18.983Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-14T23:28:18.983Z",
-    "sessionEnd": "2025-03-14T23:29:50.997Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-14T23:29:50.997Z",
-    "sessionEnd": "2025-03-14T23:33:09.957Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-14T23:33:09.957Z",
-    "sessionEnd": "2025-03-14T23:35:34.464Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T23:35:34.464Z",
-    "sessionEnd": "2025-03-14T23:35:40.045Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-14T23:35:40.045Z",
-    "sessionEnd": "2025-03-14T23:41:35.194Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-14T23:41:35.194Z",
-    "sessionEnd": "2025-03-14T23:45:50.202Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-14T23:45:50.202Z",
-    "sessionEnd": "2025-03-14T23:48:03.302Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T23:48:03.302Z",
-    "sessionEnd": "2025-03-14T23:51:05.617Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-14T23:51:05.617Z",
-    "sessionEnd": "2025-03-14T23:53:28.147Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-14T23:53:28.147Z",
-    "sessionEnd": "2025-03-14T23:54:53.521Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-14T23:54:53.521Z",
-    "sessionEnd": "2025-03-14T23:59:30.097Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-14T23:59:30.097Z",
-    "sessionEnd": "2025-03-15T00:03:38.097Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-15T00:03:38.097Z",
-    "sessionEnd": "2025-03-15T00:10:30.588Z",
-    "durationHours": "0.11"
-  },
-  {
-    "sessionStart": "2025-03-15T15:20:13.234Z",
-    "sessionEnd": "2025-03-15T15:20:57.152Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:20:57.152Z",
-    "sessionEnd": "2025-03-15T15:23:18.142Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T15:23:18.142Z",
-    "sessionEnd": "2025-03-15T15:23:38.243Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:23:38.243Z",
-    "sessionEnd": "2025-03-15T15:23:46.097Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T15:23:46.097Z",
-    "sessionEnd": "2025-03-15T15:24:01.006Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T15:24:01.006Z",
-    "sessionEnd": "2025-03-15T15:26:57.185Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T15:26:57.185Z",
-    "sessionEnd": "2025-03-15T15:27:19.819Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:27:19.819Z",
-    "sessionEnd": "2025-03-15T15:46:01.309Z",
-    "durationHours": "0.31"
-  },
-  {
-    "sessionStart": "2025-03-15T15:46:01.309Z",
-    "sessionEnd": "2025-03-15T15:46:07.705Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T15:46:07.705Z",
-    "sessionEnd": "2025-03-15T15:46:25.929Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:46:25.929Z",
-    "sessionEnd": "2025-03-15T15:46:41.455Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T15:46:41.455Z",
-    "sessionEnd": "2025-03-15T15:49:01.523Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T15:49:01.523Z",
-    "sessionEnd": "2025-03-15T15:50:02.805Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T15:50:02.805Z",
-    "sessionEnd": "2025-03-15T15:50:29.951Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:50:29.951Z",
-    "sessionEnd": "2025-03-15T15:50:41.947Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T15:50:41.947Z",
-    "sessionEnd": "2025-03-15T15:53:20.887Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T15:53:20.887Z",
-    "sessionEnd": "2025-03-15T15:53:52.479Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:53:52.479Z",
-    "sessionEnd": "2025-03-15T15:54:24.872Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:54:24.872Z",
-    "sessionEnd": "2025-03-15T15:55:27.246Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T15:55:27.246Z",
-    "sessionEnd": "2025-03-15T15:58:17.069Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T15:58:17.069Z",
-    "sessionEnd": "2025-03-15T15:58:47.335Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T15:58:47.335Z",
-    "sessionEnd": "2025-03-15T16:01:53.487Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T16:01:53.487Z",
-    "sessionEnd": "2025-03-15T16:03:49.452Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T16:03:49.452Z",
-    "sessionEnd": "2025-03-15T16:09:09.553Z",
-    "durationHours": "0.09"
-  },
-  {
-    "sessionStart": "2025-03-15T16:09:09.553Z",
-    "sessionEnd": "2025-03-15T16:14:02.209Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-15T16:14:02.209Z",
-    "sessionEnd": "2025-03-15T16:18:08.151Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-15T16:18:08.151Z",
-    "sessionEnd": "2025-03-15T16:18:25.644Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T16:18:25.644Z",
-    "sessionEnd": "2025-03-15T16:18:36.885Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T16:18:36.885Z",
-    "sessionEnd": "2025-03-15T16:37:00.907Z",
-    "durationHours": "0.31"
-  },
-  {
-    "sessionStart": "2025-03-15T16:37:00.907Z",
-    "sessionEnd": "2025-03-15T16:37:08.786Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T16:37:08.786Z",
-    "sessionEnd": "2025-03-15T16:37:11.979Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T16:37:11.979Z",
-    "sessionEnd": "2025-03-15T16:43:34.137Z",
-    "durationHours": "0.11"
-  },
-  {
-    "sessionStart": "2025-03-15T16:43:34.137Z",
-    "sessionEnd": "2025-03-15T16:46:00.213Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T16:46:00.213Z",
-    "sessionEnd": "2025-03-15T16:55:13.216Z",
-    "durationHours": "0.15"
-  },
-  {
-    "sessionStart": "2025-03-15T16:55:13.216Z",
-    "sessionEnd": "2025-03-15T17:01:21.069Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-15T17:01:21.069Z",
-    "sessionEnd": "2025-03-15T17:01:23.102Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T17:01:23.102Z",
-    "sessionEnd": "2025-03-15T17:08:05.170Z",
-    "durationHours": "0.11"
-  },
-  {
-    "sessionStart": "2025-03-15T17:08:05.170Z",
-    "sessionEnd": "2025-03-15T17:24:49.635Z",
-    "durationHours": "0.28"
-  },
-  {
-    "sessionStart": "2025-03-15T17:24:49.635Z",
-    "sessionEnd": "2025-03-15T17:25:31.704Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T17:25:31.704Z",
-    "sessionEnd": "2025-03-15T18:00:17.193Z",
-    "durationHours": "0.58"
-  },
-  {
-    "sessionStart": "2025-03-15T18:00:17.193Z",
-    "sessionEnd": "2025-03-15T18:00:44.840Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:00:44.840Z",
-    "sessionEnd": "2025-03-15T18:06:04.630Z",
-    "durationHours": "0.09"
-  },
-  {
-    "sessionStart": "2025-03-15T18:06:04.630Z",
-    "sessionEnd": "2025-03-15T18:07:25.276Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:07:25.276Z",
-    "sessionEnd": "2025-03-15T18:09:23.815Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T18:09:23.815Z",
-    "sessionEnd": "2025-03-15T18:09:54.364Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:09:54.364Z",
-    "sessionEnd": "2025-03-15T18:10:20.366Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:10:20.366Z",
-    "sessionEnd": "2025-03-15T18:10:51.334Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:10:51.334Z",
-    "sessionEnd": "2025-03-15T18:11:54.431Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:11:54.431Z",
-    "sessionEnd": "2025-03-15T18:14:27.791Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T18:14:27.791Z",
-    "sessionEnd": "2025-03-15T18:14:53.621Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:14:53.621Z",
-    "sessionEnd": "2025-03-15T18:15:19.851Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:15:19.851Z",
-    "sessionEnd": "2025-03-15T18:16:33.426Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:16:33.426Z",
-    "sessionEnd": "2025-03-15T18:17:16.679Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:17:16.679Z",
-    "sessionEnd": "2025-03-15T18:17:48.262Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:17:48.262Z",
-    "sessionEnd": "2025-03-15T18:18:36.113Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:18:36.113Z",
-    "sessionEnd": "2025-03-15T18:18:56.265Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:18:56.265Z",
-    "sessionEnd": "2025-03-15T18:19:05.330Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T18:19:05.330Z",
-    "sessionEnd": "2025-03-15T18:19:25.665Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:19:25.665Z",
-    "sessionEnd": "2025-03-15T18:19:46.592Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:19:46.592Z",
-    "sessionEnd": "2025-03-15T18:20:58.250Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:20:58.250Z",
-    "sessionEnd": "2025-03-15T18:21:54.594Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:21:54.594Z",
-    "sessionEnd": "2025-03-15T18:22:58.787Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:22:58.787Z",
-    "sessionEnd": "2025-03-15T18:25:09.745Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T18:25:09.745Z",
-    "sessionEnd": "2025-03-15T18:25:29.283Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:25:29.283Z",
-    "sessionEnd": "2025-03-15T18:28:32.207Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T18:28:32.207Z",
-    "sessionEnd": "2025-03-15T18:28:37.460Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T18:28:37.460Z",
-    "sessionEnd": "2025-03-15T18:29:14.112Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:29:14.112Z",
-    "sessionEnd": "2025-03-15T18:29:50.143Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:29:50.143Z",
-    "sessionEnd": "2025-03-15T18:33:27.017Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-15T18:33:27.017Z",
-    "sessionEnd": "2025-03-15T18:33:52.624Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:33:52.624Z",
-    "sessionEnd": "2025-03-15T18:35:14.263Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:35:14.263Z",
-    "sessionEnd": "2025-03-15T18:37:06.563Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T18:37:06.563Z",
-    "sessionEnd": "2025-03-15T18:38:06.220Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T18:38:06.220Z",
-    "sessionEnd": "2025-03-15T18:54:43.608Z",
-    "durationHours": "0.28"
-  },
-  {
-    "sessionStart": "2025-03-15T18:54:43.608Z",
-    "sessionEnd": "2025-03-15T18:55:27.206Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T18:55:27.206Z",
-    "sessionEnd": "2025-03-15T18:57:50.276Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T18:57:50.276Z",
-    "sessionEnd": "2025-03-15T19:01:13.607Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-15T19:01:13.607Z",
-    "sessionEnd": "2025-03-15T19:01:19.496Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:01:19.496Z",
-    "sessionEnd": "2025-03-15T19:05:21.709Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-15T19:05:21.709Z",
-    "sessionEnd": "2025-03-15T19:08:09.690Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T19:08:09.690Z",
-    "sessionEnd": "2025-03-15T19:08:17.552Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:08:17.552Z",
-    "sessionEnd": "2025-03-15T19:08:19.456Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:08:19.456Z",
-    "sessionEnd": "2025-03-15T19:10:28.417Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T19:10:28.417Z",
-    "sessionEnd": "2025-03-15T19:10:44.580Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:10:44.580Z",
-    "sessionEnd": "2025-03-15T19:12:21.094Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T19:12:21.094Z",
-    "sessionEnd": "2025-03-15T19:13:39.869Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:13:39.869Z",
-    "sessionEnd": "2025-03-15T19:17:22.018Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-15T19:17:22.018Z",
-    "sessionEnd": "2025-03-15T19:19:33.810Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T19:19:33.810Z",
-    "sessionEnd": "2025-03-15T19:22:24.906Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-15T19:22:24.906Z",
-    "sessionEnd": "2025-03-15T19:23:41.191Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:23:41.191Z",
-    "sessionEnd": "2025-03-15T19:27:10.635Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-15T19:27:10.635Z",
-    "sessionEnd": "2025-03-15T19:27:23.460Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:27:23.460Z",
-    "sessionEnd": "2025-03-15T19:29:11.675Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T19:29:11.675Z",
-    "sessionEnd": "2025-03-15T19:29:31.993Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:29:31.993Z",
-    "sessionEnd": "2025-03-15T19:30:33.130Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:30:33.130Z",
-    "sessionEnd": "2025-03-15T19:37:14.403Z",
-    "durationHours": "0.11"
-  },
-  {
-    "sessionStart": "2025-03-15T19:37:14.403Z",
-    "sessionEnd": "2025-03-15T19:37:47.700Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:37:47.700Z",
-    "sessionEnd": "2025-03-15T19:38:18.285Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:38:18.285Z",
-    "sessionEnd": "2025-03-15T19:39:38.250Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:39:38.250Z",
-    "sessionEnd": "2025-03-15T19:42:57.682Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-15T19:42:57.682Z",
-    "sessionEnd": "2025-03-15T19:44:12.578Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:44:12.578Z",
-    "sessionEnd": "2025-03-15T19:44:19.694Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:44:19.694Z",
-    "sessionEnd": "2025-03-15T19:44:58.768Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:44:58.768Z",
-    "sessionEnd": "2025-03-15T19:45:53.254Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:45:53.254Z",
-    "sessionEnd": "2025-03-15T19:46:04.829Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:46:04.829Z",
-    "sessionEnd": "2025-03-15T19:47:18.782Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T19:47:18.782Z",
-    "sessionEnd": "2025-03-15T19:47:43.998Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:47:43.998Z",
-    "sessionEnd": "2025-03-15T19:48:09.733Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T19:48:09.733Z",
-    "sessionEnd": "2025-03-15T19:48:13.326Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T19:48:13.326Z",
-    "sessionEnd": "2025-03-15T19:50:37.319Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T19:50:37.319Z",
-    "sessionEnd": "2025-03-15T20:01:14.723Z",
-    "durationHours": "0.18"
-  },
-  {
-    "sessionStart": "2025-03-15T20:01:14.723Z",
-    "sessionEnd": "2025-03-15T20:02:12.612Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T20:02:12.612Z",
-    "sessionEnd": "2025-03-15T20:04:03.995Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T20:04:03.995Z",
-    "sessionEnd": "2025-03-15T20:05:20.301Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-15T20:05:20.301Z",
-    "sessionEnd": "2025-03-15T20:05:23.407Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T20:05:23.407Z",
-    "sessionEnd": "2025-03-15T20:11:01.805Z",
-    "durationHours": "0.09"
-  },
-  {
-    "sessionStart": "2025-03-15T20:11:01.805Z",
-    "sessionEnd": "2025-03-15T20:15:54.745Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-15T20:15:54.745Z",
-    "sessionEnd": "2025-03-15T20:16:45.971Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T20:16:45.971Z",
-    "sessionEnd": "2025-03-15T20:17:28.778Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-15T20:17:28.778Z",
-    "sessionEnd": "2025-03-15T20:17:31.377Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T20:17:31.377Z",
-    "sessionEnd": "2025-03-15T20:19:04.376Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-15T20:19:04.376Z",
-    "sessionEnd": "2025-03-15T20:21:18.804Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-15T20:21:18.804Z",
-    "sessionEnd": "2025-03-15T20:48:13.946Z",
-    "durationHours": "0.45"
-  },
-  {
-    "sessionStart": "2025-03-15T20:48:13.946Z",
-    "sessionEnd": "2025-03-15T20:48:27.918Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-15T20:48:27.918Z",
-    "sessionEnd": "2025-03-15T20:57:43.059Z",
-    "durationHours": "0.15"
-  },
-  {
-    "sessionStart": "2025-03-15T20:57:43.059Z",
-    "sessionEnd": "2025-03-16T00:25:34.023Z",
-    "durationHours": "3.46"
-  },
-  {
-    "sessionStart": "2025-03-16T00:25:34.023Z",
-    "sessionEnd": "2025-03-16T00:38:16.639Z",
-    "durationHours": "0.21"
-  },
-  {
-    "sessionStart": "2025-03-16T00:38:16.639Z",
-    "sessionEnd": "2025-03-16T00:38:19.852Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T00:38:19.852Z",
-    "sessionEnd": "2025-03-16T00:38:58.853Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T00:38:58.853Z",
-    "sessionEnd": "2025-03-16T00:42:15.590Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T00:42:15.590Z",
-    "sessionEnd": "2025-03-16T00:43:48.029Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T00:43:48.029Z",
-    "sessionEnd": "2025-03-16T00:43:52.889Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T00:43:52.889Z",
-    "sessionEnd": "2025-03-16T00:44:15.817Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T00:44:15.817Z",
-    "sessionEnd": "2025-03-16T00:56:05.678Z",
-    "durationHours": "0.20"
-  },
-  {
-    "sessionStart": "2025-03-16T00:56:05.678Z",
-    "sessionEnd": "2025-03-16T01:02:06.142Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-16T01:02:06.142Z",
-    "sessionEnd": "2025-03-16T01:05:48.299Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T01:05:48.299Z",
-    "sessionEnd": "2025-03-16T01:17:49.407Z",
-    "durationHours": "0.20"
-  },
-  {
-    "sessionStart": "2025-03-16T01:17:49.407Z",
-    "sessionEnd": "2025-03-16T01:18:16.280Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T01:18:16.280Z",
-    "sessionEnd": "2025-03-16T01:19:34.983Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T01:19:34.983Z",
-    "sessionEnd": "2025-03-16T01:28:52.683Z",
-    "durationHours": "0.15"
-  },
-  {
-    "sessionStart": "2025-03-16T01:28:52.683Z",
-    "sessionEnd": "2025-03-16T01:30:38.909Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T01:30:38.909Z",
-    "sessionEnd": "2025-03-16T01:32:57.653Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T01:32:57.653Z",
-    "sessionEnd": "2025-03-16T01:35:36.209Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T01:35:36.209Z",
-    "sessionEnd": "2025-03-16T01:37:30.175Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T01:37:30.175Z",
-    "sessionEnd": "2025-03-16T01:38:03.863Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T01:38:03.863Z",
-    "sessionEnd": "2025-03-16T01:46:20.772Z",
-    "durationHours": "0.14"
-  },
-  {
-    "sessionStart": "2025-03-16T01:46:20.772Z",
-    "sessionEnd": "2025-03-16T01:48:43.208Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T01:48:43.208Z",
-    "sessionEnd": "2025-03-16T01:49:51.274Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T01:49:51.274Z",
-    "sessionEnd": "2025-03-16T01:50:33.599Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T01:50:33.599Z",
-    "sessionEnd": "2025-03-16T01:51:43.048Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T01:51:43.048Z",
-    "sessionEnd": "2025-03-16T02:04:34.029Z",
-    "durationHours": "0.21"
-  },
-  {
-    "sessionStart": "2025-03-16T02:04:34.029Z",
-    "sessionEnd": "2025-03-16T02:08:48.248Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-16T02:08:48.248Z",
-    "sessionEnd": "2025-03-16T02:15:38.242Z",
-    "durationHours": "0.11"
-  },
-  {
-    "sessionStart": "2025-03-16T02:15:38.242Z",
-    "sessionEnd": "2025-03-16T02:16:55.499Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T02:16:55.499Z",
-    "sessionEnd": "2025-03-16T02:20:30.132Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T02:20:30.132Z",
-    "sessionEnd": "2025-03-16T02:20:41.474Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T02:20:41.474Z",
-    "sessionEnd": "2025-03-16T02:21:37.315Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T02:21:37.315Z",
-    "sessionEnd": "2025-03-16T02:28:45.674Z",
-    "durationHours": "0.12"
-  },
-  {
-    "sessionStart": "2025-03-16T02:28:45.674Z",
-    "sessionEnd": "2025-03-16T02:30:29.126Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T02:30:29.126Z",
-    "sessionEnd": "2025-03-16T02:30:52.299Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:30:52.299Z",
-    "sessionEnd": "2025-03-16T02:31:12.391Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:31:12.391Z",
-    "sessionEnd": "2025-03-16T02:32:12.751Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T02:32:12.751Z",
-    "sessionEnd": "2025-03-16T02:33:26.852Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T02:33:26.852Z",
-    "sessionEnd": "2025-03-16T02:34:16.358Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:34:16.358Z",
-    "sessionEnd": "2025-03-16T02:34:45.081Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:34:45.081Z",
-    "sessionEnd": "2025-03-16T02:35:26.920Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:35:26.920Z",
-    "sessionEnd": "2025-03-16T02:35:58.310Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:35:58.310Z",
-    "sessionEnd": "2025-03-16T02:37:21.600Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T02:37:21.600Z",
-    "sessionEnd": "2025-03-16T02:37:25.329Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T02:37:25.329Z",
-    "sessionEnd": "2025-03-16T02:38:08.763Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T02:38:08.763Z",
-    "sessionEnd": "2025-03-16T02:55:46.909Z",
-    "durationHours": "0.29"
-  },
-  {
-    "sessionStart": "2025-03-16T02:55:46.909Z",
-    "sessionEnd": "2025-03-16T03:03:00.817Z",
-    "durationHours": "0.12"
-  },
-  {
-    "sessionStart": "2025-03-16T03:03:00.817Z",
-    "sessionEnd": "2025-03-16T03:03:25.935Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T03:03:25.935Z",
-    "sessionEnd": "2025-03-16T03:06:57.512Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T03:06:57.512Z",
-    "sessionEnd": "2025-03-16T03:11:55.680Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-16T03:11:55.680Z",
-    "sessionEnd": "2025-03-16T03:15:28.316Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T03:15:28.316Z",
-    "sessionEnd": "2025-03-16T03:16:36.780Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T03:16:36.780Z",
-    "sessionEnd": "2025-03-16T03:18:12.259Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T03:18:12.259Z",
-    "sessionEnd": "2025-03-16T03:21:15.160Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T03:21:15.160Z",
-    "sessionEnd": "2025-03-16T03:25:05.244Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T03:25:05.244Z",
-    "sessionEnd": "2025-03-16T03:25:42.127Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T03:25:42.127Z",
-    "sessionEnd": "2025-03-16T03:31:49.187Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-16T03:31:49.187Z",
-    "sessionEnd": "2025-03-16T03:48:01.873Z",
-    "durationHours": "0.27"
-  },
-  {
-    "sessionStart": "2025-03-16T03:48:01.873Z",
-    "sessionEnd": "2025-03-16T03:48:07.465Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T03:48:07.465Z",
-    "sessionEnd": "2025-03-16T03:56:01.322Z",
-    "durationHours": "0.13"
-  },
-  {
-    "sessionStart": "2025-03-16T03:56:01.322Z",
-    "sessionEnd": "2025-03-16T03:56:16.613Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T03:56:16.613Z",
-    "sessionEnd": "2025-03-16T03:58:30.252Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T03:58:30.252Z",
-    "sessionEnd": "2025-03-16T04:00:26.858Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T04:00:26.858Z",
-    "sessionEnd": "2025-03-16T04:36:34.112Z",
-    "durationHours": "0.60"
-  },
-  {
-    "sessionStart": "2025-03-16T04:36:34.112Z",
-    "sessionEnd": "2025-03-16T05:12:20.950Z",
-    "durationHours": "0.60"
-  },
-  {
-    "sessionStart": "2025-03-16T05:12:20.950Z",
-    "sessionEnd": "2025-03-16T05:13:59.948Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T05:13:59.948Z",
-    "sessionEnd": "2025-03-16T05:15:46.644Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T05:15:46.644Z",
-    "sessionEnd": "2025-03-16T05:16:33.853Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T05:16:33.853Z",
-    "sessionEnd": "2025-03-16T05:22:39.465Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-16T05:22:39.465Z",
-    "sessionEnd": "2025-03-16T05:25:37.917Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T05:25:37.917Z",
-    "sessionEnd": "2025-03-16T05:27:40.343Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T05:27:40.343Z",
-    "sessionEnd": "2025-03-16T05:33:39.069Z",
-    "durationHours": "0.10"
-  },
-  {
-    "sessionStart": "2025-03-16T16:54:55.973Z",
-    "sessionEnd": "2025-03-16T16:57:26.039Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T16:57:26.039Z",
-    "sessionEnd": "2025-03-16T16:58:19.228Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T16:58:19.228Z",
-    "sessionEnd": "2025-03-16T16:59:25.997Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T16:59:25.997Z",
-    "sessionEnd": "2025-03-16T16:59:52.425Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T16:59:52.425Z",
-    "sessionEnd": "2025-03-16T17:01:31.529Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:01:31.529Z",
-    "sessionEnd": "2025-03-16T17:04:05.648Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:04:05.648Z",
-    "sessionEnd": "2025-03-16T17:04:07.451Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T17:04:07.451Z",
-    "sessionEnd": "2025-03-16T17:04:45.992Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:04:45.992Z",
-    "sessionEnd": "2025-03-16T17:07:03.903Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:07:03.903Z",
-    "sessionEnd": "2025-03-16T17:09:35.390Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:09:35.390Z",
-    "sessionEnd": "2025-03-16T17:09:49.170Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T17:09:49.170Z",
-    "sessionEnd": "2025-03-16T17:10:11.201Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:10:11.201Z",
-    "sessionEnd": "2025-03-16T17:11:06.358Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:11:06.358Z",
-    "sessionEnd": "2025-03-16T17:12:07.593Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:12:07.593Z",
-    "sessionEnd": "2025-03-16T17:14:32.439Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:14:32.439Z",
-    "sessionEnd": "2025-03-16T17:15:44.693Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:15:44.693Z",
-    "sessionEnd": "2025-03-16T17:16:21.478Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:16:21.478Z",
-    "sessionEnd": "2025-03-16T17:18:09.437Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:18:09.437Z",
-    "sessionEnd": "2025-03-16T17:19:03.896Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:19:03.896Z",
-    "sessionEnd": "2025-03-16T17:19:35.930Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:19:35.930Z",
-    "sessionEnd": "2025-03-16T17:21:40.521Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:21:40.521Z",
-    "sessionEnd": "2025-03-16T17:23:35.911Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:23:35.911Z",
-    "sessionEnd": "2025-03-16T17:25:30.150Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:25:30.150Z",
-    "sessionEnd": "2025-03-16T17:26:39.038Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:26:39.038Z",
-    "sessionEnd": "2025-03-16T17:27:11.939Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:27:11.939Z",
-    "sessionEnd": "2025-03-16T17:29:33.255Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:29:33.255Z",
-    "sessionEnd": "2025-03-16T17:30:09.039Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:30:09.039Z",
-    "sessionEnd": "2025-03-16T17:30:28.118Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:30:28.118Z",
-    "sessionEnd": "2025-03-16T17:30:40.350Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T17:30:40.350Z",
-    "sessionEnd": "2025-03-16T17:31:40.013Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T17:31:40.013Z",
-    "sessionEnd": "2025-03-16T17:33:53.970Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T17:33:53.970Z",
-    "sessionEnd": "2025-03-16T17:35:24.819Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T17:35:24.819Z",
-    "sessionEnd": "2025-03-16T17:36:00.562Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T17:36:00.562Z",
-    "sessionEnd": "2025-03-16T17:36:07.286Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T17:36:07.286Z",
-    "sessionEnd": "2025-03-16T17:56:56.755Z",
-    "durationHours": "0.35"
-  },
-  {
-    "sessionStart": "2025-03-16T17:56:56.755Z",
-    "sessionEnd": "2025-03-16T20:58:47.439Z",
-    "durationHours": "3.03"
-  },
-  {
-    "sessionStart": "2025-03-16T20:58:47.439Z",
-    "sessionEnd": "2025-03-16T21:02:33.539Z",
-    "durationHours": "0.06"
-  },
-  {
-    "sessionStart": "2025-03-16T21:02:33.539Z",
-    "sessionEnd": "2025-03-16T21:23:49.703Z",
-    "durationHours": "0.35"
-  },
-  {
-    "sessionStart": "2025-03-16T21:23:49.703Z",
-    "sessionEnd": "2025-03-16T21:25:50.489Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T21:25:50.489Z",
-    "sessionEnd": "2025-03-16T21:25:59.369Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:25:59.369Z",
-    "sessionEnd": "2025-03-16T21:26:19.362Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:26:19.362Z",
-    "sessionEnd": "2025-03-16T21:26:27.566Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:26:27.566Z",
-    "sessionEnd": "2025-03-16T21:27:07.685Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:27:07.685Z",
-    "sessionEnd": "2025-03-16T21:27:26.926Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:27:26.926Z",
-    "sessionEnd": "2025-03-16T21:27:35.677Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:27:35.677Z",
-    "sessionEnd": "2025-03-16T21:29:18.316Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T21:29:18.316Z",
-    "sessionEnd": "2025-03-16T21:30:05.710Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:30:05.710Z",
-    "sessionEnd": "2025-03-16T21:31:02.390Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T21:31:02.390Z",
-    "sessionEnd": "2025-03-16T21:31:55.675Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:31:55.675Z",
-    "sessionEnd": "2025-03-16T21:32:01.699Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:32:01.699Z",
-    "sessionEnd": "2025-03-16T21:34:39.490Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T21:34:39.490Z",
-    "sessionEnd": "2025-03-16T21:37:12.564Z",
-    "durationHours": "0.04"
-  },
-  {
-    "sessionStart": "2025-03-16T21:37:12.564Z",
-    "sessionEnd": "2025-03-16T21:37:19.805Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:37:19.805Z",
-    "sessionEnd": "2025-03-16T21:37:36.766Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:37:36.766Z",
-    "sessionEnd": "2025-03-16T21:38:01.566Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:38:01.566Z",
-    "sessionEnd": "2025-03-16T21:38:43.294Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:38:43.294Z",
-    "sessionEnd": "2025-03-16T21:39:09.050Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:39:09.050Z",
-    "sessionEnd": "2025-03-16T21:39:17.950Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:39:17.950Z",
-    "sessionEnd": "2025-03-16T21:39:43.959Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:39:43.959Z",
-    "sessionEnd": "2025-03-16T21:40:04.611Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:40:04.611Z",
-    "sessionEnd": "2025-03-16T21:40:15.434Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:40:15.434Z",
-    "sessionEnd": "2025-03-16T21:40:22.746Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:40:22.746Z",
-    "sessionEnd": "2025-03-16T21:40:43.046Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:40:43.046Z",
-    "sessionEnd": "2025-03-16T21:40:53.777Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:40:53.777Z",
-    "sessionEnd": "2025-03-16T21:41:05.472Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:41:05.472Z",
-    "sessionEnd": "2025-03-16T21:41:28.584Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:41:28.584Z",
-    "sessionEnd": "2025-03-16T21:41:51.014Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:41:51.014Z",
-    "sessionEnd": "2025-03-16T21:43:01.914Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T21:43:01.914Z",
-    "sessionEnd": "2025-03-16T21:43:47.519Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:43:47.519Z",
-    "sessionEnd": "2025-03-16T21:44:13.388Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:44:13.388Z",
-    "sessionEnd": "2025-03-16T21:44:41.130Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:44:41.130Z",
-    "sessionEnd": "2025-03-16T21:45:09.568Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:45:09.568Z",
-    "sessionEnd": "2025-03-16T21:45:47.481Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:45:47.481Z",
-    "sessionEnd": "2025-03-16T21:45:50.391Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:45:50.391Z",
-    "sessionEnd": "2025-03-16T21:46:14.974Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:46:14.974Z",
-    "sessionEnd": "2025-03-16T21:46:54.225Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:46:54.225Z",
-    "sessionEnd": "2025-03-16T21:47:55.220Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T21:47:55.220Z",
-    "sessionEnd": "2025-03-16T21:53:12.190Z",
-    "durationHours": "0.09"
-  },
-  {
-    "sessionStart": "2025-03-16T21:53:12.190Z",
-    "sessionEnd": "2025-03-16T21:53:32.540Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:53:32.540Z",
-    "sessionEnd": "2025-03-16T21:56:31.384Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T21:56:31.384Z",
-    "sessionEnd": "2025-03-16T21:56:56.982Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:56:56.982Z",
-    "sessionEnd": "2025-03-16T21:57:27.497Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:57:27.497Z",
-    "sessionEnd": "2025-03-16T21:57:51.174Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T21:57:51.174Z",
-    "sessionEnd": "2025-03-16T21:57:57.740Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T21:57:57.740Z",
-    "sessionEnd": "2025-03-16T21:58:51.836Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T21:58:51.836Z",
-    "sessionEnd": "2025-03-16T22:01:36.059Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T22:01:36.059Z",
-    "sessionEnd": "2025-03-16T22:01:46.752Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T22:01:46.752Z",
-    "sessionEnd": "2025-03-16T22:05:44.368Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-16T22:05:44.368Z",
-    "sessionEnd": "2025-03-16T22:06:05.936Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:06:05.936Z",
-    "sessionEnd": "2025-03-16T22:07:10.066Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:07:10.066Z",
-    "sessionEnd": "2025-03-16T22:07:37.244Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:07:37.244Z",
-    "sessionEnd": "2025-03-16T22:08:33.197Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:08:33.197Z",
-    "sessionEnd": "2025-03-16T22:09:11.883Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:09:11.883Z",
-    "sessionEnd": "2025-03-16T22:09:13.597Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T22:09:13.597Z",
-    "sessionEnd": "2025-03-16T22:10:29.726Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:10:29.726Z",
-    "sessionEnd": "2025-03-16T22:13:21.320Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T22:13:21.320Z",
-    "sessionEnd": "2025-03-16T22:13:55.571Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:13:55.571Z",
-    "sessionEnd": "2025-03-16T22:15:23.763Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:15:23.763Z",
-    "sessionEnd": "2025-03-16T22:18:26.777Z",
-    "durationHours": "0.05"
-  },
-  {
-    "sessionStart": "2025-03-16T22:18:26.777Z",
-    "sessionEnd": "2025-03-16T22:19:27.027Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:19:27.027Z",
-    "sessionEnd": "2025-03-16T22:20:37.308Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:20:37.308Z",
-    "sessionEnd": "2025-03-16T22:25:08.154Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-16T22:25:08.154Z",
-    "sessionEnd": "2025-03-16T22:25:25.824Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T22:25:25.824Z",
-    "sessionEnd": "2025-03-16T22:27:05.597Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T22:27:05.597Z",
-    "sessionEnd": "2025-03-16T22:28:32.818Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:28:32.818Z",
-    "sessionEnd": "2025-03-16T22:28:53.276Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:28:53.276Z",
-    "sessionEnd": "2025-03-16T22:29:09.569Z",
-    "durationHours": "0.00"
-  },
-  {
-    "sessionStart": "2025-03-16T22:29:09.569Z",
-    "sessionEnd": "2025-03-16T22:30:50.816Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T22:30:50.816Z",
-    "sessionEnd": "2025-03-16T22:35:37.876Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-16T22:35:37.876Z",
-    "sessionEnd": "2025-03-16T22:40:38.584Z",
-    "durationHours": "0.08"
-  },
-  {
-    "sessionStart": "2025-03-16T22:40:38.584Z",
-    "sessionEnd": "2025-03-16T22:44:53.117Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-16T22:44:53.117Z",
-    "sessionEnd": "2025-03-16T22:45:19.225Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:45:19.225Z",
-    "sessionEnd": "2025-03-16T22:46:40.882Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:46:40.882Z",
-    "sessionEnd": "2025-03-16T22:48:31.093Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T22:48:31.093Z",
-    "sessionEnd": "2025-03-16T22:49:30.221Z",
-    "durationHours": "0.02"
-  },
-  {
-    "sessionStart": "2025-03-16T22:49:30.221Z",
-    "sessionEnd": "2025-03-16T22:50:05.359Z",
-    "durationHours": "0.01"
-  },
-  {
-    "sessionStart": "2025-03-16T22:50:05.359Z",
-    "sessionEnd": "2025-03-16T23:01:25.543Z",
-    "durationHours": "0.19"
-  },
-  {
-    "sessionStart": "2025-03-16T23:01:25.543Z",
-    "sessionEnd": "2025-03-16T23:03:08.081Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T23:03:08.081Z",
-    "sessionEnd": "2025-03-16T23:07:02.751Z",
-    "durationHours": "0.07"
-  },
-  {
-    "sessionStart": "2025-03-16T23:07:02.751Z",
-    "sessionEnd": "2025-03-16T23:08:38.520Z",
-    "durationHours": "0.03"
-  },
-  {
-    "sessionStart": "2025-03-16T23:08:38.520Z",
-    "sessionEnd": "2025-03-16T23:20:36.822Z",
-    "durationHours": "0.20"
-  },
-  {
-    "sessionStart": "2025-03-16T23:20:36.822Z",
-    "sessionEnd": "2025-03-16T23:27:33.763Z",
-    "durationHours": "0.12"
-  },
-  {
-    "sessionStart": "2025-03-16T23:27:33.763Z",
-    "sessionEnd": "2025-03-16T23:28:49.287Z",
-    "durationHours": "0.02"
-  }
+	{
+		"sessionStart": "2025-03-14T01:46:55.522Z",
+		"sessionEnd": "2025-03-14T01:50:31.667Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T01:50:31.667Z",
+		"sessionEnd": "2025-03-14T01:53:13.334Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T01:53:13.334Z",
+		"sessionEnd": "2025-03-14T01:54:42.464Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T01:54:42.464Z",
+		"sessionEnd": "2025-03-14T01:57:30.879Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T01:57:30.879Z",
+		"sessionEnd": "2025-03-14T01:58:07.630Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T01:58:07.630Z",
+		"sessionEnd": "2025-03-14T02:01:39.773Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T02:01:39.773Z",
+		"sessionEnd": "2025-03-14T02:02:28.447Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:02:28.447Z",
+		"sessionEnd": "2025-03-14T02:02:52.229Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:02:52.229Z",
+		"sessionEnd": "2025-03-14T02:05:56.052Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T02:05:56.052Z",
+		"sessionEnd": "2025-03-14T02:06:05.368Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T02:06:05.368Z",
+		"sessionEnd": "2025-03-14T02:06:37.180Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:06:37.180Z",
+		"sessionEnd": "2025-03-14T02:07:12.127Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:07:12.127Z",
+		"sessionEnd": "2025-03-14T02:07:56.956Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:07:56.956Z",
+		"sessionEnd": "2025-03-14T02:09:52.023Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:09:52.023Z",
+		"sessionEnd": "2025-03-14T02:11:01.549Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:11:01.549Z",
+		"sessionEnd": "2025-03-14T02:13:02.476Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:13:02.476Z",
+		"sessionEnd": "2025-03-14T02:14:31.294Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:14:31.294Z",
+		"sessionEnd": "2025-03-14T02:14:59.139Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:14:59.139Z",
+		"sessionEnd": "2025-03-14T02:15:25.237Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:15:25.237Z",
+		"sessionEnd": "2025-03-14T02:15:34.447Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T02:15:34.447Z",
+		"sessionEnd": "2025-03-14T02:16:11.424Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:16:11.424Z",
+		"sessionEnd": "2025-03-14T02:16:31.619Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:16:31.619Z",
+		"sessionEnd": "2025-03-14T02:18:02.402Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:18:02.402Z",
+		"sessionEnd": "2025-03-14T02:19:57.495Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:19:57.495Z",
+		"sessionEnd": "2025-03-14T02:20:20.172Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:20:20.172Z",
+		"sessionEnd": "2025-03-14T02:20:48.698Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:20:48.698Z",
+		"sessionEnd": "2025-03-14T02:21:37.583Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:21:37.583Z",
+		"sessionEnd": "2025-03-14T02:22:06.453Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:22:06.453Z",
+		"sessionEnd": "2025-03-14T02:23:30.497Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:23:30.497Z",
+		"sessionEnd": "2025-03-14T02:25:37.379Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T02:25:37.379Z",
+		"sessionEnd": "2025-03-14T02:29:02.932Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T02:29:02.932Z",
+		"sessionEnd": "2025-03-14T02:31:22.284Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T02:31:22.284Z",
+		"sessionEnd": "2025-03-14T02:32:12.144Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:32:12.144Z",
+		"sessionEnd": "2025-03-14T02:32:44.052Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:32:44.052Z",
+		"sessionEnd": "2025-03-14T02:33:06.099Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:33:06.099Z",
+		"sessionEnd": "2025-03-14T02:33:24.924Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:33:24.924Z",
+		"sessionEnd": "2025-03-14T02:33:52.845Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:33:52.845Z",
+		"sessionEnd": "2025-03-14T02:34:34.024Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:34:34.024Z",
+		"sessionEnd": "2025-03-14T02:36:59.376Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T02:36:59.376Z",
+		"sessionEnd": "2025-03-14T02:37:18.668Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:37:18.668Z",
+		"sessionEnd": "2025-03-14T02:39:01.791Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:39:01.791Z",
+		"sessionEnd": "2025-03-14T02:39:39.975Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:39:39.975Z",
+		"sessionEnd": "2025-03-14T02:41:27.148Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:41:27.148Z",
+		"sessionEnd": "2025-03-14T02:41:54.415Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:41:54.415Z",
+		"sessionEnd": "2025-03-14T02:45:22.883Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T02:45:22.883Z",
+		"sessionEnd": "2025-03-14T02:45:36.109Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T02:45:36.109Z",
+		"sessionEnd": "2025-03-14T02:45:54.771Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:45:54.771Z",
+		"sessionEnd": "2025-03-14T02:46:10.509Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T02:46:10.509Z",
+		"sessionEnd": "2025-03-14T02:47:01.670Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:47:01.670Z",
+		"sessionEnd": "2025-03-14T02:48:06.174Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:48:06.174Z",
+		"sessionEnd": "2025-03-14T02:48:31.970Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:48:31.970Z",
+		"sessionEnd": "2025-03-14T02:50:22.692Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T02:50:22.692Z",
+		"sessionEnd": "2025-03-14T02:51:40.537Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:51:40.537Z",
+		"sessionEnd": "2025-03-14T02:52:04.733Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:52:04.733Z",
+		"sessionEnd": "2025-03-14T02:52:42.712Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T02:52:42.712Z",
+		"sessionEnd": "2025-03-14T02:54:07.519Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:54:07.519Z",
+		"sessionEnd": "2025-03-14T02:55:19.921Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:55:19.921Z",
+		"sessionEnd": "2025-03-14T02:58:51.580Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T02:58:51.580Z",
+		"sessionEnd": "2025-03-14T02:59:53.849Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T02:59:53.849Z",
+		"sessionEnd": "2025-03-14T03:01:50.160Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T03:01:50.160Z",
+		"sessionEnd": "2025-03-14T03:02:52.760Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T03:02:52.760Z",
+		"sessionEnd": "2025-03-14T03:03:05.475Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:07:31.174Z",
+		"sessionEnd": "2025-03-14T12:07:43.745Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:07:43.745Z",
+		"sessionEnd": "2025-03-14T12:08:38.375Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:08:38.375Z",
+		"sessionEnd": "2025-03-14T12:09:56.496Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:09:56.496Z",
+		"sessionEnd": "2025-03-14T12:10:33.080Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:10:33.080Z",
+		"sessionEnd": "2025-03-14T12:10:39.218Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:10:39.218Z",
+		"sessionEnd": "2025-03-14T12:11:42.143Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:11:42.143Z",
+		"sessionEnd": "2025-03-14T12:12:57.834Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:12:57.834Z",
+		"sessionEnd": "2025-03-14T12:13:50.254Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:13:50.254Z",
+		"sessionEnd": "2025-03-14T12:14:17.956Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:14:17.956Z",
+		"sessionEnd": "2025-03-14T12:15:15.508Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:15:15.508Z",
+		"sessionEnd": "2025-03-14T12:19:09.322Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T12:19:09.322Z",
+		"sessionEnd": "2025-03-14T12:26:59.037Z",
+		"durationHours": "0.13"
+	},
+	{
+		"sessionStart": "2025-03-14T12:26:59.037Z",
+		"sessionEnd": "2025-03-14T12:28:19.217Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:28:19.217Z",
+		"sessionEnd": "2025-03-14T12:29:13.832Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:29:13.832Z",
+		"sessionEnd": "2025-03-14T12:31:49.685Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T12:31:49.685Z",
+		"sessionEnd": "2025-03-14T12:32:50.696Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:32:50.696Z",
+		"sessionEnd": "2025-03-14T12:33:42.645Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:33:42.645Z",
+		"sessionEnd": "2025-03-14T12:34:19.879Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:34:19.879Z",
+		"sessionEnd": "2025-03-14T12:35:28.150Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:35:28.150Z",
+		"sessionEnd": "2025-03-14T12:35:34.032Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:35:34.032Z",
+		"sessionEnd": "2025-03-14T12:35:41.021Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:35:41.021Z",
+		"sessionEnd": "2025-03-14T12:36:00.370Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:36:00.370Z",
+		"sessionEnd": "2025-03-14T12:36:29.941Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:36:29.941Z",
+		"sessionEnd": "2025-03-14T12:36:51.470Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T12:36:51.470Z",
+		"sessionEnd": "2025-03-14T12:38:04.519Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T12:38:04.519Z",
+		"sessionEnd": "2025-03-14T12:38:08.469Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T12:38:08.469Z",
+		"sessionEnd": "2025-03-14T12:54:25.291Z",
+		"durationHours": "0.27"
+	},
+	{
+		"sessionStart": "2025-03-14T12:54:25.291Z",
+		"sessionEnd": "2025-03-14T13:27:35.482Z",
+		"durationHours": "0.55"
+	},
+	{
+		"sessionStart": "2025-03-14T13:27:35.482Z",
+		"sessionEnd": "2025-03-14T13:28:21.963Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T13:28:21.963Z",
+		"sessionEnd": "2025-03-14T13:30:07.973Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T13:30:07.973Z",
+		"sessionEnd": "2025-03-14T13:31:17.050Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T13:31:17.050Z",
+		"sessionEnd": "2025-03-14T13:32:11.781Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T13:32:11.781Z",
+		"sessionEnd": "2025-03-14T14:42:54.721Z",
+		"durationHours": "1.18"
+	},
+	{
+		"sessionStart": "2025-03-14T14:42:54.721Z",
+		"sessionEnd": "2025-03-14T14:43:19.983Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T14:43:19.983Z",
+		"sessionEnd": "2025-03-14T14:43:25.471Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T14:43:25.471Z",
+		"sessionEnd": "2025-03-14T14:44:53.814Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T14:44:53.814Z",
+		"sessionEnd": "2025-03-14T14:45:48.044Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T14:45:48.044Z",
+		"sessionEnd": "2025-03-14T14:46:03.632Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T14:46:03.632Z",
+		"sessionEnd": "2025-03-14T14:46:49.261Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T14:46:49.261Z",
+		"sessionEnd": "2025-03-14T14:48:36.333Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T14:48:36.333Z",
+		"sessionEnd": "2025-03-14T14:50:01.425Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T14:50:01.425Z",
+		"sessionEnd": "2025-03-14T14:50:42.388Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T14:50:42.388Z",
+		"sessionEnd": "2025-03-14T14:53:11.510Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T14:53:11.510Z",
+		"sessionEnd": "2025-03-14T14:53:18.962Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T14:53:18.962Z",
+		"sessionEnd": "2025-03-14T14:55:04.966Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T14:55:04.966Z",
+		"sessionEnd": "2025-03-14T14:55:23.282Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T14:55:23.282Z",
+		"sessionEnd": "2025-03-14T14:56:33.231Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T14:56:33.231Z",
+		"sessionEnd": "2025-03-14T14:56:47.732Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T14:56:47.732Z",
+		"sessionEnd": "2025-03-14T14:57:31.441Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T14:57:31.441Z",
+		"sessionEnd": "2025-03-14T15:01:58.340Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-14T15:01:58.340Z",
+		"sessionEnd": "2025-03-14T15:04:27.195Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T15:04:27.195Z",
+		"sessionEnd": "2025-03-14T15:05:21.351Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T15:05:21.351Z",
+		"sessionEnd": "2025-03-14T15:05:48.050Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T15:05:48.050Z",
+		"sessionEnd": "2025-03-14T17:58:40.187Z",
+		"durationHours": "2.88"
+	},
+	{
+		"sessionStart": "2025-03-14T17:58:40.187Z",
+		"sessionEnd": "2025-03-14T18:00:00.424Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T18:00:00.424Z",
+		"sessionEnd": "2025-03-14T18:00:52.666Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:00:52.666Z",
+		"sessionEnd": "2025-03-14T18:03:33.855Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T18:03:33.855Z",
+		"sessionEnd": "2025-03-14T18:07:36.135Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-14T18:07:36.135Z",
+		"sessionEnd": "2025-03-14T18:08:01.403Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:08:01.403Z",
+		"sessionEnd": "2025-03-14T18:08:44.697Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:08:44.697Z",
+		"sessionEnd": "2025-03-14T18:08:54.036Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:08:54.036Z",
+		"sessionEnd": "2025-03-14T18:09:16.430Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:09:16.430Z",
+		"sessionEnd": "2025-03-14T18:09:26.099Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:09:26.099Z",
+		"sessionEnd": "2025-03-14T18:09:34.065Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:09:34.065Z",
+		"sessionEnd": "2025-03-14T18:09:43.265Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:09:43.265Z",
+		"sessionEnd": "2025-03-14T18:10:17.817Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:10:17.817Z",
+		"sessionEnd": "2025-03-14T18:10:40.134Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:10:40.134Z",
+		"sessionEnd": "2025-03-14T18:10:48.119Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:10:48.119Z",
+		"sessionEnd": "2025-03-14T18:10:58.987Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:10:58.987Z",
+		"sessionEnd": "2025-03-14T18:11:45.619Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:11:45.619Z",
+		"sessionEnd": "2025-03-14T18:12:31.872Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:12:31.872Z",
+		"sessionEnd": "2025-03-14T18:12:43.688Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T18:12:43.688Z",
+		"sessionEnd": "2025-03-14T18:15:21.375Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T18:15:21.375Z",
+		"sessionEnd": "2025-03-14T18:17:26.091Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T18:17:26.091Z",
+		"sessionEnd": "2025-03-14T18:19:01.946Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T18:19:01.946Z",
+		"sessionEnd": "2025-03-14T18:20:37.538Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T18:20:37.538Z",
+		"sessionEnd": "2025-03-14T18:31:11.878Z",
+		"durationHours": "0.18"
+	},
+	{
+		"sessionStart": "2025-03-14T18:31:11.878Z",
+		"sessionEnd": "2025-03-14T18:32:58.639Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T18:32:58.639Z",
+		"sessionEnd": "2025-03-14T18:37:15.523Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-14T18:37:15.523Z",
+		"sessionEnd": "2025-03-14T18:38:40.942Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T18:38:40.942Z",
+		"sessionEnd": "2025-03-14T18:39:13.366Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T18:39:13.366Z",
+		"sessionEnd": "2025-03-14T20:03:24.340Z",
+		"durationHours": "1.40"
+	},
+	{
+		"sessionStart": "2025-03-14T20:03:24.340Z",
+		"sessionEnd": "2025-03-14T20:03:58.214Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:03:58.214Z",
+		"sessionEnd": "2025-03-14T20:04:03.553Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:04:03.553Z",
+		"sessionEnd": "2025-03-14T20:04:48.346Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:04:48.346Z",
+		"sessionEnd": "2025-03-14T20:04:54.068Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:04:54.068Z",
+		"sessionEnd": "2025-03-14T20:05:20.204Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:05:20.204Z",
+		"sessionEnd": "2025-03-14T20:06:51.147Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:06:51.147Z",
+		"sessionEnd": "2025-03-14T20:10:14.600Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T20:10:14.600Z",
+		"sessionEnd": "2025-03-14T20:11:15.827Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:11:15.827Z",
+		"sessionEnd": "2025-03-14T20:11:36.046Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:11:36.046Z",
+		"sessionEnd": "2025-03-14T20:12:17.848Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:12:17.848Z",
+		"sessionEnd": "2025-03-14T20:12:27.624Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:12:27.624Z",
+		"sessionEnd": "2025-03-14T20:13:37.932Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:13:37.932Z",
+		"sessionEnd": "2025-03-14T20:14:13.787Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:14:13.787Z",
+		"sessionEnd": "2025-03-14T20:17:26.568Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T20:17:26.568Z",
+		"sessionEnd": "2025-03-14T20:17:38.522Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:17:38.522Z",
+		"sessionEnd": "2025-03-14T20:18:07.342Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:18:07.342Z",
+		"sessionEnd": "2025-03-14T20:18:26.163Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:18:26.163Z",
+		"sessionEnd": "2025-03-14T20:18:41.939Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:18:41.939Z",
+		"sessionEnd": "2025-03-14T20:19:14.826Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:19:14.826Z",
+		"sessionEnd": "2025-03-14T20:19:59.369Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:19:59.369Z",
+		"sessionEnd": "2025-03-14T20:20:28.670Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:20:28.670Z",
+		"sessionEnd": "2025-03-14T20:20:52.050Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:20:52.050Z",
+		"sessionEnd": "2025-03-14T20:22:49.066Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:22:49.066Z",
+		"sessionEnd": "2025-03-14T20:25:08.854Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T20:25:08.854Z",
+		"sessionEnd": "2025-03-14T20:26:01.733Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:26:01.733Z",
+		"sessionEnd": "2025-03-14T20:27:04.365Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:27:04.365Z",
+		"sessionEnd": "2025-03-14T20:27:26.375Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:27:26.375Z",
+		"sessionEnd": "2025-03-14T20:28:19.256Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:28:19.256Z",
+		"sessionEnd": "2025-03-14T20:28:33.364Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:28:33.364Z",
+		"sessionEnd": "2025-03-14T20:28:44.368Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:28:44.368Z",
+		"sessionEnd": "2025-03-14T20:29:32.569Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:29:32.569Z",
+		"sessionEnd": "2025-03-14T20:29:43.807Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:29:43.807Z",
+		"sessionEnd": "2025-03-14T20:30:13.320Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:30:13.320Z",
+		"sessionEnd": "2025-03-14T20:30:25.203Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:30:25.203Z",
+		"sessionEnd": "2025-03-14T20:31:58.197Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:31:58.197Z",
+		"sessionEnd": "2025-03-14T20:33:54.797Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:33:54.797Z",
+		"sessionEnd": "2025-03-14T20:34:04.441Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:34:04.441Z",
+		"sessionEnd": "2025-03-14T20:35:10.423Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:35:10.423Z",
+		"sessionEnd": "2025-03-14T20:37:00.123Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:37:00.123Z",
+		"sessionEnd": "2025-03-14T20:38:18.229Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:38:18.229Z",
+		"sessionEnd": "2025-03-14T20:38:59.545Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:38:59.545Z",
+		"sessionEnd": "2025-03-14T20:39:41.709Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:39:41.709Z",
+		"sessionEnd": "2025-03-14T20:41:15.170Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:41:15.170Z",
+		"sessionEnd": "2025-03-14T20:41:39.576Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:41:39.576Z",
+		"sessionEnd": "2025-03-14T20:44:29.863Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T20:44:29.863Z",
+		"sessionEnd": "2025-03-14T20:44:46.041Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:44:46.041Z",
+		"sessionEnd": "2025-03-14T20:45:20.326Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:45:20.326Z",
+		"sessionEnd": "2025-03-14T20:45:49.035Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:45:49.035Z",
+		"sessionEnd": "2025-03-14T20:49:22.807Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T20:49:22.807Z",
+		"sessionEnd": "2025-03-14T20:49:31.360Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:49:31.360Z",
+		"sessionEnd": "2025-03-14T20:51:18.133Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T20:51:18.133Z",
+		"sessionEnd": "2025-03-14T20:51:19.936Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T20:51:19.936Z",
+		"sessionEnd": "2025-03-14T20:52:23.772Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T20:52:23.772Z",
+		"sessionEnd": "2025-03-14T20:52:48.167Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:52:48.167Z",
+		"sessionEnd": "2025-03-14T20:55:34.523Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T20:55:34.523Z",
+		"sessionEnd": "2025-03-14T20:55:55.729Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:55:55.729Z",
+		"sessionEnd": "2025-03-14T20:56:37.075Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T20:56:37.075Z",
+		"sessionEnd": "2025-03-14T23:24:06.340Z",
+		"durationHours": "2.46"
+	},
+	{
+		"sessionStart": "2025-03-14T23:24:06.340Z",
+		"sessionEnd": "2025-03-14T23:24:39.489Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T23:24:39.489Z",
+		"sessionEnd": "2025-03-14T23:25:38.843Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T23:25:38.843Z",
+		"sessionEnd": "2025-03-14T23:26:27.460Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T23:26:27.460Z",
+		"sessionEnd": "2025-03-14T23:27:41.058Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T23:27:41.058Z",
+		"sessionEnd": "2025-03-14T23:28:18.983Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-14T23:28:18.983Z",
+		"sessionEnd": "2025-03-14T23:29:50.997Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-14T23:29:50.997Z",
+		"sessionEnd": "2025-03-14T23:33:09.957Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-14T23:33:09.957Z",
+		"sessionEnd": "2025-03-14T23:35:34.464Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T23:35:34.464Z",
+		"sessionEnd": "2025-03-14T23:35:40.045Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-14T23:35:40.045Z",
+		"sessionEnd": "2025-03-14T23:41:35.194Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-14T23:41:35.194Z",
+		"sessionEnd": "2025-03-14T23:45:50.202Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-14T23:45:50.202Z",
+		"sessionEnd": "2025-03-14T23:48:03.302Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T23:48:03.302Z",
+		"sessionEnd": "2025-03-14T23:51:05.617Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-14T23:51:05.617Z",
+		"sessionEnd": "2025-03-14T23:53:28.147Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-14T23:53:28.147Z",
+		"sessionEnd": "2025-03-14T23:54:53.521Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-14T23:54:53.521Z",
+		"sessionEnd": "2025-03-14T23:59:30.097Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-14T23:59:30.097Z",
+		"sessionEnd": "2025-03-15T00:03:38.097Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-15T00:03:38.097Z",
+		"sessionEnd": "2025-03-15T00:10:30.588Z",
+		"durationHours": "0.11"
+	},
+	{
+		"sessionStart": "2025-03-15T15:20:13.234Z",
+		"sessionEnd": "2025-03-15T15:20:57.152Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:20:57.152Z",
+		"sessionEnd": "2025-03-15T15:23:18.142Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T15:23:18.142Z",
+		"sessionEnd": "2025-03-15T15:23:38.243Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:23:38.243Z",
+		"sessionEnd": "2025-03-15T15:23:46.097Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T15:23:46.097Z",
+		"sessionEnd": "2025-03-15T15:24:01.006Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T15:24:01.006Z",
+		"sessionEnd": "2025-03-15T15:26:57.185Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T15:26:57.185Z",
+		"sessionEnd": "2025-03-15T15:27:19.819Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:27:19.819Z",
+		"sessionEnd": "2025-03-15T15:46:01.309Z",
+		"durationHours": "0.31"
+	},
+	{
+		"sessionStart": "2025-03-15T15:46:01.309Z",
+		"sessionEnd": "2025-03-15T15:46:07.705Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T15:46:07.705Z",
+		"sessionEnd": "2025-03-15T15:46:25.929Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:46:25.929Z",
+		"sessionEnd": "2025-03-15T15:46:41.455Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T15:46:41.455Z",
+		"sessionEnd": "2025-03-15T15:49:01.523Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T15:49:01.523Z",
+		"sessionEnd": "2025-03-15T15:50:02.805Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T15:50:02.805Z",
+		"sessionEnd": "2025-03-15T15:50:29.951Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:50:29.951Z",
+		"sessionEnd": "2025-03-15T15:50:41.947Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T15:50:41.947Z",
+		"sessionEnd": "2025-03-15T15:53:20.887Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T15:53:20.887Z",
+		"sessionEnd": "2025-03-15T15:53:52.479Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:53:52.479Z",
+		"sessionEnd": "2025-03-15T15:54:24.872Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:54:24.872Z",
+		"sessionEnd": "2025-03-15T15:55:27.246Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T15:55:27.246Z",
+		"sessionEnd": "2025-03-15T15:58:17.069Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T15:58:17.069Z",
+		"sessionEnd": "2025-03-15T15:58:47.335Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T15:58:47.335Z",
+		"sessionEnd": "2025-03-15T16:01:53.487Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T16:01:53.487Z",
+		"sessionEnd": "2025-03-15T16:03:49.452Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T16:03:49.452Z",
+		"sessionEnd": "2025-03-15T16:09:09.553Z",
+		"durationHours": "0.09"
+	},
+	{
+		"sessionStart": "2025-03-15T16:09:09.553Z",
+		"sessionEnd": "2025-03-15T16:14:02.209Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-15T16:14:02.209Z",
+		"sessionEnd": "2025-03-15T16:18:08.151Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-15T16:18:08.151Z",
+		"sessionEnd": "2025-03-15T16:18:25.644Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T16:18:25.644Z",
+		"sessionEnd": "2025-03-15T16:18:36.885Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T16:18:36.885Z",
+		"sessionEnd": "2025-03-15T16:37:00.907Z",
+		"durationHours": "0.31"
+	},
+	{
+		"sessionStart": "2025-03-15T16:37:00.907Z",
+		"sessionEnd": "2025-03-15T16:37:08.786Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T16:37:08.786Z",
+		"sessionEnd": "2025-03-15T16:37:11.979Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T16:37:11.979Z",
+		"sessionEnd": "2025-03-15T16:43:34.137Z",
+		"durationHours": "0.11"
+	},
+	{
+		"sessionStart": "2025-03-15T16:43:34.137Z",
+		"sessionEnd": "2025-03-15T16:46:00.213Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T16:46:00.213Z",
+		"sessionEnd": "2025-03-15T16:55:13.216Z",
+		"durationHours": "0.15"
+	},
+	{
+		"sessionStart": "2025-03-15T16:55:13.216Z",
+		"sessionEnd": "2025-03-15T17:01:21.069Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-15T17:01:21.069Z",
+		"sessionEnd": "2025-03-15T17:01:23.102Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T17:01:23.102Z",
+		"sessionEnd": "2025-03-15T17:08:05.170Z",
+		"durationHours": "0.11"
+	},
+	{
+		"sessionStart": "2025-03-15T17:08:05.170Z",
+		"sessionEnd": "2025-03-15T17:24:49.635Z",
+		"durationHours": "0.28"
+	},
+	{
+		"sessionStart": "2025-03-15T17:24:49.635Z",
+		"sessionEnd": "2025-03-15T17:25:31.704Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T17:25:31.704Z",
+		"sessionEnd": "2025-03-15T18:00:17.193Z",
+		"durationHours": "0.58"
+	},
+	{
+		"sessionStart": "2025-03-15T18:00:17.193Z",
+		"sessionEnd": "2025-03-15T18:00:44.840Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:00:44.840Z",
+		"sessionEnd": "2025-03-15T18:06:04.630Z",
+		"durationHours": "0.09"
+	},
+	{
+		"sessionStart": "2025-03-15T18:06:04.630Z",
+		"sessionEnd": "2025-03-15T18:07:25.276Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:07:25.276Z",
+		"sessionEnd": "2025-03-15T18:09:23.815Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T18:09:23.815Z",
+		"sessionEnd": "2025-03-15T18:09:54.364Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:09:54.364Z",
+		"sessionEnd": "2025-03-15T18:10:20.366Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:10:20.366Z",
+		"sessionEnd": "2025-03-15T18:10:51.334Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:10:51.334Z",
+		"sessionEnd": "2025-03-15T18:11:54.431Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:11:54.431Z",
+		"sessionEnd": "2025-03-15T18:14:27.791Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T18:14:27.791Z",
+		"sessionEnd": "2025-03-15T18:14:53.621Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:14:53.621Z",
+		"sessionEnd": "2025-03-15T18:15:19.851Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:15:19.851Z",
+		"sessionEnd": "2025-03-15T18:16:33.426Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:16:33.426Z",
+		"sessionEnd": "2025-03-15T18:17:16.679Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:17:16.679Z",
+		"sessionEnd": "2025-03-15T18:17:48.262Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:17:48.262Z",
+		"sessionEnd": "2025-03-15T18:18:36.113Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:18:36.113Z",
+		"sessionEnd": "2025-03-15T18:18:56.265Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:18:56.265Z",
+		"sessionEnd": "2025-03-15T18:19:05.330Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T18:19:05.330Z",
+		"sessionEnd": "2025-03-15T18:19:25.665Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:19:25.665Z",
+		"sessionEnd": "2025-03-15T18:19:46.592Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:19:46.592Z",
+		"sessionEnd": "2025-03-15T18:20:58.250Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:20:58.250Z",
+		"sessionEnd": "2025-03-15T18:21:54.594Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:21:54.594Z",
+		"sessionEnd": "2025-03-15T18:22:58.787Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:22:58.787Z",
+		"sessionEnd": "2025-03-15T18:25:09.745Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T18:25:09.745Z",
+		"sessionEnd": "2025-03-15T18:25:29.283Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:25:29.283Z",
+		"sessionEnd": "2025-03-15T18:28:32.207Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T18:28:32.207Z",
+		"sessionEnd": "2025-03-15T18:28:37.460Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T18:28:37.460Z",
+		"sessionEnd": "2025-03-15T18:29:14.112Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:29:14.112Z",
+		"sessionEnd": "2025-03-15T18:29:50.143Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:29:50.143Z",
+		"sessionEnd": "2025-03-15T18:33:27.017Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-15T18:33:27.017Z",
+		"sessionEnd": "2025-03-15T18:33:52.624Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:33:52.624Z",
+		"sessionEnd": "2025-03-15T18:35:14.263Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:35:14.263Z",
+		"sessionEnd": "2025-03-15T18:37:06.563Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T18:37:06.563Z",
+		"sessionEnd": "2025-03-15T18:38:06.220Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T18:38:06.220Z",
+		"sessionEnd": "2025-03-15T18:54:43.608Z",
+		"durationHours": "0.28"
+	},
+	{
+		"sessionStart": "2025-03-15T18:54:43.608Z",
+		"sessionEnd": "2025-03-15T18:55:27.206Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T18:55:27.206Z",
+		"sessionEnd": "2025-03-15T18:57:50.276Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T18:57:50.276Z",
+		"sessionEnd": "2025-03-15T19:01:13.607Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-15T19:01:13.607Z",
+		"sessionEnd": "2025-03-15T19:01:19.496Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:01:19.496Z",
+		"sessionEnd": "2025-03-15T19:05:21.709Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-15T19:05:21.709Z",
+		"sessionEnd": "2025-03-15T19:08:09.690Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T19:08:09.690Z",
+		"sessionEnd": "2025-03-15T19:08:17.552Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:08:17.552Z",
+		"sessionEnd": "2025-03-15T19:08:19.456Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:08:19.456Z",
+		"sessionEnd": "2025-03-15T19:10:28.417Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T19:10:28.417Z",
+		"sessionEnd": "2025-03-15T19:10:44.580Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:10:44.580Z",
+		"sessionEnd": "2025-03-15T19:12:21.094Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T19:12:21.094Z",
+		"sessionEnd": "2025-03-15T19:13:39.869Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:13:39.869Z",
+		"sessionEnd": "2025-03-15T19:17:22.018Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-15T19:17:22.018Z",
+		"sessionEnd": "2025-03-15T19:19:33.810Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T19:19:33.810Z",
+		"sessionEnd": "2025-03-15T19:22:24.906Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-15T19:22:24.906Z",
+		"sessionEnd": "2025-03-15T19:23:41.191Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:23:41.191Z",
+		"sessionEnd": "2025-03-15T19:27:10.635Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-15T19:27:10.635Z",
+		"sessionEnd": "2025-03-15T19:27:23.460Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:27:23.460Z",
+		"sessionEnd": "2025-03-15T19:29:11.675Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T19:29:11.675Z",
+		"sessionEnd": "2025-03-15T19:29:31.993Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:29:31.993Z",
+		"sessionEnd": "2025-03-15T19:30:33.130Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:30:33.130Z",
+		"sessionEnd": "2025-03-15T19:37:14.403Z",
+		"durationHours": "0.11"
+	},
+	{
+		"sessionStart": "2025-03-15T19:37:14.403Z",
+		"sessionEnd": "2025-03-15T19:37:47.700Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:37:47.700Z",
+		"sessionEnd": "2025-03-15T19:38:18.285Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:38:18.285Z",
+		"sessionEnd": "2025-03-15T19:39:38.250Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:39:38.250Z",
+		"sessionEnd": "2025-03-15T19:42:57.682Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-15T19:42:57.682Z",
+		"sessionEnd": "2025-03-15T19:44:12.578Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:44:12.578Z",
+		"sessionEnd": "2025-03-15T19:44:19.694Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:44:19.694Z",
+		"sessionEnd": "2025-03-15T19:44:58.768Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:44:58.768Z",
+		"sessionEnd": "2025-03-15T19:45:53.254Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:45:53.254Z",
+		"sessionEnd": "2025-03-15T19:46:04.829Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:46:04.829Z",
+		"sessionEnd": "2025-03-15T19:47:18.782Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T19:47:18.782Z",
+		"sessionEnd": "2025-03-15T19:47:43.998Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:47:43.998Z",
+		"sessionEnd": "2025-03-15T19:48:09.733Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T19:48:09.733Z",
+		"sessionEnd": "2025-03-15T19:48:13.326Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T19:48:13.326Z",
+		"sessionEnd": "2025-03-15T19:50:37.319Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T19:50:37.319Z",
+		"sessionEnd": "2025-03-15T20:01:14.723Z",
+		"durationHours": "0.18"
+	},
+	{
+		"sessionStart": "2025-03-15T20:01:14.723Z",
+		"sessionEnd": "2025-03-15T20:02:12.612Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T20:02:12.612Z",
+		"sessionEnd": "2025-03-15T20:04:03.995Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T20:04:03.995Z",
+		"sessionEnd": "2025-03-15T20:05:20.301Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-15T20:05:20.301Z",
+		"sessionEnd": "2025-03-15T20:05:23.407Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T20:05:23.407Z",
+		"sessionEnd": "2025-03-15T20:11:01.805Z",
+		"durationHours": "0.09"
+	},
+	{
+		"sessionStart": "2025-03-15T20:11:01.805Z",
+		"sessionEnd": "2025-03-15T20:15:54.745Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-15T20:15:54.745Z",
+		"sessionEnd": "2025-03-15T20:16:45.971Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T20:16:45.971Z",
+		"sessionEnd": "2025-03-15T20:17:28.778Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-15T20:17:28.778Z",
+		"sessionEnd": "2025-03-15T20:17:31.377Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T20:17:31.377Z",
+		"sessionEnd": "2025-03-15T20:19:04.376Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-15T20:19:04.376Z",
+		"sessionEnd": "2025-03-15T20:21:18.804Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-15T20:21:18.804Z",
+		"sessionEnd": "2025-03-15T20:48:13.946Z",
+		"durationHours": "0.45"
+	},
+	{
+		"sessionStart": "2025-03-15T20:48:13.946Z",
+		"sessionEnd": "2025-03-15T20:48:27.918Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-15T20:48:27.918Z",
+		"sessionEnd": "2025-03-15T20:57:43.059Z",
+		"durationHours": "0.15"
+	},
+	{
+		"sessionStart": "2025-03-15T20:57:43.059Z",
+		"sessionEnd": "2025-03-16T00:25:34.023Z",
+		"durationHours": "3.46"
+	},
+	{
+		"sessionStart": "2025-03-16T00:25:34.023Z",
+		"sessionEnd": "2025-03-16T00:38:16.639Z",
+		"durationHours": "0.21"
+	},
+	{
+		"sessionStart": "2025-03-16T00:38:16.639Z",
+		"sessionEnd": "2025-03-16T00:38:19.852Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T00:38:19.852Z",
+		"sessionEnd": "2025-03-16T00:38:58.853Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T00:38:58.853Z",
+		"sessionEnd": "2025-03-16T00:42:15.590Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T00:42:15.590Z",
+		"sessionEnd": "2025-03-16T00:43:48.029Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T00:43:48.029Z",
+		"sessionEnd": "2025-03-16T00:43:52.889Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T00:43:52.889Z",
+		"sessionEnd": "2025-03-16T00:44:15.817Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T00:44:15.817Z",
+		"sessionEnd": "2025-03-16T00:56:05.678Z",
+		"durationHours": "0.20"
+	},
+	{
+		"sessionStart": "2025-03-16T00:56:05.678Z",
+		"sessionEnd": "2025-03-16T01:02:06.142Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-16T01:02:06.142Z",
+		"sessionEnd": "2025-03-16T01:05:48.299Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T01:05:48.299Z",
+		"sessionEnd": "2025-03-16T01:17:49.407Z",
+		"durationHours": "0.20"
+	},
+	{
+		"sessionStart": "2025-03-16T01:17:49.407Z",
+		"sessionEnd": "2025-03-16T01:18:16.280Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T01:18:16.280Z",
+		"sessionEnd": "2025-03-16T01:19:34.983Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T01:19:34.983Z",
+		"sessionEnd": "2025-03-16T01:28:52.683Z",
+		"durationHours": "0.15"
+	},
+	{
+		"sessionStart": "2025-03-16T01:28:52.683Z",
+		"sessionEnd": "2025-03-16T01:30:38.909Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T01:30:38.909Z",
+		"sessionEnd": "2025-03-16T01:32:57.653Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T01:32:57.653Z",
+		"sessionEnd": "2025-03-16T01:35:36.209Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T01:35:36.209Z",
+		"sessionEnd": "2025-03-16T01:37:30.175Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T01:37:30.175Z",
+		"sessionEnd": "2025-03-16T01:38:03.863Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T01:38:03.863Z",
+		"sessionEnd": "2025-03-16T01:46:20.772Z",
+		"durationHours": "0.14"
+	},
+	{
+		"sessionStart": "2025-03-16T01:46:20.772Z",
+		"sessionEnd": "2025-03-16T01:48:43.208Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T01:48:43.208Z",
+		"sessionEnd": "2025-03-16T01:49:51.274Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T01:49:51.274Z",
+		"sessionEnd": "2025-03-16T01:50:33.599Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T01:50:33.599Z",
+		"sessionEnd": "2025-03-16T01:51:43.048Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T01:51:43.048Z",
+		"sessionEnd": "2025-03-16T02:04:34.029Z",
+		"durationHours": "0.21"
+	},
+	{
+		"sessionStart": "2025-03-16T02:04:34.029Z",
+		"sessionEnd": "2025-03-16T02:08:48.248Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-16T02:08:48.248Z",
+		"sessionEnd": "2025-03-16T02:15:38.242Z",
+		"durationHours": "0.11"
+	},
+	{
+		"sessionStart": "2025-03-16T02:15:38.242Z",
+		"sessionEnd": "2025-03-16T02:16:55.499Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T02:16:55.499Z",
+		"sessionEnd": "2025-03-16T02:20:30.132Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T02:20:30.132Z",
+		"sessionEnd": "2025-03-16T02:20:41.474Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T02:20:41.474Z",
+		"sessionEnd": "2025-03-16T02:21:37.315Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T02:21:37.315Z",
+		"sessionEnd": "2025-03-16T02:28:45.674Z",
+		"durationHours": "0.12"
+	},
+	{
+		"sessionStart": "2025-03-16T02:28:45.674Z",
+		"sessionEnd": "2025-03-16T02:30:29.126Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T02:30:29.126Z",
+		"sessionEnd": "2025-03-16T02:30:52.299Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:30:52.299Z",
+		"sessionEnd": "2025-03-16T02:31:12.391Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:31:12.391Z",
+		"sessionEnd": "2025-03-16T02:32:12.751Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T02:32:12.751Z",
+		"sessionEnd": "2025-03-16T02:33:26.852Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T02:33:26.852Z",
+		"sessionEnd": "2025-03-16T02:34:16.358Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:34:16.358Z",
+		"sessionEnd": "2025-03-16T02:34:45.081Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:34:45.081Z",
+		"sessionEnd": "2025-03-16T02:35:26.920Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:35:26.920Z",
+		"sessionEnd": "2025-03-16T02:35:58.310Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:35:58.310Z",
+		"sessionEnd": "2025-03-16T02:37:21.600Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T02:37:21.600Z",
+		"sessionEnd": "2025-03-16T02:37:25.329Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T02:37:25.329Z",
+		"sessionEnd": "2025-03-16T02:38:08.763Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T02:38:08.763Z",
+		"sessionEnd": "2025-03-16T02:55:46.909Z",
+		"durationHours": "0.29"
+	},
+	{
+		"sessionStart": "2025-03-16T02:55:46.909Z",
+		"sessionEnd": "2025-03-16T03:03:00.817Z",
+		"durationHours": "0.12"
+	},
+	{
+		"sessionStart": "2025-03-16T03:03:00.817Z",
+		"sessionEnd": "2025-03-16T03:03:25.935Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T03:03:25.935Z",
+		"sessionEnd": "2025-03-16T03:06:57.512Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T03:06:57.512Z",
+		"sessionEnd": "2025-03-16T03:11:55.680Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-16T03:11:55.680Z",
+		"sessionEnd": "2025-03-16T03:15:28.316Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T03:15:28.316Z",
+		"sessionEnd": "2025-03-16T03:16:36.780Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T03:16:36.780Z",
+		"sessionEnd": "2025-03-16T03:18:12.259Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T03:18:12.259Z",
+		"sessionEnd": "2025-03-16T03:21:15.160Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T03:21:15.160Z",
+		"sessionEnd": "2025-03-16T03:25:05.244Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T03:25:05.244Z",
+		"sessionEnd": "2025-03-16T03:25:42.127Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T03:25:42.127Z",
+		"sessionEnd": "2025-03-16T03:31:49.187Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-16T03:31:49.187Z",
+		"sessionEnd": "2025-03-16T03:48:01.873Z",
+		"durationHours": "0.27"
+	},
+	{
+		"sessionStart": "2025-03-16T03:48:01.873Z",
+		"sessionEnd": "2025-03-16T03:48:07.465Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T03:48:07.465Z",
+		"sessionEnd": "2025-03-16T03:56:01.322Z",
+		"durationHours": "0.13"
+	},
+	{
+		"sessionStart": "2025-03-16T03:56:01.322Z",
+		"sessionEnd": "2025-03-16T03:56:16.613Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T03:56:16.613Z",
+		"sessionEnd": "2025-03-16T03:58:30.252Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T03:58:30.252Z",
+		"sessionEnd": "2025-03-16T04:00:26.858Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T04:00:26.858Z",
+		"sessionEnd": "2025-03-16T04:36:34.112Z",
+		"durationHours": "0.60"
+	},
+	{
+		"sessionStart": "2025-03-16T04:36:34.112Z",
+		"sessionEnd": "2025-03-16T05:12:20.950Z",
+		"durationHours": "0.60"
+	},
+	{
+		"sessionStart": "2025-03-16T05:12:20.950Z",
+		"sessionEnd": "2025-03-16T05:13:59.948Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T05:13:59.948Z",
+		"sessionEnd": "2025-03-16T05:15:46.644Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T05:15:46.644Z",
+		"sessionEnd": "2025-03-16T05:16:33.853Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T05:16:33.853Z",
+		"sessionEnd": "2025-03-16T05:22:39.465Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-16T05:22:39.465Z",
+		"sessionEnd": "2025-03-16T05:25:37.917Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T05:25:37.917Z",
+		"sessionEnd": "2025-03-16T05:27:40.343Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T05:27:40.343Z",
+		"sessionEnd": "2025-03-16T05:33:39.069Z",
+		"durationHours": "0.10"
+	},
+	{
+		"sessionStart": "2025-03-16T16:54:55.973Z",
+		"sessionEnd": "2025-03-16T16:57:26.039Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T16:57:26.039Z",
+		"sessionEnd": "2025-03-16T16:58:19.228Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T16:58:19.228Z",
+		"sessionEnd": "2025-03-16T16:59:25.997Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T16:59:25.997Z",
+		"sessionEnd": "2025-03-16T16:59:52.425Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T16:59:52.425Z",
+		"sessionEnd": "2025-03-16T17:01:31.529Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:01:31.529Z",
+		"sessionEnd": "2025-03-16T17:04:05.648Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:04:05.648Z",
+		"sessionEnd": "2025-03-16T17:04:07.451Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T17:04:07.451Z",
+		"sessionEnd": "2025-03-16T17:04:45.992Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:04:45.992Z",
+		"sessionEnd": "2025-03-16T17:07:03.903Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:07:03.903Z",
+		"sessionEnd": "2025-03-16T17:09:35.390Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:09:35.390Z",
+		"sessionEnd": "2025-03-16T17:09:49.170Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T17:09:49.170Z",
+		"sessionEnd": "2025-03-16T17:10:11.201Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:10:11.201Z",
+		"sessionEnd": "2025-03-16T17:11:06.358Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:11:06.358Z",
+		"sessionEnd": "2025-03-16T17:12:07.593Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:12:07.593Z",
+		"sessionEnd": "2025-03-16T17:14:32.439Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:14:32.439Z",
+		"sessionEnd": "2025-03-16T17:15:44.693Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:15:44.693Z",
+		"sessionEnd": "2025-03-16T17:16:21.478Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:16:21.478Z",
+		"sessionEnd": "2025-03-16T17:18:09.437Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:18:09.437Z",
+		"sessionEnd": "2025-03-16T17:19:03.896Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:19:03.896Z",
+		"sessionEnd": "2025-03-16T17:19:35.930Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:19:35.930Z",
+		"sessionEnd": "2025-03-16T17:21:40.521Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:21:40.521Z",
+		"sessionEnd": "2025-03-16T17:23:35.911Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:23:35.911Z",
+		"sessionEnd": "2025-03-16T17:25:30.150Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:25:30.150Z",
+		"sessionEnd": "2025-03-16T17:26:39.038Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:26:39.038Z",
+		"sessionEnd": "2025-03-16T17:27:11.939Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:27:11.939Z",
+		"sessionEnd": "2025-03-16T17:29:33.255Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:29:33.255Z",
+		"sessionEnd": "2025-03-16T17:30:09.039Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:30:09.039Z",
+		"sessionEnd": "2025-03-16T17:30:28.118Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:30:28.118Z",
+		"sessionEnd": "2025-03-16T17:30:40.350Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T17:30:40.350Z",
+		"sessionEnd": "2025-03-16T17:31:40.013Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T17:31:40.013Z",
+		"sessionEnd": "2025-03-16T17:33:53.970Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T17:33:53.970Z",
+		"sessionEnd": "2025-03-16T17:35:24.819Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T17:35:24.819Z",
+		"sessionEnd": "2025-03-16T17:36:00.562Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T17:36:00.562Z",
+		"sessionEnd": "2025-03-16T17:36:07.286Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T17:36:07.286Z",
+		"sessionEnd": "2025-03-16T17:56:56.755Z",
+		"durationHours": "0.35"
+	},
+	{
+		"sessionStart": "2025-03-16T17:56:56.755Z",
+		"sessionEnd": "2025-03-16T20:58:47.439Z",
+		"durationHours": "3.03"
+	},
+	{
+		"sessionStart": "2025-03-16T20:58:47.439Z",
+		"sessionEnd": "2025-03-16T21:02:33.539Z",
+		"durationHours": "0.06"
+	},
+	{
+		"sessionStart": "2025-03-16T21:02:33.539Z",
+		"sessionEnd": "2025-03-16T21:23:49.703Z",
+		"durationHours": "0.35"
+	},
+	{
+		"sessionStart": "2025-03-16T21:23:49.703Z",
+		"sessionEnd": "2025-03-16T21:25:50.489Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T21:25:50.489Z",
+		"sessionEnd": "2025-03-16T21:25:59.369Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:25:59.369Z",
+		"sessionEnd": "2025-03-16T21:26:19.362Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:26:19.362Z",
+		"sessionEnd": "2025-03-16T21:26:27.566Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:26:27.566Z",
+		"sessionEnd": "2025-03-16T21:27:07.685Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:27:07.685Z",
+		"sessionEnd": "2025-03-16T21:27:26.926Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:27:26.926Z",
+		"sessionEnd": "2025-03-16T21:27:35.677Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:27:35.677Z",
+		"sessionEnd": "2025-03-16T21:29:18.316Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T21:29:18.316Z",
+		"sessionEnd": "2025-03-16T21:30:05.710Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:30:05.710Z",
+		"sessionEnd": "2025-03-16T21:31:02.390Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T21:31:02.390Z",
+		"sessionEnd": "2025-03-16T21:31:55.675Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:31:55.675Z",
+		"sessionEnd": "2025-03-16T21:32:01.699Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:32:01.699Z",
+		"sessionEnd": "2025-03-16T21:34:39.490Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T21:34:39.490Z",
+		"sessionEnd": "2025-03-16T21:37:12.564Z",
+		"durationHours": "0.04"
+	},
+	{
+		"sessionStart": "2025-03-16T21:37:12.564Z",
+		"sessionEnd": "2025-03-16T21:37:19.805Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:37:19.805Z",
+		"sessionEnd": "2025-03-16T21:37:36.766Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:37:36.766Z",
+		"sessionEnd": "2025-03-16T21:38:01.566Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:38:01.566Z",
+		"sessionEnd": "2025-03-16T21:38:43.294Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:38:43.294Z",
+		"sessionEnd": "2025-03-16T21:39:09.050Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:39:09.050Z",
+		"sessionEnd": "2025-03-16T21:39:17.950Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:39:17.950Z",
+		"sessionEnd": "2025-03-16T21:39:43.959Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:39:43.959Z",
+		"sessionEnd": "2025-03-16T21:40:04.611Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:40:04.611Z",
+		"sessionEnd": "2025-03-16T21:40:15.434Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:40:15.434Z",
+		"sessionEnd": "2025-03-16T21:40:22.746Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:40:22.746Z",
+		"sessionEnd": "2025-03-16T21:40:43.046Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:40:43.046Z",
+		"sessionEnd": "2025-03-16T21:40:53.777Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:40:53.777Z",
+		"sessionEnd": "2025-03-16T21:41:05.472Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:41:05.472Z",
+		"sessionEnd": "2025-03-16T21:41:28.584Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:41:28.584Z",
+		"sessionEnd": "2025-03-16T21:41:51.014Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:41:51.014Z",
+		"sessionEnd": "2025-03-16T21:43:01.914Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T21:43:01.914Z",
+		"sessionEnd": "2025-03-16T21:43:47.519Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:43:47.519Z",
+		"sessionEnd": "2025-03-16T21:44:13.388Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:44:13.388Z",
+		"sessionEnd": "2025-03-16T21:44:41.130Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:44:41.130Z",
+		"sessionEnd": "2025-03-16T21:45:09.568Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:45:09.568Z",
+		"sessionEnd": "2025-03-16T21:45:47.481Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:45:47.481Z",
+		"sessionEnd": "2025-03-16T21:45:50.391Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:45:50.391Z",
+		"sessionEnd": "2025-03-16T21:46:14.974Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:46:14.974Z",
+		"sessionEnd": "2025-03-16T21:46:54.225Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:46:54.225Z",
+		"sessionEnd": "2025-03-16T21:47:55.220Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T21:47:55.220Z",
+		"sessionEnd": "2025-03-16T21:53:12.190Z",
+		"durationHours": "0.09"
+	},
+	{
+		"sessionStart": "2025-03-16T21:53:12.190Z",
+		"sessionEnd": "2025-03-16T21:53:32.540Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:53:32.540Z",
+		"sessionEnd": "2025-03-16T21:56:31.384Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T21:56:31.384Z",
+		"sessionEnd": "2025-03-16T21:56:56.982Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:56:56.982Z",
+		"sessionEnd": "2025-03-16T21:57:27.497Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:57:27.497Z",
+		"sessionEnd": "2025-03-16T21:57:51.174Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T21:57:51.174Z",
+		"sessionEnd": "2025-03-16T21:57:57.740Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T21:57:57.740Z",
+		"sessionEnd": "2025-03-16T21:58:51.836Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T21:58:51.836Z",
+		"sessionEnd": "2025-03-16T22:01:36.059Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T22:01:36.059Z",
+		"sessionEnd": "2025-03-16T22:01:46.752Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T22:01:46.752Z",
+		"sessionEnd": "2025-03-16T22:05:44.368Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-16T22:05:44.368Z",
+		"sessionEnd": "2025-03-16T22:06:05.936Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:06:05.936Z",
+		"sessionEnd": "2025-03-16T22:07:10.066Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:07:10.066Z",
+		"sessionEnd": "2025-03-16T22:07:37.244Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:07:37.244Z",
+		"sessionEnd": "2025-03-16T22:08:33.197Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:08:33.197Z",
+		"sessionEnd": "2025-03-16T22:09:11.883Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:09:11.883Z",
+		"sessionEnd": "2025-03-16T22:09:13.597Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T22:09:13.597Z",
+		"sessionEnd": "2025-03-16T22:10:29.726Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:10:29.726Z",
+		"sessionEnd": "2025-03-16T22:13:21.320Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T22:13:21.320Z",
+		"sessionEnd": "2025-03-16T22:13:55.571Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:13:55.571Z",
+		"sessionEnd": "2025-03-16T22:15:23.763Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:15:23.763Z",
+		"sessionEnd": "2025-03-16T22:18:26.777Z",
+		"durationHours": "0.05"
+	},
+	{
+		"sessionStart": "2025-03-16T22:18:26.777Z",
+		"sessionEnd": "2025-03-16T22:19:27.027Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:19:27.027Z",
+		"sessionEnd": "2025-03-16T22:20:37.308Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:20:37.308Z",
+		"sessionEnd": "2025-03-16T22:25:08.154Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-16T22:25:08.154Z",
+		"sessionEnd": "2025-03-16T22:25:25.824Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T22:25:25.824Z",
+		"sessionEnd": "2025-03-16T22:27:05.597Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T22:27:05.597Z",
+		"sessionEnd": "2025-03-16T22:28:32.818Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:28:32.818Z",
+		"sessionEnd": "2025-03-16T22:28:53.276Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:28:53.276Z",
+		"sessionEnd": "2025-03-16T22:29:09.569Z",
+		"durationHours": "0.00"
+	},
+	{
+		"sessionStart": "2025-03-16T22:29:09.569Z",
+		"sessionEnd": "2025-03-16T22:30:50.816Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T22:30:50.816Z",
+		"sessionEnd": "2025-03-16T22:35:37.876Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-16T22:35:37.876Z",
+		"sessionEnd": "2025-03-16T22:40:38.584Z",
+		"durationHours": "0.08"
+	},
+	{
+		"sessionStart": "2025-03-16T22:40:38.584Z",
+		"sessionEnd": "2025-03-16T22:44:53.117Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-16T22:44:53.117Z",
+		"sessionEnd": "2025-03-16T22:45:19.225Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:45:19.225Z",
+		"sessionEnd": "2025-03-16T22:46:40.882Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:46:40.882Z",
+		"sessionEnd": "2025-03-16T22:48:31.093Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T22:48:31.093Z",
+		"sessionEnd": "2025-03-16T22:49:30.221Z",
+		"durationHours": "0.02"
+	},
+	{
+		"sessionStart": "2025-03-16T22:49:30.221Z",
+		"sessionEnd": "2025-03-16T22:50:05.359Z",
+		"durationHours": "0.01"
+	},
+	{
+		"sessionStart": "2025-03-16T22:50:05.359Z",
+		"sessionEnd": "2025-03-16T23:01:25.543Z",
+		"durationHours": "0.19"
+	},
+	{
+		"sessionStart": "2025-03-16T23:01:25.543Z",
+		"sessionEnd": "2025-03-16T23:03:08.081Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T23:03:08.081Z",
+		"sessionEnd": "2025-03-16T23:07:02.751Z",
+		"durationHours": "0.07"
+	},
+	{
+		"sessionStart": "2025-03-16T23:07:02.751Z",
+		"sessionEnd": "2025-03-16T23:08:38.520Z",
+		"durationHours": "0.03"
+	},
+	{
+		"sessionStart": "2025-03-16T23:08:38.520Z",
+		"sessionEnd": "2025-03-16T23:20:36.822Z",
+		"durationHours": "0.20"
+	},
+	{
+		"sessionStart": "2025-03-16T23:20:36.822Z",
+		"sessionEnd": "2025-03-16T23:27:33.763Z",
+		"durationHours": "0.12"
+	},
+	{
+		"sessionStart": "2025-03-16T23:27:33.763Z",
+		"sessionEnd": "2025-03-16T23:28:49.287Z",
+		"durationHours": "0.02"
+	}
 ]
