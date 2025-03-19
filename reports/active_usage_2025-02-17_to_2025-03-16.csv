@@ -1,62 +1,62 @@
 id,commit,commitDate,message,sessionStart,sessionEnd,durationHours,repo,author
-1,9c7fc2b45e7348a0cc6da962b381f1876f513f3d,2025-02-23 09:02:59 -0700,"removed_unused",2025-02-23 09:02:59 -0700,2025-02-23 09:02:59 -0700,0.5,bless-auth,Flavio Espinoza
-2,06df58584c728d616fa2a4e5f5040b051a127571,2025-02-23 08:58:34 -0700,"enter otp and goodbye components refactored.",2025-02-23 08:58:34 -0700,2025-02-23 08:58:34 -0700,0.5,bless-auth,Flavio Espinoza
-3,b5e02c0d8dc78ae1957a52f32f312be917c3583c,2025-02-23 08:39:26 -0700,"dark_light_mode",2025-02-23 08:39:26 -0700,2025-02-23 08:39:26 -0700,0.5,bless-auth,Flavio Espinoza
-4,4060bd2610cbad39958dd98a46889eb3b95c0785,2025-02-19 16:56:39 -0700,"title",2025-02-19 16:56:39 -0700,2025-02-19 16:56:39 -0700,0.5,bless-auth,Flavio Espinoza
-5,680f1064eac6d5c16e8e21f3d3979d4dc48cd179,2025-02-19 16:42:12 -0700,"removed_unused",2025-02-19 16:42:12 -0700,2025-02-19 16:42:12 -0700,0.5,bless-auth,Flavio Espinoza
-6,4dc69a3dade2ed3af921f81697c47c2860d5f45f,2025-02-19 16:34:26 -0700,"formatting",2025-02-19 16:34:26 -0700,2025-02-19 16:34:26 -0700,0.5,bless-auth,Flavio Espinoza
-7,0c2b6e87ff80609c7a630cbc0ab7aa66d5667d38,2025-02-19 16:30:37 -0700,"Refactored the UI to match bless.network/dashboard/login. Added social login buttions.",2025-02-19 16:30:37 -0700,2025-02-19 16:30:37 -0700,0.5,bless-auth,Flavio Espinoza
-8,54e6ca68724841f7b1c61b05331218b3c25d2193,2025-03-14 18:03:28 -0600,"Merge pull request #5 from blessnetwork/dependabot/npm_and_yarn/prismjs-1.30.0",2025-03-14 18:03:28 -0600,2025-03-14 18:03:28 -0600,0.5,bless-ui,Flavio Espinoza
-9,28d1476f0357362ed1fd85beee4fbf3eefa11716,2025-03-13 13:40:36 -0600,"fix: Sidenav not collapsing on desktop.",2025-03-13 13:40:36 -0600,2025-03-13 13:40:36 -0600,0.5,bless-ui,Flavio Espinoza
-10,ef40ac98c97fb1af295f91b5bec8243f31a41bfe,2025-03-11 13:53:50 -0600,"header_in_progress",2025-03-11 13:53:50 -0600,2025-03-11 13:53:50 -0600,0.5,bless-ui,Flavio Espinoza
-11,7984164c73314ae5aefa14ecbaf51f7f29c5ea34,2025-03-11 12:06:21 -0600,"Fixed collapse error.",2025-03-11 12:06:21 -0600,2025-03-11 12:06:21 -0600,0.5,bless-ui,Flavio Espinoza
-12,207e01cce0383a55fe25bc924dc885b38b1bb932,2025-03-11 11:54:58 -0600,"Fixed collapse error.",2025-03-11 11:54:58 -0600,2025-03-11 11:54:58 -0600,0.5,bless-ui,Flavio Espinoza
-13,1ac2c83f07afd6196874c676932aeee46cfea94f,2025-03-11 11:47:31 -0600,"Merge branch 'main' of https://github.com/blocklessnetwork/bless-ui into main",2025-03-11 11:47:31 -0600,2025-03-11 11:47:31 -0600,0.5,bless-ui,Flavio Espinoza
-14,63d6f41d2986c42c0cce01a7992dc5fafc452ebd,2025-03-11 11:46:13 -0600,"main",2025-03-11 11:46:13 -0600,2025-03-11 11:46:13 -0600,0.5,bless-ui,Flavio Espinoza
-15,06e649e727497a660041aeffa8e22d2d2fed331c,2025-03-11 10:39:30 -0600,"Create nextjs.yml",2025-03-11 10:39:30 -0600,2025-03-11 10:39:30 -0600,0.5,bless-ui,Flavio Espinoza
-16,f51869281a2a543fdc1f503ebd19596d52a3b989,2025-03-11 10:18:04 -0600,"Update docs.yml",2025-03-11 10:18:04 -0600,2025-03-11 10:18:04 -0600,0.5,bless-ui,Flavio Espinoza
-17,3b5558e8fe743ef99b0bd6be0283465b003d1874,2025-03-11 09:49:38 -0600,"Merge pull request #4 from blessnetwork/highlight",2025-03-11 09:49:38 -0600,2025-03-11 09:49:38 -0600,0.5,bless-ui,Flavio Espinoza
-18,52b775b11b00e315316a0c1f0e5834e4228d3c16,2025-03-10 14:10:47 -0600,"fresh_yarn_lock",2025-03-10 14:10:47 -0600,2025-03-10 14:10:47 -0600,0.5,bless-ui,Flavio Espinoza
-19,a9fdd8783e4e94bb8989970d32da655070117478,2025-03-10 14:08:36 -0600,"resolved_conflicts",2025-03-10 14:08:36 -0600,2025-03-10 14:08:36 -0600,0.5,bless-ui,Flavio Espinoza
-20,ca771145577823b778a045dc24b41035ea7849ad,2025-03-10 14:06:16 -0600,"removed_yarn_lock",2025-03-10 14:06:16 -0600,2025-03-10 14:06:16 -0600,0.5,bless-ui,Flavio Espinoza
-21,f3123467c53b73aa0dda64f58f892518dfec151d,2025-03-10 13:52:35 -0600,"formatting",2025-03-10 13:52:35 -0600,2025-03-10 13:52:35 -0600,0.5,bless-ui,Flavio Espinoza
-22,51fe6fe4bf5af38c368929c456106b3c4d9fe4e3,2025-03-10 13:52:08 -0600,"feat: update side-nav and page components to resize <main> when menu collapses or opens",2025-03-10 13:52:08 -0600,2025-03-10 13:52:08 -0600,0.5,bless-ui,Flavio Espinoza
-23,7819d3b1ebca43a12826fa975efe381d8bd00dbf,2025-03-10 13:24:04 -0600,"feat: update side-nav, popover, and page components for improved navigation and popovers",2025-03-10 13:24:04 -0600,2025-03-10 13:24:04 -0600,0.5,bless-ui,Flavio Espinoza
-24,f51888376e6a17663e71780c74d437b8cbeec2e0,2025-03-10 11:51:02 -0600,"Merge pull request #3 from blessnetwork/dependabot/npm_and_yarn/next-14.2.21",2025-03-10 11:51:02 -0600,2025-03-10 11:51:02 -0600,0.5,bless-ui,Flavio Espinoza
-25,b60fe8f37a68500c4c3e2dea7d971d0142e978cd,2025-03-10 11:50:53 -0600,"Merge branch 'main' into dependabot/npm_and_yarn/next-14.2.21",2025-03-10 11:50:53 -0600,2025-03-10 11:50:53 -0600,0.5,bless-ui,Flavio Espinoza
-26,5f1371e0334401714931b1dec087092913cfa8b6,2025-03-10 11:49:59 -0600,"Merge pull request #2 from blessnetwork/dependabot/npm_and_yarn/nanoid-3.3.8",2025-03-10 11:49:59 -0600,2025-03-10 11:49:59 -0600,0.5,bless-ui,Flavio Espinoza
-27,41ee107c3f4518c272a8d6f8dc076db724768764,2025-03-10 11:49:46 -0600,"Merge pull request #1 from blessnetwork/dependabot/npm_and_yarn/marked-4.0.10",2025-03-10 11:49:46 -0600,2025-03-10 11:49:46 -0600,0.5,bless-ui,Flavio Espinoza
-28,0e00e2c0413928e4f477fa0e1428b958c141b869,2025-03-10 11:47:57 -0600,"notes",2025-03-10 11:47:57 -0600,2025-03-10 11:47:57 -0600,0.5,bless-ui,Flavio Espinoza
-29,0da3181c71087b6ea2174dd083b03464a2990f73,2025-03-07 18:19:09 -0700,"Added mobile header with side-nav toggle.",2025-03-07 18:19:09 -0700,2025-03-07 18:19:09 -0700,0.5,bless-ui,Flavio Espinoza
-30,b11dc17aef53beb9bbcaaac02d98c564eb7b3007,2025-03-07 18:11:43 -0700,"Mobile header added.",2025-03-07 18:11:43 -0700,2025-03-07 18:11:43 -0700,0.5,bless-ui,Flavio Espinoza
-31,deb2f9b3a8c5f152ba526047b6b43ee6d6bd25eb,2025-03-07 17:51:29 -0700,"Created fluid button with smooth transitions between large and small screens.",2025-03-07 17:51:29 -0700,2025-03-07 17:51:29 -0700,0.5,bless-ui,Flavio Espinoza
-32,96c0c6768267dfddf45207dd5d3aaf08953a2087,2025-03-07 16:57:47 -0700,"Moved npm mods to devDependencies.",2025-03-07 16:57:47 -0700,2025-03-07 16:57:47 -0700,0.5,bless-ui,Flavio Espinoza
-33,0ecaee86cca393a0690650c22f5a02918d03e9fb,2025-03-07 16:47:38 -0700,"Added prettier-tailwind-plugin which sorts classNames logically.",2025-03-07 16:47:38 -0700,2025-03-07 16:47:38 -0700,0.5,bless-ui,Flavio Espinoza
-34,118a49c073bac2e404b193387da117010b9864af,2025-03-05 10:16:23 -0700,"formatting",2025-03-05 10:16:23 -0700,2025-03-05 10:16:23 -0700,0.5,bless-ui,Flavio Espinoza
-35,3a4707f73eabe43168619878b3cdca1cfcde9934,2025-03-05 10:12:18 -0700,"Sidenav combined icon classes to function.",2025-03-05 10:12:18 -0700,2025-03-05 10:12:18 -0700,0.5,bless-ui,Flavio Espinoza
-36,0155c7d0db4a939e82e32175630e5bf350bf214a,2025-03-05 10:06:20 -0700,"Sidenav combined icon classes to function.",2025-03-05 10:06:20 -0700,2025-03-05 10:06:20 -0700,0.5,bless-ui,Flavio Espinoza
-37,ae197062c5b556792fca397865d19a4c34e24b18,2025-03-05 08:38:45 -0700,"Sidenav icon max size constrained to 40px",2025-03-05 08:38:45 -0700,2025-03-05 08:38:45 -0700,0.5,bless-ui,Flavio Espinoza
-38,4cd6e075c6cfab9a006f2719b8d341e76fb55e1d,2025-03-05 08:36:42 -0700,"Popover component added for collapsed side-nav icons.",2025-03-05 08:36:42 -0700,2025-03-05 08:36:42 -0700,0.5,bless-ui,Flavio Espinoza
-39,2584d3f6c1595fc208be77404c5ae09cc070b050,2025-03-05 08:25:13 -0700,"Sidenav icon max size constrained to 40px",2025-03-05 08:25:13 -0700,2025-03-05 08:25:13 -0700,0.5,bless-ui,Flavio Espinoza
-40,d23901fa6408386a13d0b02a10721854aa599546,2025-03-05 07:58:22 -0700,"Sidenav icon and text size.",2025-03-05 07:58:22 -0700,2025-03-05 07:58:22 -0700,0.5,bless-ui,Flavio Espinoza
-41,64bdb4d6de9aea299b34d5d21517f81688bc6e6a,2025-03-05 07:37:18 -0700,"Sidenav Icons and logo complete.",2025-03-05 07:37:18 -0700,2025-03-05 07:37:18 -0700,0.5,bless-ui,Flavio Espinoza
-42,15fb963858e5e80f7636ff3a31af29979ffe54dd,2025-03-05 05:59:11 -0700,"Inter font implemented.",2025-03-05 05:59:11 -0700,2025-03-05 05:59:11 -0700,0.5,bless-ui,Flavio Espinoza
-43,e58e74643a1c26c190bebc82d1e39d81462e2c69,2025-03-05 05:32:16 -0700,"New side-nav component with new colors.",2025-03-05 05:32:16 -0700,2025-03-05 05:32:16 -0700,0.5,bless-ui,Flavio Espinoza
-44,1ae9a6c5896d4abdbbfebbfbe252939ead85bfc7,2025-02-19 14:33:34 -0700,"Changed getUserAchievementQuiz to use the User model. (#5)",2025-02-19 14:33:34 -0700,2025-02-19 14:33:34 -0700,0.5,extension-aux,Flavio Espinoza
-45,45b7da8fed6e87595580c109f5c78711e846aa8e,2025-02-19 10:17:27 -0700,"Merge pull request #4 from blocklessnetwork/feature/include-quiz-passed-flag",2025-02-19 10:17:27 -0700,2025-02-19 10:17:27 -0700,0.5,extension-aux,Flavio Espinoza
-46,c3f302a397e1d106ca44ab27cc5ade0f0003ac88,2025-02-18 02:56:05 -0700,"Feature/quiz verification (#1)",2025-02-18 02:56:05 -0700,2025-02-18 02:56:05 -0700,0.5,extension-aux,Flavio Espinoza
-47,e332b7842062c2ba12309bc1e9e9b07364170033,2025-02-27 09:46:38 -0700,"pull",2025-02-27 09:46:38 -0700,2025-02-27 09:46:38 -0700,0.5,run-dashboard,Flavio Espinoza
-48,5444d0ca3dd7e9a86cdd6a177c08e72d6e775a6f,2025-02-27 09:45:59 -0700,"setSubmitted false if there is no captchaToken",2025-02-27 09:45:59 -0700,2025-02-27 09:45:59 -0700,0.5,run-dashboard,Flavio Espinoza
-49,9269ce7eaa2130a5fe31d33f6d75b6343b4b7817,2025-02-25 14:06:05 -0700,"Update quizData.ts",2025-02-25 14:06:05 -0700,2025-02-25 14:06:05 -0700,0.5,run-dashboard,Flavio Espinoza
-50,c3121a85ce2520e27bad72f1900b2f4bbff4a95f,2025-02-19 11:19:08 -0700,"Changed  isPassed to isAchievementQuizCompleted",2025-02-19 11:19:08 -0700,2025-02-19 11:19:08 -0700,0.5,run-dashboard,Flavio Espinoza
-51,dedc6ea64e75f7fef3a2ffbd9309dbde5e5dc6da,2025-02-19 10:32:09 -0700,"merged_main",2025-02-19 10:32:09 -0700,2025-02-19 10:32:09 -0700,0.5,run-dashboard,Flavio Espinoza
-52,2eed924ac7927cab299f4775fa00b29d8d61a12d,2025-02-19 10:30:50 -0700,"log",2025-02-19 10:30:50 -0700,2025-02-19 10:30:50 -0700,0.5,run-dashboard,Flavio Espinoza
-53,82a79ea6a8b1ad5e682d869bf1e75298bf2e269b,2025-02-19 09:51:03 -0700,"removed_logs",2025-02-19 09:51:03 -0700,2025-02-19 09:51:03 -0700,0.5,run-dashboard,Flavio Espinoza
-54,33ac7d7e10ee8c214ca46ae9f44054acb590a01c,2025-02-18 04:57:24 -0700,"fixed_checkbox",2025-02-18 04:57:24 -0700,2025-02-18 04:57:24 -0700,0.5,run-dashboard,Flavio Espinoza
-55,c81aad1d2981a4a263cf09f54cd78635acbbb2b8,2025-02-18 04:43:42 -0700,"fixed_theme_on_modal",2025-02-18 04:43:42 -0700,2025-02-18 04:43:42 -0700,0.5,run-dashboard,Flavio Espinoza
-56,808d4dab3d277831d25d66564b1a4d705c1e0c7f,2025-02-18 04:32:12 -0700,"fixed_theme_on_modal",2025-02-18 04:32:12 -0700,2025-02-18 04:32:12 -0700,0.5,run-dashboard,Flavio Espinoza
-57,6cbbb1d6c8c3474cbf48a3895ac6c18f97a0f450,2025-02-17 11:24:58 -0700,"ready_for_review",2025-02-17 11:24:58 -0700,2025-02-17 11:24:58 -0700,0.5,run-dashboard,Flavio Espinoza
-58,28170062cd83ff993bc67b5368ce343880a19a6b,2025-02-17 11:22:51 -0700,"changes_per_butain",2025-02-17 11:22:51 -0700,2025-02-17 11:22:51 -0700,0.5,run-dashboard,Flavio Espinoza
-59,499f10a24f2718697fe28ba840649c8e99c44033,2025-02-17 11:01:56 -0700,"ready_for_review",2025-02-17 11:01:56 -0700,2025-02-17 11:01:56 -0700,0.5,run-dashboard,Flavio Espinoza
-60,734bd54d7cbbb617db6e90becb48bb7113f7b0f6,2025-02-17 10:53:43 -0700,"recaptcha_token",2025-02-17 10:53:43 -0700,2025-02-17 10:53:43 -0700,0.5,run-dashboard,Flavio Espinoza
-61,79cf107087b667d8040ec4fa0e829a4cbadfa3ab,2025-03-04 07:39:48 -0700,"Merge pull request #493 from blocklessnetwork/snyk-fix-b90b0c329b7e719a892705901e8ed64e",2025-03-04 07:39:48 -0700,2025-03-04 07:39:48 -0700,0.5,web-console,Flavio Espinoza
+1,9c7fc2b45e7348a0cc6da962b381f1876f513f3d,2025-02-23 09:02:59 -0700,"removed_unused",2025-02-23 09:02:59 -0700,2025-02-23 08:58:34 -0700,-0.07,bless-auth,Flavio Espinoza
+2,06df58584c728d616fa2a4e5f5040b051a127571,2025-02-23 08:58:34 -0700,"enter otp and goodbye components refactored.",2025-02-23 08:58:34 -0700,2025-02-23 08:39:26 -0700,-0.32,bless-auth,Flavio Espinoza
+3,b5e02c0d8dc78ae1957a52f32f312be917c3583c,2025-02-23 08:39:26 -0700,"dark_light_mode",2025-02-23 08:39:26 -0700,2025-02-19 16:56:39 -0700,-87.71,bless-auth,Flavio Espinoza
+4,4060bd2610cbad39958dd98a46889eb3b95c0785,2025-02-19 16:56:39 -0700,"title",2025-02-19 16:56:39 -0700,2025-02-19 16:42:12 -0700,-0.24,bless-auth,Flavio Espinoza
+5,680f1064eac6d5c16e8e21f3d3979d4dc48cd179,2025-02-19 16:42:12 -0700,"removed_unused",2025-02-19 16:42:12 -0700,2025-02-19 16:34:26 -0700,-0.13,bless-auth,Flavio Espinoza
+6,4dc69a3dade2ed3af921f81697c47c2860d5f45f,2025-02-19 16:34:26 -0700,"formatting",2025-02-19 16:34:26 -0700,2025-02-19 16:30:37 -0700,-0.06,bless-auth,Flavio Espinoza
+7,0c2b6e87ff80609c7a630cbc0ab7aa66d5667d38,2025-02-19 16:30:37 -0700,"Refactored the UI to match bless.network/dashboard/login. Added social login buttions.",2025-02-19 16:30:37 -0700,2025-03-14 18:03:28 -0600,552.55,bless-auth,Flavio Espinoza
+8,54e6ca68724841f7b1c61b05331218b3c25d2193,2025-03-14 18:03:28 -0600,"Merge pull request #5 from blessnetwork/dependabot/npm_and_yarn/prismjs-1.30.0",2025-03-14 18:03:28 -0600,2025-03-13 13:40:36 -0600,-28.38,bless-ui,Flavio Espinoza
+9,28d1476f0357362ed1fd85beee4fbf3eefa11716,2025-03-13 13:40:36 -0600,"fix: Sidenav not collapsing on desktop.",2025-03-13 13:40:36 -0600,2025-03-11 13:53:50 -0600,-47.78,bless-ui,Flavio Espinoza
+10,ef40ac98c97fb1af295f91b5bec8243f31a41bfe,2025-03-11 13:53:50 -0600,"header_in_progress",2025-03-11 13:53:50 -0600,2025-03-11 12:06:21 -0600,-1.79,bless-ui,Flavio Espinoza
+11,7984164c73314ae5aefa14ecbaf51f7f29c5ea34,2025-03-11 12:06:21 -0600,"Fixed collapse error.",2025-03-11 12:06:21 -0600,2025-03-11 11:54:58 -0600,-0.19,bless-ui,Flavio Espinoza
+12,207e01cce0383a55fe25bc924dc885b38b1bb932,2025-03-11 11:54:58 -0600,"Fixed collapse error.",2025-03-11 11:54:58 -0600,2025-03-11 11:47:31 -0600,-0.12,bless-ui,Flavio Espinoza
+13,1ac2c83f07afd6196874c676932aeee46cfea94f,2025-03-11 11:47:31 -0600,"Merge branch 'main' of https://github.com/blocklessnetwork/bless-ui into main",2025-03-11 11:47:31 -0600,2025-03-11 11:46:13 -0600,-0.02,bless-ui,Flavio Espinoza
+14,63d6f41d2986c42c0cce01a7992dc5fafc452ebd,2025-03-11 11:46:13 -0600,"main",2025-03-11 11:46:13 -0600,2025-03-11 10:39:30 -0600,-1.11,bless-ui,Flavio Espinoza
+15,06e649e727497a660041aeffa8e22d2d2fed331c,2025-03-11 10:39:30 -0600,"Create nextjs.yml",2025-03-11 10:39:30 -0600,2025-03-11 10:18:04 -0600,-0.36,bless-ui,Flavio Espinoza
+16,f51869281a2a543fdc1f503ebd19596d52a3b989,2025-03-11 10:18:04 -0600,"Update docs.yml",2025-03-11 10:18:04 -0600,2025-03-11 09:49:38 -0600,-0.47,bless-ui,Flavio Espinoza
+17,3b5558e8fe743ef99b0bd6be0283465b003d1874,2025-03-11 09:49:38 -0600,"Merge pull request #4 from blessnetwork/highlight",2025-03-11 09:49:38 -0600,2025-03-10 14:10:47 -0600,-19.65,bless-ui,Flavio Espinoza
+18,52b775b11b00e315316a0c1f0e5834e4228d3c16,2025-03-10 14:10:47 -0600,"fresh_yarn_lock",2025-03-10 14:10:47 -0600,2025-03-10 14:08:36 -0600,-0.04,bless-ui,Flavio Espinoza
+19,a9fdd8783e4e94bb8989970d32da655070117478,2025-03-10 14:08:36 -0600,"resolved_conflicts",2025-03-10 14:08:36 -0600,2025-03-10 14:06:16 -0600,-0.04,bless-ui,Flavio Espinoza
+20,ca771145577823b778a045dc24b41035ea7849ad,2025-03-10 14:06:16 -0600,"removed_yarn_lock",2025-03-10 14:06:16 -0600,2025-03-10 13:52:35 -0600,-0.23,bless-ui,Flavio Espinoza
+21,f3123467c53b73aa0dda64f58f892518dfec151d,2025-03-10 13:52:35 -0600,"formatting",2025-03-10 13:52:35 -0600,2025-03-10 13:52:08 -0600,-0.01,bless-ui,Flavio Espinoza
+22,51fe6fe4bf5af38c368929c456106b3c4d9fe4e3,2025-03-10 13:52:08 -0600,"feat: update side-nav and page components to resize <main> when menu collapses or opens",2025-03-10 13:52:08 -0600,2025-03-10 13:24:04 -0600,-0.47,bless-ui,Flavio Espinoza
+23,7819d3b1ebca43a12826fa975efe381d8bd00dbf,2025-03-10 13:24:04 -0600,"feat: update side-nav, popover, and page components for improved navigation and popovers",2025-03-10 13:24:04 -0600,2025-03-10 11:51:02 -0600,-1.55,bless-ui,Flavio Espinoza
+24,f51888376e6a17663e71780c74d437b8cbeec2e0,2025-03-10 11:51:02 -0600,"Merge pull request #3 from blessnetwork/dependabot/npm_and_yarn/next-14.2.21",2025-03-10 11:51:02 -0600,2025-03-10 11:50:53 -0600,-0.00,bless-ui,Flavio Espinoza
+25,b60fe8f37a68500c4c3e2dea7d971d0142e978cd,2025-03-10 11:50:53 -0600,"Merge branch 'main' into dependabot/npm_and_yarn/next-14.2.21",2025-03-10 11:50:53 -0600,2025-03-10 11:49:59 -0600,-0.01,bless-ui,Flavio Espinoza
+26,5f1371e0334401714931b1dec087092913cfa8b6,2025-03-10 11:49:59 -0600,"Merge pull request #2 from blessnetwork/dependabot/npm_and_yarn/nanoid-3.3.8",2025-03-10 11:49:59 -0600,2025-03-10 11:49:46 -0600,-0.00,bless-ui,Flavio Espinoza
+27,41ee107c3f4518c272a8d6f8dc076db724768764,2025-03-10 11:49:46 -0600,"Merge pull request #1 from blessnetwork/dependabot/npm_and_yarn/marked-4.0.10",2025-03-10 11:49:46 -0600,2025-03-10 11:47:57 -0600,-0.03,bless-ui,Flavio Espinoza
+28,0e00e2c0413928e4f477fa0e1428b958c141b869,2025-03-10 11:47:57 -0600,"notes",2025-03-10 11:47:57 -0600,2025-03-07 18:19:09 -0700,-64.48,bless-ui,Flavio Espinoza
+29,0da3181c71087b6ea2174dd083b03464a2990f73,2025-03-07 18:19:09 -0700,"Added mobile header with side-nav toggle.",2025-03-07 18:19:09 -0700,2025-03-07 18:11:43 -0700,-0.12,bless-ui,Flavio Espinoza
+30,b11dc17aef53beb9bbcaaac02d98c564eb7b3007,2025-03-07 18:11:43 -0700,"Mobile header added.",2025-03-07 18:11:43 -0700,2025-03-07 17:51:29 -0700,-0.34,bless-ui,Flavio Espinoza
+31,deb2f9b3a8c5f152ba526047b6b43ee6d6bd25eb,2025-03-07 17:51:29 -0700,"Created fluid button with smooth transitions between large and small screens.",2025-03-07 17:51:29 -0700,2025-03-07 16:57:47 -0700,-0.90,bless-ui,Flavio Espinoza
+32,96c0c6768267dfddf45207dd5d3aaf08953a2087,2025-03-07 16:57:47 -0700,"Moved npm mods to devDependencies.",2025-03-07 16:57:47 -0700,2025-03-07 16:47:38 -0700,-0.17,bless-ui,Flavio Espinoza
+33,0ecaee86cca393a0690650c22f5a02918d03e9fb,2025-03-07 16:47:38 -0700,"Added prettier-tailwind-plugin which sorts classNames logically.",2025-03-07 16:47:38 -0700,2025-03-05 10:16:23 -0700,-54.52,bless-ui,Flavio Espinoza
+34,118a49c073bac2e404b193387da117010b9864af,2025-03-05 10:16:23 -0700,"formatting",2025-03-05 10:16:23 -0700,2025-03-05 10:12:18 -0700,-0.07,bless-ui,Flavio Espinoza
+35,3a4707f73eabe43168619878b3cdca1cfcde9934,2025-03-05 10:12:18 -0700,"Sidenav combined icon classes to function.",2025-03-05 10:12:18 -0700,2025-03-05 10:06:20 -0700,-0.10,bless-ui,Flavio Espinoza
+36,0155c7d0db4a939e82e32175630e5bf350bf214a,2025-03-05 10:06:20 -0700,"Sidenav combined icon classes to function.",2025-03-05 10:06:20 -0700,2025-03-05 08:38:45 -0700,-1.46,bless-ui,Flavio Espinoza
+37,ae197062c5b556792fca397865d19a4c34e24b18,2025-03-05 08:38:45 -0700,"Sidenav icon max size constrained to 40px",2025-03-05 08:38:45 -0700,2025-03-05 08:36:42 -0700,-0.03,bless-ui,Flavio Espinoza
+38,4cd6e075c6cfab9a006f2719b8d341e76fb55e1d,2025-03-05 08:36:42 -0700,"Popover component added for collapsed side-nav icons.",2025-03-05 08:36:42 -0700,2025-03-05 08:25:13 -0700,-0.19,bless-ui,Flavio Espinoza
+39,2584d3f6c1595fc208be77404c5ae09cc070b050,2025-03-05 08:25:13 -0700,"Sidenav icon max size constrained to 40px",2025-03-05 08:25:13 -0700,2025-03-05 07:58:22 -0700,-0.45,bless-ui,Flavio Espinoza
+40,d23901fa6408386a13d0b02a10721854aa599546,2025-03-05 07:58:22 -0700,"Sidenav icon and text size.",2025-03-05 07:58:22 -0700,2025-03-05 07:37:18 -0700,-0.35,bless-ui,Flavio Espinoza
+41,64bdb4d6de9aea299b34d5d21517f81688bc6e6a,2025-03-05 07:37:18 -0700,"Sidenav Icons and logo complete.",2025-03-05 07:37:18 -0700,2025-03-05 05:59:11 -0700,-1.64,bless-ui,Flavio Espinoza
+42,15fb963858e5e80f7636ff3a31af29979ffe54dd,2025-03-05 05:59:11 -0700,"Inter font implemented.",2025-03-05 05:59:11 -0700,2025-03-05 05:32:16 -0700,-0.45,bless-ui,Flavio Espinoza
+43,e58e74643a1c26c190bebc82d1e39d81462e2c69,2025-03-05 05:32:16 -0700,"New side-nav component with new colors.",2025-03-05 05:32:16 -0700,2025-02-19 14:33:34 -0700,-326.98,bless-ui,Flavio Espinoza
+44,1ae9a6c5896d4abdbbfebbfbe252939ead85bfc7,2025-02-19 14:33:34 -0700,"Changed getUserAchievementQuiz to use the User model. (#5)",2025-02-19 14:33:34 -0700,2025-02-19 10:17:27 -0700,-4.27,extension-aux,Flavio Espinoza
+45,45b7da8fed6e87595580c109f5c78711e846aa8e,2025-02-19 10:17:27 -0700,"Merge pull request #4 from blocklessnetwork/feature/include-quiz-passed-flag",2025-02-19 10:17:27 -0700,2025-02-18 02:56:05 -0700,-31.36,extension-aux,Flavio Espinoza
+46,c3f302a397e1d106ca44ab27cc5ade0f0003ac88,2025-02-18 02:56:05 -0700,"Feature/quiz verification (#1)",2025-02-18 02:56:05 -0700,2025-02-27 09:46:38 -0700,222.84,extension-aux,Flavio Espinoza
+47,e332b7842062c2ba12309bc1e9e9b07364170033,2025-02-27 09:46:38 -0700,"pull",2025-02-27 09:46:38 -0700,2025-02-27 09:45:59 -0700,-0.01,run-dashboard,Flavio Espinoza
+48,5444d0ca3dd7e9a86cdd6a177c08e72d6e775a6f,2025-02-27 09:45:59 -0700,"setSubmitted false if there is no captchaToken",2025-02-27 09:45:59 -0700,2025-02-25 14:06:05 -0700,-43.66,run-dashboard,Flavio Espinoza
+49,9269ce7eaa2130a5fe31d33f6d75b6343b4b7817,2025-02-25 14:06:05 -0700,"Update quizData.ts",2025-02-25 14:06:05 -0700,2025-02-19 11:19:08 -0700,-146.78,run-dashboard,Flavio Espinoza
+50,c3121a85ce2520e27bad72f1900b2f4bbff4a95f,2025-02-19 11:19:08 -0700,"Changed  isPassed to isAchievementQuizCompleted",2025-02-19 11:19:08 -0700,2025-02-19 10:32:09 -0700,-0.78,run-dashboard,Flavio Espinoza
+51,dedc6ea64e75f7fef3a2ffbd9309dbde5e5dc6da,2025-02-19 10:32:09 -0700,"merged_main",2025-02-19 10:32:09 -0700,2025-02-19 10:30:50 -0700,-0.02,run-dashboard,Flavio Espinoza
+52,2eed924ac7927cab299f4775fa00b29d8d61a12d,2025-02-19 10:30:50 -0700,"log",2025-02-19 10:30:50 -0700,2025-02-19 09:51:03 -0700,-0.66,run-dashboard,Flavio Espinoza
+53,82a79ea6a8b1ad5e682d869bf1e75298bf2e269b,2025-02-19 09:51:03 -0700,"removed_logs",2025-02-19 09:51:03 -0700,2025-02-18 04:57:24 -0700,-28.89,run-dashboard,Flavio Espinoza
+54,33ac7d7e10ee8c214ca46ae9f44054acb590a01c,2025-02-18 04:57:24 -0700,"fixed_checkbox",2025-02-18 04:57:24 -0700,2025-02-18 04:43:42 -0700,-0.23,run-dashboard,Flavio Espinoza
+55,c81aad1d2981a4a263cf09f54cd78635acbbb2b8,2025-02-18 04:43:42 -0700,"fixed_theme_on_modal",2025-02-18 04:43:42 -0700,2025-02-18 04:32:12 -0700,-0.19,run-dashboard,Flavio Espinoza
+56,808d4dab3d277831d25d66564b1a4d705c1e0c7f,2025-02-18 04:32:12 -0700,"fixed_theme_on_modal",2025-02-18 04:32:12 -0700,2025-02-17 11:24:58 -0700,-17.12,run-dashboard,Flavio Espinoza
+57,6cbbb1d6c8c3474cbf48a3895ac6c18f97a0f450,2025-02-17 11:24:58 -0700,"ready_for_review",2025-02-17 11:24:58 -0700,2025-02-17 11:22:51 -0700,-0.04,run-dashboard,Flavio Espinoza
+58,28170062cd83ff993bc67b5368ce343880a19a6b,2025-02-17 11:22:51 -0700,"changes_per_butain",2025-02-17 11:22:51 -0700,2025-02-17 11:01:56 -0700,-0.35,run-dashboard,Flavio Espinoza
+59,499f10a24f2718697fe28ba840649c8e99c44033,2025-02-17 11:01:56 -0700,"ready_for_review",2025-02-17 11:01:56 -0700,2025-02-17 10:53:43 -0700,-0.14,run-dashboard,Flavio Espinoza
+60,734bd54d7cbbb617db6e90becb48bb7113f7b0f6,2025-02-17 10:53:43 -0700,"recaptcha_token",2025-02-17 10:53:43 -0700,2025-03-04 07:39:48 -0700,356.77,run-dashboard,Flavio Espinoza
+61,79cf107087b667d8040ec4fa0e829a4cbadfa3ab,2025-03-04 07:39:48 -0700,"Merge pull request #493 from blocklessnetwork/snyk-fix-b90b0c329b7e719a892705901e8ed64e",2025-03-04 07:39:48 -0700,2025-03-04 07:39:48 -0700,0.00,web-console,Flavio Espinoza

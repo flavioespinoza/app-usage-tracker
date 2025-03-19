@@ -15,17 +15,28 @@ const exportData = (startDate, endDate, author) => {
 		return
 	}
 
-	const sessions = commits.map((commit, index) => ({
-		id: index + 1,
-		commit: commit.commit,
-		commitDate: commit.commitDate,
-		message: commit.message,
-		sessionStart: commit.commitDate,
-		sessionEnd: commit.commitDate,
-		durationHours: '0.5',
-		repo: commit.repo,
-		author: commit.commitAuthor
-	}))
+	const calculateDurationHours = (sessionStart, sessionEnd) => {
+		const start = new Date(sessionStart)
+		const end = new Date(sessionEnd)
+		return ((end - start) / (1000 * 60 * 60)).toFixed(2) // Convert milliseconds to hours
+	}
+
+	const sessions = commits.map((commit, index, arr) => {
+		const nextCommit = arr[index + 1]
+		const sessionEnd = nextCommit ? nextCommit.commitDate : commit.commitDate // End of session is next commit time
+
+		return {
+			id: index + 1,
+			commit: commit.commit,
+			commitDate: commit.commitDate,
+			message: commit.message,
+			sessionStart: commit.commitDate,
+			sessionEnd: sessionEnd,
+			durationHours: calculateDurationHours(commit.commitDate, sessionEnd),
+			repo: commit.repo,
+			author: commit.commitAuthor
+		}
+	})
 
 	const fileName = `active_usage_${startDate}_to_${endDate}`
 	const jsonPath = path.join(REPORTS_DIR, `${fileName}.json`)
