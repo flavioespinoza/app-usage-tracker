@@ -1,0 +1,19 @@
+{
+	"name": "app-usage-tracker",
+	"version": "1.0.0",
+	"description": "A CLI tool to track VS Code and Chrome usage and generate JSON/CSV reports",
+	"main": "index.js",
+	"scripts": {
+		"track": "node src/index.js",
+		"format": "prettier --write .",
+		"tree": "tree_me"
+	},
+	"dependencies": {
+		"date-fns": "^4.1.0"
+	},
+	"devDependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^5.2.2",
+		"prettier": "^3.5.3",
+		"prettier-plugin-tailwindcss": "^0.6.11"
+	}
+}
