@@ -100,4 +100,8 @@ yarn track 2025-02-17 2025-03-16 --author "Flavio Espinoza"
 
 
 
-yarn track 02/17/2025 03/16/2025
+yarn track 02/17/2025 03/16/2025 --author flavioespinoza
+
+
+
+yarn track 02/17/2025 03/16/2025 --author "Flavio Espinoza" --author "flavioespinoza"
