@@ -1,52 +1,64 @@
-const fs = require('fs')
-const path = require('path')
-const {
-	getCommitInfo,
-	getSessionDuration,
-	generateSessionId,
-	formatCommitMessageForGitHub
-} = require('./utils')
+const fs = require('fs');
+const path = require('path');
+const {   } = require('./utils');
 
-const REPORTS_DIR = path.join(__dirname, '../reports')
-if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR)
-
-const SESSIONS_FILE = path.join(__dirname, 'sessions.json')
-let sessions = fs.existsSync(SESSIONS_FILE) ? JSON.parse(fs.readFileSync(SESSIONS_FILE)) : []
+const REPORTS_DIR = path.join(__dirname, '../reports');
+if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR);
 
 const exportData = (startDate, endDate, author) => {
-	const start = new Date(startDate)
-	const end = new Date(endDate)
+    console.log(`🔍 Fetching commits for ${author} from ${startDate} to ${endDate}...`);
 
-	const filteredSessions = sessions.filter(({ commitDate, author: sessionAuthor }) => {
-		const sessionDate = new Date(commitDate)
-		return (
-			sessionDate >= start &&
-			sessionDate <= end &&
-			(!author || sessionAuthor.toLowerCase() === author.toLowerCase())
-		)
-	})
+    // Fetch commit data from Git
+    const commits = getCommitInfo(startDate, endDate, author);
 
-	if (filteredSessions.length === 0) {
-		console.log('⚠️ No data found for the given date range and author.')
-		return
-	}
+    if (commits.length === 0) {
+        console.log('⚠️ No commits found for the given date range and author.');
+        return;
+    }
 
-	const fileName = `active_usage_${startDate}_to_${endDate}`
-	const mdPath = path.join(REPORTS_DIR, `${fileName}.md`)
+    // Transform commit data into session format
+    const sessions = commits.map((commit, index) => ({
+        id: index + 1,
+        commit: commit.commit,
+        commitDate: commit.commitDate,
+        message: commit.message,
+        sessionStart: commit.commitDate, // Placeholder: Adjust if session data is available
+        sessionEnd: commit.commitDate,   // Placeholder: Adjust if session data is available
+        durationHours: "0.5",  // Placeholder: Need real duration logic
+        repo: commit.repo,
+        author: commit.commitAuthor
+    }));
 
-	const mdContent = formatCommitMessageForGitHub(filteredSessions, startDate, endDate)
-	fs.writeFileSync(mdPath, mdContent)
+    // Generate file names
+    const fileName = `active_usage_${startDate}_to_${endDate}`;
+    const jsonPath = path.join(REPORTS_DIR, `${fileName}.json`);
+    const csvPath = path.join(REPORTS_DIR, `${fileName}.csv`);
 
-	console.log(`📁 Saved GitHub Markdown: ${mdPath}`)
-}
+    // Save JSON
+    fs.writeFileSync(jsonPath, JSON.stringify(sessions, null, 2));
 
-const command = process.argv[2]
+    // Save CSV
+    const csvData = [
+        'id,commit,commitDate,message,sessionStart,sessionEnd,durationHours,repo,author',
+        ...sessions.map(({ id, commit, commitDate, message, sessionStart, sessionEnd, durationHours, repo, author }) =>
+            `${id},${commit},${commitDate},"${message}",${sessionStart},${sessionEnd},${durationHours},${repo},${author}`
+        )
+    ].join('\n');
+
+    fs.writeFileSync(csvPath, csvData);
+
+    console.log(`📁 Saved JSON: ${jsonPath}`);
+    console.log(`📁 Saved CSV: ${csvPath}`);
+};
+
+// CLI Command Handling
+const command = process.argv[2];
 if (command === 'export' && process.argv.length >= 5) {
-	const startDate = process.argv[3]
-	const endDate = process.argv[4]
-	const authorArgIndex = process.argv.indexOf('--author')
-	const author = authorArgIndex !== -1 ? process.argv[authorArgIndex + 1] : null
-	exportData(startDate, endDate, author)
+    const startDate = process.argv[3];
+    const endDate = process.argv[4];
+    const authorArgIndex = process.argv.indexOf('--author');
+    const author = authorArgIndex !== -1 ? process.argv[authorArgIndex + 1] : null;
+    exportData(startDate, endDate, author);
 } else {
-	console.log('Usage: node src/index.js export YYYY-MM-DD YYYY-MM-DD --author AUTHOR')
+    console.log('Usage: node src/index.js export YYYY-MM-DD YYYY-MM-DD --author AUTHOR');
 }
