@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const {   } = require('./utils');
+const { getCommitInfo } = require('./utils');
 
 const REPORTS_DIR = path.join(__dirname, '../reports');
 if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR);
