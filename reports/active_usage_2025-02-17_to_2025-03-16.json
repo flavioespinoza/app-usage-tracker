@@ -6,7 +6,7 @@
     "message": "removed_unused",
     "sessionStart": "2025-02-23 09:02:59 -0700",
     "sessionEnd": "2025-02-23 08:58:34 -0700",
-    "durationHours": "-0.07",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -17,7 +17,7 @@
     "message": "enter otp and goodbye components refactored.",
     "sessionStart": "2025-02-23 08:58:34 -0700",
     "sessionEnd": "2025-02-23 08:39:26 -0700",
-    "durationHours": "-0.32",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -28,7 +28,7 @@
     "message": "dark_light_mode",
     "sessionStart": "2025-02-23 08:39:26 -0700",
     "sessionEnd": "2025-02-19 16:56:39 -0700",
-    "durationHours": "-87.71",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -39,7 +39,7 @@
     "message": "title",
     "sessionStart": "2025-02-19 16:56:39 -0700",
     "sessionEnd": "2025-02-19 16:42:12 -0700",
-    "durationHours": "-0.24",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -50,7 +50,7 @@
     "message": "removed_unused",
     "sessionStart": "2025-02-19 16:42:12 -0700",
     "sessionEnd": "2025-02-19 16:34:26 -0700",
-    "durationHours": "-0.13",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -61,7 +61,7 @@
     "message": "formatting",
     "sessionStart": "2025-02-19 16:34:26 -0700",
     "sessionEnd": "2025-02-19 16:30:37 -0700",
-    "durationHours": "-0.06",
+    "durationHours": 0,
     "repo": "bless-auth",
     "author": "Flavio Espinoza"
   },
@@ -83,7 +83,7 @@
     "message": "Merge pull request #5 from blessnetwork/dependabot/npm_and_yarn/prismjs-1.30.0",
     "sessionStart": "2025-03-14 18:03:28 -0600",
     "sessionEnd": "2025-03-13 13:40:36 -0600",
-    "durationHours": "-28.38",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -94,7 +94,7 @@
     "message": "fix: Sidenav not collapsing on desktop.",
     "sessionStart": "2025-03-13 13:40:36 -0600",
     "sessionEnd": "2025-03-11 13:53:50 -0600",
-    "durationHours": "-47.78",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -105,7 +105,7 @@
     "message": "header_in_progress",
     "sessionStart": "2025-03-11 13:53:50 -0600",
     "sessionEnd": "2025-03-11 12:06:21 -0600",
-    "durationHours": "-1.79",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -116,7 +116,7 @@
     "message": "Fixed collapse error.",
     "sessionStart": "2025-03-11 12:06:21 -0600",
     "sessionEnd": "2025-03-11 11:54:58 -0600",
-    "durationHours": "-0.19",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -127,7 +127,7 @@
     "message": "Fixed collapse error.",
     "sessionStart": "2025-03-11 11:54:58 -0600",
     "sessionEnd": "2025-03-11 11:47:31 -0600",
-    "durationHours": "-0.12",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -138,7 +138,7 @@
     "message": "Merge branch 'main' of https://github.com/blocklessnetwork/bless-ui into main",
     "sessionStart": "2025-03-11 11:47:31 -0600",
     "sessionEnd": "2025-03-11 11:46:13 -0600",
-    "durationHours": "-0.02",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -149,7 +149,7 @@
     "message": "main",
     "sessionStart": "2025-03-11 11:46:13 -0600",
     "sessionEnd": "2025-03-11 10:39:30 -0600",
-    "durationHours": "-1.11",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -160,7 +160,7 @@
     "message": "Create nextjs.yml",
     "sessionStart": "2025-03-11 10:39:30 -0600",
     "sessionEnd": "2025-03-11 10:18:04 -0600",
-    "durationHours": "-0.36",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -171,7 +171,7 @@
     "message": "Update docs.yml",
     "sessionStart": "2025-03-11 10:18:04 -0600",
     "sessionEnd": "2025-03-11 09:49:38 -0600",
-    "durationHours": "-0.47",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -182,7 +182,7 @@
     "message": "Merge pull request #4 from blessnetwork/highlight",
     "sessionStart": "2025-03-11 09:49:38 -0600",
     "sessionEnd": "2025-03-10 14:10:47 -0600",
-    "durationHours": "-19.65",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -193,7 +193,7 @@
     "message": "fresh_yarn_lock",
     "sessionStart": "2025-03-10 14:10:47 -0600",
     "sessionEnd": "2025-03-10 14:08:36 -0600",
-    "durationHours": "-0.04",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -204,7 +204,7 @@
     "message": "resolved_conflicts",
     "sessionStart": "2025-03-10 14:08:36 -0600",
     "sessionEnd": "2025-03-10 14:06:16 -0600",
-    "durationHours": "-0.04",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -215,7 +215,7 @@
     "message": "removed_yarn_lock",
     "sessionStart": "2025-03-10 14:06:16 -0600",
     "sessionEnd": "2025-03-10 13:52:35 -0600",
-    "durationHours": "-0.23",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -226,7 +226,7 @@
     "message": "formatting",
     "sessionStart": "2025-03-10 13:52:35 -0600",
     "sessionEnd": "2025-03-10 13:52:08 -0600",
-    "durationHours": "-0.01",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -237,7 +237,7 @@
     "message": "feat: update side-nav and page components to resize <main> when menu collapses or opens",
     "sessionStart": "2025-03-10 13:52:08 -0600",
     "sessionEnd": "2025-03-10 13:24:04 -0600",
-    "durationHours": "-0.47",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -248,7 +248,7 @@
     "message": "feat: update side-nav, popover, and page components for improved navigation and popovers",
     "sessionStart": "2025-03-10 13:24:04 -0600",
     "sessionEnd": "2025-03-10 11:51:02 -0600",
-    "durationHours": "-1.55",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -259,7 +259,7 @@
     "message": "Merge pull request #3 from blessnetwork/dependabot/npm_and_yarn/next-14.2.21",
     "sessionStart": "2025-03-10 11:51:02 -0600",
     "sessionEnd": "2025-03-10 11:50:53 -0600",
-    "durationHours": "-0.00",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -270,7 +270,7 @@
     "message": "Merge branch 'main' into dependabot/npm_and_yarn/next-14.2.21",
     "sessionStart": "2025-03-10 11:50:53 -0600",
     "sessionEnd": "2025-03-10 11:49:59 -0600",
-    "durationHours": "-0.01",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -281,7 +281,7 @@
     "message": "Merge pull request #2 from blessnetwork/dependabot/npm_and_yarn/nanoid-3.3.8",
     "sessionStart": "2025-03-10 11:49:59 -0600",
     "sessionEnd": "2025-03-10 11:49:46 -0600",
-    "durationHours": "-0.00",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -292,7 +292,7 @@
     "message": "Merge pull request #1 from blessnetwork/dependabot/npm_and_yarn/marked-4.0.10",
     "sessionStart": "2025-03-10 11:49:46 -0600",
     "sessionEnd": "2025-03-10 11:47:57 -0600",
-    "durationHours": "-0.03",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -303,7 +303,7 @@
     "message": "notes",
     "sessionStart": "2025-03-10 11:47:57 -0600",
     "sessionEnd": "2025-03-07 18:19:09 -0700",
-    "durationHours": "-64.48",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -314,7 +314,7 @@
     "message": "Added mobile header with side-nav toggle.",
     "sessionStart": "2025-03-07 18:19:09 -0700",
     "sessionEnd": "2025-03-07 18:11:43 -0700",
-    "durationHours": "-0.12",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -325,7 +325,7 @@
     "message": "Mobile header added.",
     "sessionStart": "2025-03-07 18:11:43 -0700",
     "sessionEnd": "2025-03-07 17:51:29 -0700",
-    "durationHours": "-0.34",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -336,7 +336,7 @@
     "message": "Created fluid button with smooth transitions between large and small screens.",
     "sessionStart": "2025-03-07 17:51:29 -0700",
     "sessionEnd": "2025-03-07 16:57:47 -0700",
-    "durationHours": "-0.90",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -347,7 +347,7 @@
     "message": "Moved npm mods to devDependencies.",
     "sessionStart": "2025-03-07 16:57:47 -0700",
     "sessionEnd": "2025-03-07 16:47:38 -0700",
-    "durationHours": "-0.17",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -358,7 +358,7 @@
     "message": "Added prettier-tailwind-plugin which sorts classNames logically.",
     "sessionStart": "2025-03-07 16:47:38 -0700",
     "sessionEnd": "2025-03-05 10:16:23 -0700",
-    "durationHours": "-54.52",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -369,7 +369,7 @@
     "message": "formatting",
     "sessionStart": "2025-03-05 10:16:23 -0700",
     "sessionEnd": "2025-03-05 10:12:18 -0700",
-    "durationHours": "-0.07",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -380,7 +380,7 @@
     "message": "Sidenav combined icon classes to function.",
     "sessionStart": "2025-03-05 10:12:18 -0700",
     "sessionEnd": "2025-03-05 10:06:20 -0700",
-    "durationHours": "-0.10",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -391,7 +391,7 @@
     "message": "Sidenav combined icon classes to function.",
     "sessionStart": "2025-03-05 10:06:20 -0700",
     "sessionEnd": "2025-03-05 08:38:45 -0700",
-    "durationHours": "-1.46",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -402,7 +402,7 @@
     "message": "Sidenav icon max size constrained to 40px",
     "sessionStart": "2025-03-05 08:38:45 -0700",
     "sessionEnd": "2025-03-05 08:36:42 -0700",
-    "durationHours": "-0.03",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -413,7 +413,7 @@
     "message": "Popover component added for collapsed side-nav icons.",
     "sessionStart": "2025-03-05 08:36:42 -0700",
     "sessionEnd": "2025-03-05 08:25:13 -0700",
-    "durationHours": "-0.19",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -424,7 +424,7 @@
     "message": "Sidenav icon max size constrained to 40px",
     "sessionStart": "2025-03-05 08:25:13 -0700",
     "sessionEnd": "2025-03-05 07:58:22 -0700",
-    "durationHours": "-0.45",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -435,7 +435,7 @@
     "message": "Sidenav icon and text size.",
     "sessionStart": "2025-03-05 07:58:22 -0700",
     "sessionEnd": "2025-03-05 07:37:18 -0700",
-    "durationHours": "-0.35",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -446,7 +446,7 @@
     "message": "Sidenav Icons and logo complete.",
     "sessionStart": "2025-03-05 07:37:18 -0700",
     "sessionEnd": "2025-03-05 05:59:11 -0700",
-    "durationHours": "-1.64",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -457,7 +457,7 @@
     "message": "Inter font implemented.",
     "sessionStart": "2025-03-05 05:59:11 -0700",
     "sessionEnd": "2025-03-05 05:32:16 -0700",
-    "durationHours": "-0.45",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -468,7 +468,7 @@
     "message": "New side-nav component with new colors.",
     "sessionStart": "2025-03-05 05:32:16 -0700",
     "sessionEnd": "2025-02-19 14:33:34 -0700",
-    "durationHours": "-326.98",
+    "durationHours": 0,
     "repo": "bless-ui",
     "author": "Flavio Espinoza"
   },
@@ -479,7 +479,7 @@
     "message": "Changed getUserAchievementQuiz to use the User model. (#5)",
     "sessionStart": "2025-02-19 14:33:34 -0700",
     "sessionEnd": "2025-02-19 10:17:27 -0700",
-    "durationHours": "-4.27",
+    "durationHours": 0,
     "repo": "extension-aux",
     "author": "Flavio Espinoza"
   },
@@ -490,7 +490,7 @@
     "message": "Merge pull request #4 from blocklessnetwork/feature/include-quiz-passed-flag",
     "sessionStart": "2025-02-19 10:17:27 -0700",
     "sessionEnd": "2025-02-18 02:56:05 -0700",
-    "durationHours": "-31.36",
+    "durationHours": 0,
     "repo": "extension-aux",
     "author": "Flavio Espinoza"
   },
@@ -512,7 +512,7 @@
     "message": "pull",
     "sessionStart": "2025-02-27 09:46:38 -0700",
     "sessionEnd": "2025-02-27 09:45:59 -0700",
-    "durationHours": "-0.01",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -523,7 +523,7 @@
     "message": "setSubmitted false if there is no captchaToken",
     "sessionStart": "2025-02-27 09:45:59 -0700",
     "sessionEnd": "2025-02-25 14:06:05 -0700",
-    "durationHours": "-43.66",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -534,7 +534,7 @@
     "message": "Update quizData.ts",
     "sessionStart": "2025-02-25 14:06:05 -0700",
     "sessionEnd": "2025-02-19 11:19:08 -0700",
-    "durationHours": "-146.78",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -545,7 +545,7 @@
     "message": "Changed  isPassed to isAchievementQuizCompleted",
     "sessionStart": "2025-02-19 11:19:08 -0700",
     "sessionEnd": "2025-02-19 10:32:09 -0700",
-    "durationHours": "-0.78",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -556,7 +556,7 @@
     "message": "merged_main",
     "sessionStart": "2025-02-19 10:32:09 -0700",
     "sessionEnd": "2025-02-19 10:30:50 -0700",
-    "durationHours": "-0.02",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -567,7 +567,7 @@
     "message": "log",
     "sessionStart": "2025-02-19 10:30:50 -0700",
     "sessionEnd": "2025-02-19 09:51:03 -0700",
-    "durationHours": "-0.66",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -578,7 +578,7 @@
     "message": "removed_logs",
     "sessionStart": "2025-02-19 09:51:03 -0700",
     "sessionEnd": "2025-02-18 04:57:24 -0700",
-    "durationHours": "-28.89",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -589,7 +589,7 @@
     "message": "fixed_checkbox",
     "sessionStart": "2025-02-18 04:57:24 -0700",
     "sessionEnd": "2025-02-18 04:43:42 -0700",
-    "durationHours": "-0.23",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -600,7 +600,7 @@
     "message": "fixed_theme_on_modal",
     "sessionStart": "2025-02-18 04:43:42 -0700",
     "sessionEnd": "2025-02-18 04:32:12 -0700",
-    "durationHours": "-0.19",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -611,7 +611,7 @@
     "message": "fixed_theme_on_modal",
     "sessionStart": "2025-02-18 04:32:12 -0700",
     "sessionEnd": "2025-02-17 11:24:58 -0700",
-    "durationHours": "-17.12",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -622,7 +622,7 @@
     "message": "ready_for_review",
     "sessionStart": "2025-02-17 11:24:58 -0700",
     "sessionEnd": "2025-02-17 11:22:51 -0700",
-    "durationHours": "-0.04",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -633,7 +633,7 @@
     "message": "changes_per_butain",
     "sessionStart": "2025-02-17 11:22:51 -0700",
     "sessionEnd": "2025-02-17 11:01:56 -0700",
-    "durationHours": "-0.35",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -644,7 +644,7 @@
     "message": "ready_for_review",
     "sessionStart": "2025-02-17 11:01:56 -0700",
     "sessionEnd": "2025-02-17 10:53:43 -0700",
-    "durationHours": "-0.14",
+    "durationHours": 0,
     "repo": "run-dashboard",
     "author": "Flavio Espinoza"
   },
@@ -666,7 +666,7 @@
     "message": "Merge pull request #493 from blocklessnetwork/snyk-fix-b90b0c329b7e719a892705901e8ed64e",
     "sessionStart": "2025-03-04 07:39:48 -0700",
     "sessionEnd": "2025-03-04 07:39:48 -0700",
-    "durationHours": "0.00",
+    "durationHours": 0,
     "repo": "web-console",
     "author": "Flavio Espinoza"
   }

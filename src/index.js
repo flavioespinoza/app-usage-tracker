@@ -15,16 +15,26 @@ const exportData = (startDate, endDate, author) => {
 		return
 	}
 
+
+
 	const calculateDurationHours = (sessionStart, sessionEnd) => {
 		const start = new Date(sessionStart)
 		const end = new Date(sessionEnd)
+	
+		// Ensure we don't get negative durations
+		if (end <= start) return 0
+	
 		return ((end - start) / (1000 * 60 * 60)).toFixed(2) // Convert milliseconds to hours
 	}
-
+	
 	const sessions = commits.map((commit, index, arr) => {
-		const nextCommit = arr[index + 1]
-		const sessionEnd = nextCommit ? nextCommit.commitDate : commit.commitDate // End of session is next commit time
-
+		let sessionEnd = commit.commitDate // Default to itself
+	
+		// If there is a next commit, set sessionEnd to the next commit's timestamp
+		if (index < arr.length - 1) {
+			sessionEnd = arr[index + 1].commitDate
+		}
+	
 		return {
 			id: index + 1,
 			commit: commit.commit,
@@ -37,6 +47,9 @@ const exportData = (startDate, endDate, author) => {
 			author: commit.commitAuthor
 		}
 	})
+	
+
+
 
 	const fileName = `active_usage_${startDate}_to_${endDate}`
 	const jsonPath = path.join(REPORTS_DIR, `${fileName}.json`)
